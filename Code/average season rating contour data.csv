@@ -1,0 +1,5044 @@
+,Show,Season,Rating
+0,Friends,1,8.3
+1,Friends,1,8.0
+2,Friends,1,8.2
+3,Friends,1,8.1
+4,Friends,1,8.5
+5,Friends,1,8.1
+6,Friends,1,9.0
+7,Friends,1,8.1
+8,Friends,1,8.2
+9,Friends,1,8.1
+10,Friends,1,8.2
+11,Friends,1,8.2
+12,Friends,1,8.7
+13,Friends,1,8.3
+14,Friends,1,8.2
+15,Friends,1,8.1
+16,Friends,1,8.5
+17,Friends,1,8.8
+18,Friends,1,8.1
+19,Friends,1,7.9
+20,Friends,1,7.9
+21,Friends,1,8.3
+22,Friends,1,8.7
+23,Friends,1,8.9
+24,Friends,2,8.5
+25,Friends,2,8.2
+26,Friends,2,8.4
+27,Friends,2,8.0
+28,Friends,2,8.3
+29,Friends,2,8.6
+30,Friends,2,9.0
+31,Friends,2,8.5
+32,Friends,2,8.0
+33,Friends,2,8.0
+34,Friends,2,8.1
+35,Friends,2,8.6
+36,Friends,2,8.8
+37,Friends,2,9.4
+38,Friends,2,8.9
+39,Friends,2,8.6
+40,Friends,2,8.3
+41,Friends,2,8.5
+42,Friends,2,8.5
+43,Friends,2,8.2
+44,Friends,2,8.2
+45,Friends,2,9.0
+46,Friends,2,8.1
+47,Friends,2,8.2
+48,Friends,3,8.4
+49,Friends,3,9.0
+50,Friends,3,8.1
+51,Friends,3,8.1
+52,Friends,3,8.1
+53,Friends,3,9.1
+54,Friends,3,8.3
+55,Friends,3,8.4
+56,Friends,3,9.0
+57,Friends,3,8.1
+58,Friends,3,8.6
+59,Friends,3,8.2
+60,Friends,3,8.2
+61,Friends,3,7.8
+62,Friends,3,8.5
+63,Friends,3,9.1
+64,Friends,3,8.3
+65,Friends,3,8.4
+66,Friends,3,8.2
+67,Friends,3,8.1
+68,Friends,3,8.7
+69,Friends,3,8.2
+70,Friends,3,8.1
+71,Friends,3,8.1
+72,Friends,3,8.8
+73,Friends,4,9.1
+74,Friends,4,8.1
+75,Friends,4,8.5
+76,Friends,4,8.2
+77,Friends,4,8.4
+78,Friends,4,8.5
+79,Friends,4,8.7
+80,Friends,4,9.1
+81,Friends,4,7.9
+82,Friends,4,8.0
+83,Friends,4,8.5
+84,Friends,4,9.5
+85,Friends,4,8.2
+86,Friends,4,8.2
+87,Friends,4,8.5
+88,Friends,4,8.2
+89,Friends,4,8.6
+90,Friends,4,8.3
+91,Friends,4,8.7
+92,Friends,4,8.5
+93,Friends,4,7.2
+94,Friends,4,8.5
+95,Friends,4,8.7
+96,Friends,4,9.2
+97,Friends,5,8.9
+98,Friends,5,9.0
+99,Friends,5,8.8
+100,Friends,5,8.3
+101,Friends,5,8.7
+102,Friends,5,8.0
+103,Friends,5,8.4
+104,Friends,5,9.2
+105,Friends,5,9.1
+106,Friends,5,8.2
+107,Friends,5,9.1
+108,Friends,5,8.3
+109,Friends,5,8.1
+110,Friends,5,9.7
+111,Friends,5,8.5
+112,Friends,5,8.6
+113,Friends,5,8.5
+114,Friends,5,8.0
+115,Friends,5,8.7
+116,Friends,5,8.3
+117,Friends,5,8.5
+118,Friends,5,8.3
+119,Friends,5,8.8
+120,Friends,5,9.1
+121,Friends,6,8.7
+122,Friends,6,8.2
+123,Friends,6,8.2
+124,Friends,6,8.5
+125,Friends,6,8.2
+126,Friends,6,8.5
+127,Friends,6,8.4
+128,Friends,6,8.5
+129,Friends,6,9.2
+130,Friends,6,8.6
+131,Friends,6,8.1
+132,Friends,6,8.0
+133,Friends,6,8.2
+134,Friends,6,8.6
+135,Friends,6,8.5
+136,Friends,6,8.5
+137,Friends,6,9.1
+138,Friends,6,8.3
+139,Friends,6,8.3
+140,Friends,6,7.4
+141,Friends,6,8.6
+142,Friends,6,9.0
+143,Friends,6,8.6
+144,Friends,6,8.8
+145,Friends,6,9.3
+146,Friends,7,8.4
+147,Friends,7,8.3
+148,Friends,7,8.1
+149,Friends,7,8.1
+150,Friends,7,8.1
+151,Friends,7,8.9
+152,Friends,7,8.5
+153,Friends,7,8.2
+154,Friends,7,8.1
+155,Friends,7,8.5
+156,Friends,7,8.6
+157,Friends,7,8.7
+158,Friends,7,8.4
+159,Friends,7,8.6
+160,Friends,7,8.4
+161,Friends,7,8.7
+162,Friends,7,8.4
+163,Friends,7,8.4
+164,Friends,7,8.7
+165,Friends,7,8.4
+166,Friends,7,7.4
+167,Friends,7,8.4
+168,Friends,7,8.9
+169,Friends,7,9.2
+170,Friends,8,8.7
+171,Friends,8,9.1
+172,Friends,8,8.7
+173,Friends,8,9.3
+174,Friends,8,8.1
+175,Friends,8,8.5
+176,Friends,8,7.9
+177,Friends,8,8.8
+178,Friends,8,9.3
+179,Friends,8,8.1
+180,Friends,8,8.0
+181,Friends,8,8.6
+182,Friends,8,8.6
+183,Friends,8,8.2
+184,Friends,8,8.4
+185,Friends,8,8.3
+186,Friends,8,8.1
+187,Friends,8,8.2
+188,Friends,8,7.5
+189,Friends,8,8.2
+190,Friends,8,8.2
+191,Friends,8,8.3
+192,Friends,8,8.8
+193,Friends,8,8.9
+194,The Big Bang Theory,1,8.3
+195,The Big Bang Theory,1,8.3
+196,The Big Bang Theory,1,7.8
+197,The Big Bang Theory,1,8.2
+198,The Big Bang Theory,1,8.0
+199,The Big Bang Theory,1,8.5
+200,The Big Bang Theory,1,8.2
+201,The Big Bang Theory,1,8.3
+202,The Big Bang Theory,1,8.1
+203,The Big Bang Theory,1,8.1
+204,The Big Bang Theory,1,8.3
+205,The Big Bang Theory,1,8.0
+206,The Big Bang Theory,1,8.4
+207,The Big Bang Theory,1,8.1
+208,The Big Bang Theory,1,8.3
+209,The Big Bang Theory,1,8.4
+210,The Big Bang Theory,1,8.6
+211,The Big Bang Theory,2,8.3
+212,The Big Bang Theory,2,8.1
+213,The Big Bang Theory,2,8.8
+214,The Big Bang Theory,2,8.0
+215,The Big Bang Theory,2,8.4
+216,The Big Bang Theory,2,8.3
+217,The Big Bang Theory,2,8.7
+218,The Big Bang Theory,2,8.2
+219,The Big Bang Theory,2,8.2
+220,The Big Bang Theory,2,7.8
+221,The Big Bang Theory,2,9.2
+222,The Big Bang Theory,2,8.0
+223,The Big Bang Theory,2,8.1
+224,The Big Bang Theory,2,8.1
+225,The Big Bang Theory,2,8.9
+226,The Big Bang Theory,2,8.2
+227,The Big Bang Theory,2,8.2
+228,The Big Bang Theory,2,8.2
+229,The Big Bang Theory,2,8.3
+230,The Big Bang Theory,2,8.0
+231,The Big Bang Theory,2,8.6
+232,The Big Bang Theory,2,8.3
+233,The Big Bang Theory,2,8.4
+234,The Big Bang Theory,3,8.4
+235,The Big Bang Theory,3,7.9
+236,The Big Bang Theory,3,8.2
+237,The Big Bang Theory,3,8.1
+238,The Big Bang Theory,3,8.4
+239,The Big Bang Theory,3,7.6
+240,The Big Bang Theory,3,7.9
+241,The Big Bang Theory,3,9.0
+242,The Big Bang Theory,3,8.4
+243,The Big Bang Theory,3,8.6
+244,The Big Bang Theory,3,8.4
+245,The Big Bang Theory,3,8.4
+246,The Big Bang Theory,3,8.1
+247,The Big Bang Theory,3,8.5
+248,The Big Bang Theory,3,8.1
+249,The Big Bang Theory,3,8.4
+250,The Big Bang Theory,3,8.5
+251,The Big Bang Theory,3,8.5
+252,The Big Bang Theory,3,8.0
+253,The Big Bang Theory,3,8.2
+254,The Big Bang Theory,3,8.2
+255,The Big Bang Theory,3,9.1
+256,The Big Bang Theory,3,8.7
+257,The Big Bang Theory,4,8.8
+258,The Big Bang Theory,4,8.5
+259,The Big Bang Theory,4,8.1
+260,The Big Bang Theory,4,8.1
+261,The Big Bang Theory,4,7.8
+262,The Big Bang Theory,4,8.1
+263,The Big Bang Theory,4,8.1
+264,The Big Bang Theory,4,8.2
+265,The Big Bang Theory,4,8.5
+266,The Big Bang Theory,4,7.8
+267,The Big Bang Theory,4,8.7
+268,The Big Bang Theory,4,7.7
+269,The Big Bang Theory,4,8.3
+270,The Big Bang Theory,4,7.9
+271,The Big Bang Theory,4,7.8
+272,The Big Bang Theory,4,8.0
+273,The Big Bang Theory,4,8.0
+274,The Big Bang Theory,4,8.2
+275,The Big Bang Theory,4,8.1
+276,The Big Bang Theory,4,8.3
+277,The Big Bang Theory,4,8.3
+278,The Big Bang Theory,4,7.9
+279,The Big Bang Theory,4,8.1
+280,The Big Bang Theory,4,8.6
+281,The Big Bang Theory,5,8.1
+282,The Big Bang Theory,5,8.1
+283,The Big Bang Theory,5,7.8
+284,The Big Bang Theory,5,8.0
+285,The Big Bang Theory,5,8.1
+286,The Big Bang Theory,5,7.7
+287,The Big Bang Theory,5,8.6
+288,The Big Bang Theory,5,7.7
+289,The Big Bang Theory,5,8.2
+290,The Big Bang Theory,5,8.0
+291,The Big Bang Theory,5,7.4
+292,The Big Bang Theory,5,7.7
+293,The Big Bang Theory,5,8.2
+294,The Big Bang Theory,5,8.3
+295,The Big Bang Theory,5,7.8
+296,The Big Bang Theory,5,7.7
+297,The Big Bang Theory,5,7.9
+298,The Big Bang Theory,5,8.3
+299,The Big Bang Theory,5,8.2
+300,The Big Bang Theory,5,8.2
+301,The Big Bang Theory,5,8.6
+302,The Big Bang Theory,5,7.8
+303,The Big Bang Theory,5,8.2
+304,The Big Bang Theory,5,8.6
+305,The Big Bang Theory,6,7.7
+306,The Big Bang Theory,6,7.7
+307,The Big Bang Theory,6,8.1
+308,The Big Bang Theory,6,8.3
+309,The Big Bang Theory,6,8.1
+310,The Big Bang Theory,6,7.9
+311,The Big Bang Theory,6,7.7
+312,The Big Bang Theory,6,8.5
+313,The Big Bang Theory,6,8.3
+314,The Big Bang Theory,6,8.1
+315,The Big Bang Theory,6,7.9
+316,The Big Bang Theory,6,8.5
+317,The Big Bang Theory,6,8.5
+318,The Big Bang Theory,6,7.9
+319,The Big Bang Theory,6,8.3
+320,The Big Bang Theory,6,8.0
+321,The Big Bang Theory,6,7.7
+322,The Big Bang Theory,6,7.8
+323,The Big Bang Theory,6,8.1
+324,The Big Bang Theory,6,8.1
+325,The Big Bang Theory,6,8.1
+326,The Big Bang Theory,6,8.0
+327,The Big Bang Theory,6,8.1
+328,The Big Bang Theory,6,7.8
+329,The Big Bang Theory,7,7.9
+330,The Big Bang Theory,7,8.1
+331,The Big Bang Theory,7,8.8
+332,The Big Bang Theory,7,8.0
+333,The Big Bang Theory,7,7.7
+334,The Big Bang Theory,7,8.5
+335,The Big Bang Theory,7,7.8
+336,The Big Bang Theory,7,7.6
+337,The Big Bang Theory,7,8.9
+338,The Big Bang Theory,7,7.7
+339,The Big Bang Theory,7,8.2
+340,The Big Bang Theory,7,7.5
+341,The Big Bang Theory,7,7.6
+342,The Big Bang Theory,7,8.0
+343,The Big Bang Theory,7,8.3
+344,The Big Bang Theory,7,7.7
+345,The Big Bang Theory,7,7.5
+346,The Big Bang Theory,7,7.5
+347,The Big Bang Theory,7,8.2
+348,The Big Bang Theory,7,8.1
+349,The Big Bang Theory,7,7.6
+350,The Big Bang Theory,7,7.8
+351,The Big Bang Theory,7,7.9
+352,The Big Bang Theory,7,8.1
+353,The Big Bang Theory,8,7.2
+354,The Big Bang Theory,8,7.6
+355,The Big Bang Theory,8,7.1
+356,The Big Bang Theory,8,7.2
+357,The Big Bang Theory,8,7.5
+358,The Big Bang Theory,8,7.2
+359,The Big Bang Theory,8,7.8
+360,The Big Bang Theory,8,8.0
+361,The Big Bang Theory,8,7.5
+362,The Big Bang Theory,8,7.0
+363,The Big Bang Theory,8,7.4
+364,The Big Bang Theory,8,7.3
+365,The Big Bang Theory,8,7.5
+366,The Big Bang Theory,8,8.1
+367,The Big Bang Theory,8,8.1
+368,The Big Bang Theory,8,7.9
+369,The Big Bang Theory,8,7.6
+370,The Big Bang Theory,8,7.4
+371,The Big Bang Theory,8,7.6
+372,The Big Bang Theory,8,7.5
+373,The Big Bang Theory,8,7.1
+374,The Big Bang Theory,8,7.4
+375,The Big Bang Theory,8,7.6
+376,The Big Bang Theory,8,8.0
+377,All in the Family,1,8.7
+378,All in the Family,1,7.9
+379,All in the Family,1,8.3
+380,All in the Family,1,8.6
+381,All in the Family,1,9.0
+382,All in the Family,1,8.4
+383,All in the Family,1,8.1
+384,All in the Family,1,8.7
+385,All in the Family,1,8.3
+386,All in the Family,1,8.0
+387,All in the Family,1,7.5
+388,All in the Family,1,7.7
+389,All in the Family,1,8.6
+390,All in the Family,2,8.5
+391,All in the Family,2,7.8
+392,All in the Family,2,8.6
+393,All in the Family,2,8.7
+394,All in the Family,2,8.6
+395,All in the Family,2,8.1
+396,All in the Family,2,8.7
+397,All in the Family,2,8.1
+398,All in the Family,2,7.8
+399,All in the Family,2,8.2
+400,All in the Family,2,8.5
+401,All in the Family,2,8.8
+402,All in the Family,2,8.4
+403,All in the Family,2,8.6
+404,All in the Family,2,9.2
+405,All in the Family,2,8.3
+406,All in the Family,2,7.6
+407,All in the Family,2,8.2
+408,All in the Family,2,8.4
+409,All in the Family,2,7.6
+410,All in the Family,2,9.3
+411,All in the Family,2,8.0
+412,All in the Family,2,8.2
+413,All in the Family,2,8.1
+414,All in the Family,3,8.7
+415,All in the Family,3,8.4
+416,All in the Family,3,7.7
+417,All in the Family,3,8.1
+418,All in the Family,3,8.6
+419,All in the Family,3,8.1
+420,All in the Family,3,9.3
+421,All in the Family,3,8.3
+422,All in the Family,3,8.5
+423,All in the Family,3,8.5
+424,All in the Family,3,8.2
+425,All in the Family,3,8.2
+426,All in the Family,3,8.1
+427,All in the Family,3,8.4
+428,All in the Family,3,8.3
+429,All in the Family,3,8.2
+430,All in the Family,3,8.3
+431,All in the Family,3,8.1
+432,All in the Family,3,8.3
+433,All in the Family,3,8.9
+434,All in the Family,3,8.8
+435,All in the Family,3,8.3
+436,All in the Family,3,8.0
+437,All in the Family,3,8.4
+438,All in the Family,4,8.5
+439,All in the Family,4,8.1
+440,All in the Family,4,8.1
+441,All in the Family,4,8.0
+442,All in the Family,4,8.2
+443,All in the Family,4,8.1
+444,All in the Family,4,8.4
+445,All in the Family,4,8.7
+446,All in the Family,4,8.4
+447,All in the Family,4,8.8
+448,All in the Family,4,8.3
+449,All in the Family,4,8.3
+450,All in the Family,4,8.2
+451,All in the Family,4,8.2
+452,All in the Family,4,8.3
+453,All in the Family,4,7.3
+454,All in the Family,4,8.3
+455,All in the Family,4,8.0
+456,All in the Family,4,8.4
+457,All in the Family,4,9.0
+458,All in the Family,4,8.6
+459,All in the Family,4,7.5
+460,All in the Family,4,8.6
+461,All in the Family,4,8.1
+462,All in the Family,5,8.3
+463,All in the Family,5,8.5
+464,All in the Family,5,8.7
+465,All in the Family,5,8.1
+466,All in the Family,5,8.3
+467,All in the Family,5,8.1
+468,All in the Family,5,7.6
+469,All in the Family,5,7.5
+470,All in the Family,5,7.5
+471,All in the Family,5,7.7
+472,All in the Family,5,7.8
+473,All in the Family,5,8.3
+474,All in the Family,5,8.1
+475,All in the Family,5,7.2
+476,All in the Family,5,7.8
+477,All in the Family,5,8.3
+478,All in the Family,5,8.2
+479,All in the Family,5,8.3
+480,All in the Family,5,8.3
+481,All in the Family,5,8.3
+482,All in the Family,5,8.4
+483,All in the Family,5,7.6
+484,All in the Family,5,8.3
+485,All in the Family,5,8.2
+486,All in the Family,6,7.6
+487,All in the Family,6,7.9
+488,All in the Family,6,7.8
+489,All in the Family,6,8.7
+490,All in the Family,6,7.5
+491,All in the Family,6,8.0
+492,All in the Family,6,7.6
+493,All in the Family,6,8.1
+494,All in the Family,6,8.0
+495,All in the Family,6,7.4
+496,All in the Family,6,7.9
+497,All in the Family,6,8.0
+498,All in the Family,6,7.3
+499,All in the Family,6,7.5
+500,All in the Family,6,7.9
+501,All in the Family,6,6.7
+502,All in the Family,6,7.8
+503,All in the Family,6,8.0
+504,All in the Family,6,7.6
+505,All in the Family,6,7.8
+506,All in the Family,6,7.3
+507,All in the Family,6,8.0
+508,All in the Family,6,7.7
+509,All in the Family,6,8.1
+510,All in the Family,7,7.6
+511,All in the Family,7,7.8
+512,All in the Family,7,7.6
+513,All in the Family,7,8.1
+514,All in the Family,7,8.2
+515,All in the Family,7,7.9
+516,All in the Family,7,8.1
+517,All in the Family,7,8.2
+518,All in the Family,7,7.4
+519,All in the Family,7,7.5
+520,All in the Family,7,8.0
+521,All in the Family,7,7.4
+522,All in the Family,7,7.1
+523,All in the Family,7,7.1
+524,All in the Family,7,9.0
+525,All in the Family,7,7.7
+526,All in the Family,7,8.3
+527,All in the Family,7,6.8
+528,All in the Family,7,8.5
+529,All in the Family,7,7.7
+530,All in the Family,7,8.1
+531,All in the Family,7,7.4
+532,All in the Family,7,7.7
+533,All in the Family,7,7.6
+534,All in the Family,7,7.3
+535,All in the Family,8,7.7
+536,All in the Family,8,7.8
+537,All in the Family,8,8.6
+538,All in the Family,8,8.8
+539,All in the Family,8,8.9
+540,All in the Family,8,7.7
+541,All in the Family,8,7.8
+542,All in the Family,8,7.8
+543,All in the Family,8,7.5
+544,All in the Family,8,8.1
+545,All in the Family,8,8.0
+546,All in the Family,8,7.5
+547,All in the Family,8,8.8
+548,All in the Family,8,8.5
+549,All in the Family,8,7.6
+550,All in the Family,8,7.6
+551,All in the Family,8,7.9
+552,All in the Family,8,7.3
+553,All in the Family,8,8.8
+554,All in the Family,8,6.7
+555,All in the Family,8,7.6
+556,All in the Family,8,7.5
+557,All in the Family,8,7.4
+558,All in the Family,8,9.0
+559,How I Met Your Mother,1,8.5
+560,How I Met Your Mother,1,8.2
+561,How I Met Your Mother,1,8.2
+562,How I Met Your Mother,1,8.0
+563,How I Met Your Mother,1,8.3
+564,How I Met Your Mother,1,8.1
+565,How I Met Your Mother,1,7.7
+566,How I Met Your Mother,1,8.2
+567,How I Met Your Mother,1,8.1
+568,How I Met Your Mother,1,9.2
+569,How I Met Your Mother,1,8.3
+570,How I Met Your Mother,1,8.1
+571,How I Met Your Mother,1,8.7
+572,How I Met Your Mother,1,8.2
+573,How I Met Your Mother,1,9.1
+574,How I Met Your Mother,1,7.9
+575,How I Met Your Mother,1,7.7
+576,How I Met Your Mother,1,8.5
+577,How I Met Your Mother,1,8.8
+578,How I Met Your Mother,1,7.9
+579,How I Met Your Mother,1,8.1
+580,How I Met Your Mother,1,8.9
+581,How I Met Your Mother,2,8.2
+582,How I Met Your Mother,2,8.2
+583,How I Met Your Mother,2,8.5
+584,How I Met Your Mother,2,8.8
+585,How I Met Your Mother,2,8.8
+586,How I Met Your Mother,2,8.1
+587,How I Met Your Mother,2,9.0
+588,How I Met Your Mother,2,8.0
+589,How I Met Your Mother,2,9.5
+590,How I Met Your Mother,2,8.2
+591,How I Met Your Mother,2,8.1
+592,How I Met Your Mother,2,8.2
+593,How I Met Your Mother,2,8.0
+594,How I Met Your Mother,2,8.4
+595,How I Met Your Mother,2,8.4
+596,How I Met Your Mother,2,8.5
+597,How I Met Your Mother,2,8.3
+598,How I Met Your Mother,2,8.1
+599,How I Met Your Mother,2,8.4
+600,How I Met Your Mother,2,8.9
+601,How I Met Your Mother,2,8.8
+602,How I Met Your Mother,2,8.8
+603,How I Met Your Mother,3,8.3
+604,How I Met Your Mother,3,7.7
+605,How I Met Your Mother,3,8.1
+606,How I Met Your Mother,3,7.8
+607,How I Met Your Mother,3,9.0
+608,How I Met Your Mother,3,8.1
+609,How I Met Your Mother,3,8.0
+610,How I Met Your Mother,3,9.1
+611,How I Met Your Mother,3,9.0
+612,How I Met Your Mother,3,8.0
+613,How I Met Your Mother,3,8.5
+614,How I Met Your Mother,3,8.2
+615,How I Met Your Mother,3,8.8
+616,How I Met Your Mother,3,8.7
+617,How I Met Your Mother,3,8.0
+618,How I Met Your Mother,3,8.2
+619,How I Met Your Mother,3,8.2
+620,How I Met Your Mother,3,8.1
+621,How I Met Your Mother,3,7.8
+622,How I Met Your Mother,3,8.7
+623,How I Met Your Mother,4,8.6
+624,How I Met Your Mother,4,8.5
+625,How I Met Your Mother,4,7.7
+626,How I Met Your Mother,4,8.8
+627,How I Met Your Mother,4,8.3
+628,How I Met Your Mother,4,8.0
+629,How I Met Your Mother,4,7.8
+630,How I Met Your Mother,4,8.1
+631,How I Met Your Mother,4,9.2
+632,How I Met Your Mother,4,8.3
+633,How I Met Your Mother,4,8.1
+634,How I Met Your Mother,4,8.6
+635,How I Met Your Mother,4,8.5
+636,How I Met Your Mother,4,8.4
+637,How I Met Your Mother,4,8.3
+638,How I Met Your Mother,4,7.8
+639,How I Met Your Mother,4,8.4
+640,How I Met Your Mother,4,7.7
+641,How I Met Your Mother,4,8.5
+642,How I Met Your Mother,4,7.7
+643,How I Met Your Mother,4,8.7
+644,How I Met Your Mother,4,8.2
+645,How I Met Your Mother,4,7.7
+646,How I Met Your Mother,4,8.8
+647,How I Met Your Mother,5,8.6
+648,How I Met Your Mother,5,8.1
+649,How I Met Your Mother,5,8.4
+650,How I Met Your Mother,5,8.0
+651,How I Met Your Mother,5,7.8
+652,How I Met Your Mother,5,7.8
+653,How I Met Your Mother,5,7.8
+654,How I Met Your Mother,5,9.4
+655,How I Met Your Mother,5,8.0
+656,How I Met Your Mother,5,8.1
+657,How I Met Your Mother,5,7.8
+658,How I Met Your Mother,5,9.1
+659,How I Met Your Mother,5,8.6
+660,How I Met Your Mother,5,8.9
+661,How I Met Your Mother,5,8.0
+662,How I Met Your Mother,5,7.8
+663,How I Met Your Mother,5,8.3
+664,How I Met Your Mother,5,8.2
+665,How I Met Your Mother,5,7.6
+666,How I Met Your Mother,5,7.9
+667,How I Met Your Mother,5,7.8
+668,How I Met Your Mother,5,8.2
+669,How I Met Your Mother,5,8.1
+670,How I Met Your Mother,5,8.5
+671,How I Met Your Mother,6,8.2
+672,How I Met Your Mother,6,8.3
+673,How I Met Your Mother,6,7.8
+674,How I Met Your Mother,6,8.6
+675,How I Met Your Mother,6,7.8
+676,How I Met Your Mother,6,7.7
+677,How I Met Your Mother,6,7.7
+678,How I Met Your Mother,6,8.1
+679,How I Met Your Mother,6,8.5
+680,How I Met Your Mother,6,9.1
+681,How I Met Your Mother,6,8.0
+682,How I Met Your Mother,6,8.2
+683,How I Met Your Mother,6,8.9
+684,How I Met Your Mother,6,8.6
+685,How I Met Your Mother,6,8.8
+686,How I Met Your Mother,6,8.1
+687,How I Met Your Mother,6,7.7
+688,How I Met Your Mother,6,8.3
+689,How I Met Your Mother,6,8.3
+690,How I Met Your Mother,6,7.7
+691,How I Met Your Mother,6,7.9
+692,How I Met Your Mother,6,7.9
+693,How I Met Your Mother,6,7.8
+694,How I Met Your Mother,6,8.5
+695,How I Met Your Mother,7,8.6
+696,How I Met Your Mother,7,8.1
+697,How I Met Your Mother,7,8.9
+698,How I Met Your Mother,7,8.1
+699,How I Met Your Mother,7,7.5
+700,How I Met Your Mother,7,7.8
+701,How I Met Your Mother,7,7.7
+702,How I Met Your Mother,7,7.4
+703,How I Met Your Mother,7,8.3
+704,How I Met Your Mother,7,9.0
+705,How I Met Your Mother,7,8.0
+706,How I Met Your Mother,7,8.8
+707,How I Met Your Mother,7,7.8
+708,How I Met Your Mother,7,7.7
+709,How I Met Your Mother,7,7.3
+710,How I Met Your Mother,7,8.1
+711,How I Met Your Mother,7,8.4
+712,How I Met Your Mother,7,8.0
+713,How I Met Your Mother,7,8.6
+714,How I Met Your Mother,7,8.6
+715,How I Met Your Mother,7,8.0
+716,How I Met Your Mother,7,7.8
+717,How I Met Your Mother,7,8.5
+718,How I Met Your Mother,7,8.9
+719,How I Met Your Mother,8,8.6
+720,How I Met Your Mother,8,7.4
+721,How I Met Your Mother,8,7.3
+722,How I Met Your Mother,8,7.5
+723,How I Met Your Mother,8,7.5
+724,How I Met Your Mother,8,7.6
+725,How I Met Your Mother,8,7.4
+726,How I Met Your Mother,8,7.5
+727,How I Met Your Mother,8,7.5
+728,How I Met Your Mother,8,8.1
+729,How I Met Your Mother,8,8.6
+730,How I Met Your Mother,8,9.4
+731,How I Met Your Mother,8,7.9
+732,How I Met Your Mother,8,7.9
+733,How I Met Your Mother,8,8.2
+734,How I Met Your Mother,8,7.6
+735,How I Met Your Mother,8,7.8
+736,How I Met Your Mother,8,8.1
+737,How I Met Your Mother,8,8.0
+738,How I Met Your Mother,8,8.4
+739,How I Met Your Mother,8,7.4
+740,How I Met Your Mother,8,8.7
+741,How I Met Your Mother,8,7.6
+742,How I Met Your Mother,8,8.8
+743,Frasier,1,8.6
+744,Frasier,1,8.0
+745,Frasier,1,8.2
+746,Frasier,1,7.9
+747,Frasier,1,7.9
+748,Frasier,1,7.7
+749,Frasier,1,7.9
+750,Frasier,1,8.1
+751,Frasier,1,8.0
+752,Frasier,1,7.9
+753,Frasier,1,7.7
+754,Frasier,1,8.5
+755,Frasier,1,8.0
+756,Frasier,1,7.7
+757,Frasier,1,7.8
+758,Frasier,1,8.4
+759,Frasier,1,8.6
+760,Frasier,1,7.8
+761,Frasier,1,8.0
+762,Frasier,1,7.5
+763,Frasier,1,8.8
+764,Frasier,1,8.3
+765,Frasier,1,8.5
+766,Frasier,1,8.8
+767,Frasier,2,7.8
+768,Frasier,2,7.6
+769,Frasier,2,9.3
+770,Frasier,2,8.2
+771,Frasier,2,7.7
+772,Frasier,2,8.1
+773,Frasier,2,8.3
+774,Frasier,2,7.9
+775,Frasier,2,8.1
+776,Frasier,2,7.6
+777,Frasier,2,8.3
+778,Frasier,2,7.9
+779,Frasier,2,8.3
+780,Frasier,2,7.7
+781,Frasier,2,7.9
+782,Frasier,2,8.0
+783,Frasier,2,8.9
+784,Frasier,2,8.1
+785,Frasier,2,8.1
+786,Frasier,2,8.3
+787,Frasier,2,8.9
+788,Frasier,2,8.4
+789,Frasier,2,9.0
+790,Frasier,2,8.2
+791,Frasier,3,8.1
+792,Frasier,3,8.1
+793,Frasier,3,7.9
+794,Frasier,3,7.6
+795,Frasier,3,8.0
+796,Frasier,3,8.1
+797,Frasier,3,8.4
+798,Frasier,3,8.2
+799,Frasier,3,8.0
+800,Frasier,3,7.4
+801,Frasier,3,7.1
+802,Frasier,3,7.6
+803,Frasier,3,9.2
+804,Frasier,3,7.9
+805,Frasier,3,8.0
+806,Frasier,3,8.3
+807,Frasier,3,8.5
+808,Frasier,3,8.3
+809,Frasier,3,7.8
+810,Frasier,3,7.7
+811,Frasier,3,8.0
+812,Frasier,3,7.8
+813,Frasier,3,8.0
+814,Frasier,3,8.3
+815,Frasier,4,9.1
+816,Frasier,4,8.0
+817,Frasier,4,8.2
+818,Frasier,4,8.0
+819,Frasier,4,8.3
+820,Frasier,4,8.9
+821,Frasier,4,8.3
+822,Frasier,4,7.8
+823,Frasier,4,7.9
+824,Frasier,4,7.5
+825,Frasier,4,8.0
+826,Frasier,4,8.3
+827,Frasier,4,8.3
+828,Frasier,4,8.7
+829,Frasier,4,8.1
+830,Frasier,4,7.7
+831,Frasier,4,7.8
+832,Frasier,4,9.5
+833,Frasier,4,8.3
+834,Frasier,4,8.6
+835,Frasier,4,8.6
+836,Frasier,4,7.5
+837,Frasier,4,7.9
+838,Frasier,5,8.7
+839,Frasier,5,8.4
+840,Frasier,5,9.1
+841,Frasier,5,7.9
+842,Frasier,5,7.9
+843,Frasier,5,8.2
+844,Frasier,5,7.8
+845,Frasier,5,7.3
+846,Frasier,5,8.7
+847,Frasier,5,7.7
+848,Frasier,5,7.6
+849,Frasier,5,7.9
+850,Frasier,5,8.2
+851,Frasier,5,9.6
+852,Frasier,5,8.9
+853,Frasier,5,7.5
+854,Frasier,5,8.1
+855,Frasier,5,7.7
+856,Frasier,5,7.4
+857,Frasier,5,8.7
+858,Frasier,5,8.5
+859,Frasier,5,8.3
+860,Frasier,5,7.6
+861,Frasier,5,7.7
+862,Frasier,6,7.8
+863,Frasier,6,7.6
+864,Frasier,6,8.7
+865,Frasier,6,7.6
+866,Frasier,6,7.4
+867,Frasier,6,7.7
+868,Frasier,6,8.2
+869,Frasier,6,8.3
+870,Frasier,6,7.4
+871,Frasier,6,8.7
+872,Frasier,6,7.9
+873,Frasier,6,7.6
+874,Frasier,6,7.3
+875,Frasier,6,9.0
+876,Frasier,6,8.3
+877,Frasier,6,8.5
+878,Frasier,6,8.3
+879,Frasier,6,8.0
+880,Frasier,6,8.1
+881,Frasier,6,8.1
+882,Frasier,6,8.1
+883,Frasier,6,8.4
+884,Frasier,6,8.1
+885,Frasier,6,8.5
+886,Frasier,7,8.1
+887,Frasier,7,7.7
+888,Frasier,7,8.0
+889,Frasier,7,7.6
+890,Frasier,7,7.6
+891,Frasier,7,7.7
+892,Frasier,7,8.4
+893,Frasier,7,7.9
+894,Frasier,7,7.9
+895,Frasier,7,8.8
+896,Frasier,7,8.3
+897,Frasier,7,8.3
+898,Frasier,7,8.2
+899,Frasier,7,7.6
+900,Frasier,7,9.1
+901,Frasier,7,7.7
+902,Frasier,7,7.9
+903,Frasier,7,7.7
+904,Frasier,7,7.6
+905,Frasier,7,8.3
+906,Frasier,7,7.7
+907,Frasier,7,8.5
+908,Frasier,7,8.7
+909,Frasier,7,9.1
+910,Frasier,8,8.2
+911,Frasier,8,8.4
+912,Frasier,8,7.5
+913,Frasier,8,7.4
+914,Frasier,8,8.6
+915,Frasier,8,7.4
+916,Frasier,8,7.6
+917,Frasier,8,7.0
+918,Frasier,8,8.0
+919,Frasier,8,7.3
+920,Frasier,8,7.7
+921,Frasier,8,8.3
+922,Frasier,8,7.9
+923,Frasier,8,8.3
+924,Frasier,8,8.3
+925,Frasier,8,7.4
+926,Frasier,8,7.3
+927,Frasier,8,7.5
+928,Frasier,8,8.4
+929,Frasier,8,7.6
+930,Frasier,8,7.4
+931,Frasier,8,7.7
+932,Frasier,8,7.4
+933,Frasier,8,7.7
+934,MASH,1,7.9
+935,MASH,1,8.1
+936,MASH,1,7.5
+937,MASH,1,8.1
+938,MASH,1,7.6
+939,MASH,1,8.2
+940,MASH,1,7.8
+941,MASH,1,7.6
+942,MASH,1,7.9
+943,MASH,1,7.8
+944,MASH,1,8.0
+945,MASH,1,8.3
+946,MASH,1,7.2
+947,MASH,1,7.4
+948,MASH,1,9.0
+949,MASH,1,8.1
+950,MASH,1,8.8
+951,MASH,1,8.2
+952,MASH,1,8.4
+953,MASH,1,8.4
+954,MASH,1,7.8
+955,MASH,1,7.7
+956,MASH,1,7.6
+957,MASH,1,7.2
+958,MASH,2,8.1
+959,MASH,2,8.7
+960,MASH,2,8.0
+961,MASH,2,7.9
+962,MASH,2,7.8
+963,MASH,2,7.7
+964,MASH,2,7.6
+965,MASH,2,8.6
+966,MASH,2,8.1
+967,MASH,2,8.2
+968,MASH,2,8.4
+969,MASH,2,8.2
+970,MASH,2,8.8
+971,MASH,2,7.9
+972,MASH,2,7.9
+973,MASH,2,7.6
+974,MASH,2,8.2
+975,MASH,2,7.6
+976,MASH,2,7.8
+977,MASH,2,7.9
+978,MASH,2,8.7
+979,MASH,2,7.9
+980,MASH,2,8.1
+981,MASH,2,8.4
+982,MASH,3,8.6
+983,MASH,3,8.4
+984,MASH,3,8.1
+985,MASH,3,8.1
+986,MASH,3,8.3
+987,MASH,3,8.1
+988,MASH,3,7.7
+989,MASH,3,7.6
+990,MASH,3,7.9
+991,MASH,3,7.8
+992,MASH,3,8.8
+993,MASH,3,8.2
+994,MASH,3,7.8
+995,MASH,3,8.3
+996,MASH,3,8.1
+997,MASH,3,7.6
+998,MASH,3,7.9
+999,MASH,3,8.1
+1000,MASH,3,8.5
+1001,MASH,3,7.3
+1002,MASH,3,8.2
+1003,MASH,3,7.8
+1004,MASH,3,8.0
+1005,MASH,3,9.5
+1006,MASH,4,8.8
+1007,MASH,4,8.6
+1008,MASH,4,7.9
+1009,MASH,4,8.4
+1010,MASH,4,7.6
+1011,MASH,4,8.3
+1012,MASH,4,8.4
+1013,MASH,4,7.7
+1014,MASH,4,8.2
+1015,MASH,4,7.6
+1016,MASH,4,7.3
+1017,MASH,4,7.9
+1018,MASH,4,7.7
+1019,MASH,4,8.1
+1020,MASH,4,7.9
+1021,MASH,4,7.8
+1022,MASH,4,8.1
+1023,MASH,4,7.2
+1024,MASH,4,7.7
+1025,MASH,4,8.2
+1026,MASH,4,7.6
+1027,MASH,4,7.4
+1028,MASH,4,8.2
+1029,MASH,4,8.5
+1030,MASH,5,8.4
+1031,MASH,5,8.1
+1032,MASH,5,8.0
+1033,MASH,5,7.5
+1034,MASH,5,7.9
+1035,MASH,5,8.1
+1036,MASH,5,8.7
+1037,MASH,5,8.0
+1038,MASH,5,8.0
+1039,MASH,5,8.0
+1040,MASH,5,7.7
+1041,MASH,5,7.1
+1042,MASH,5,7.6
+1043,MASH,5,7.7
+1044,MASH,5,7.8
+1045,MASH,5,7.5
+1046,MASH,5,7.7
+1047,MASH,5,7.1
+1048,MASH,5,7.5
+1049,MASH,5,7.6
+1050,MASH,5,8.6
+1051,MASH,5,7.4
+1052,MASH,5,7.6
+1053,MASH,5,8.2
+1054,MASH,6,8.5
+1055,MASH,6,8.0
+1056,MASH,6,7.7
+1057,MASH,6,8.0
+1058,MASH,6,7.9
+1059,MASH,6,7.9
+1060,MASH,6,7.6
+1061,MASH,6,7.5
+1062,MASH,6,7.5
+1063,MASH,6,7.7
+1064,MASH,6,7.5
+1065,MASH,6,7.8
+1066,MASH,6,7.8
+1067,MASH,6,7.8
+1068,MASH,6,8.1
+1069,MASH,6,7.8
+1070,MASH,6,7.7
+1071,MASH,6,7.8
+1072,MASH,6,7.8
+1073,MASH,6,7.5
+1074,MASH,6,7.7
+1075,MASH,6,8.0
+1076,MASH,6,7.7
+1077,MASH,6,7.7
+1078,MASH,7,7.8
+1079,MASH,7,8.0
+1080,MASH,7,7.6
+1081,MASH,7,7.1
+1082,MASH,7,8.3
+1083,MASH,7,8.1
+1084,MASH,7,7.8
+1085,MASH,7,7.5
+1086,MASH,7,7.8
+1087,MASH,7,8.6
+1088,MASH,7,8.0
+1089,MASH,7,7.7
+1090,MASH,7,8.2
+1091,MASH,7,8.3
+1092,MASH,7,7.4
+1093,MASH,7,7.4
+1094,MASH,7,7.8
+1095,MASH,7,7.9
+1096,MASH,7,7.9
+1097,MASH,7,7.8
+1098,MASH,7,8.5
+1099,MASH,7,7.6
+1100,MASH,7,8.1
+1101,MASH,7,7.4
+1102,MASH,7,8.7
+1103,MASH,8,8.0
+1104,MASH,8,7.8
+1105,MASH,8,7.4
+1106,MASH,8,8.5
+1107,MASH,8,8.8
+1108,MASH,8,8.3
+1109,MASH,8,7.6
+1110,MASH,8,7.7
+1111,MASH,8,8.0
+1112,MASH,8,8.2
+1113,MASH,8,8.8
+1114,MASH,8,7.8
+1115,MASH,8,7.3
+1116,MASH,8,7.2
+1117,MASH,8,7.8
+1118,MASH,8,7.6
+1119,MASH,8,8.2
+1120,MASH,8,8.3
+1121,MASH,8,8.3
+1122,MASH,8,7.4
+1123,MASH,8,7.6
+1124,MASH,8,7.9
+1125,MASH,8,7.4
+1126,MASH,8,7.6
+1127,MASH,8,8.6
+1128,Cheers,1,8.3
+1129,Cheers,1,7.7
+1130,Cheers,1,7.6
+1131,Cheers,1,7.8
+1132,Cheers,1,8.0
+1133,Cheers,1,7.9
+1134,Cheers,1,7.6
+1135,Cheers,1,8.2
+1136,Cheers,1,7.8
+1137,Cheers,1,8.4
+1138,Cheers,1,7.8
+1139,Cheers,1,7.7
+1140,Cheers,1,7.5
+1141,Cheers,1,7.6
+1142,Cheers,1,7.1
+1143,Cheers,1,8.0
+1144,Cheers,1,8.2
+1145,Cheers,1,7.6
+1146,Cheers,1,8.7
+1147,Cheers,1,7.6
+1148,Cheers,1,7.9
+1149,Cheers,1,8.4
+1150,Cheers,2,7.9
+1151,Cheers,2,7.5
+1152,Cheers,2,7.5
+1153,Cheers,2,8.0
+1154,Cheers,2,7.8
+1155,Cheers,2,7.5
+1156,Cheers,2,7.7
+1157,Cheers,2,7.5
+1158,Cheers,2,7.5
+1159,Cheers,2,7.6
+1160,Cheers,2,7.7
+1161,Cheers,2,7.8
+1162,Cheers,2,7.8
+1163,Cheers,2,7.7
+1164,Cheers,2,7.8
+1165,Cheers,2,8.1
+1166,Cheers,2,7.7
+1167,Cheers,2,7.6
+1168,Cheers,2,7.7
+1169,Cheers,2,7.4
+1170,Cheers,2,7.6
+1171,Cheers,2,8.1
+1172,Cheers,3,8.1
+1173,Cheers,3,8.0
+1174,Cheers,3,8.1
+1175,Cheers,3,8.2
+1176,Cheers,3,7.7
+1177,Cheers,3,7.7
+1178,Cheers,3,7.6
+1179,Cheers,3,7.6
+1180,Cheers,3,7.2
+1181,Cheers,3,7.6
+1182,Cheers,3,7.6
+1183,Cheers,3,7.6
+1184,Cheers,3,7.7
+1185,Cheers,3,8.3
+1186,Cheers,3,7.5
+1187,Cheers,3,7.7
+1188,Cheers,3,8.1
+1189,Cheers,3,7.7
+1190,Cheers,3,7.9
+1191,Cheers,3,7.5
+1192,Cheers,3,8.0
+1193,Cheers,3,8.3
+1194,Cheers,3,8.3
+1195,Cheers,3,7.4
+1196,Cheers,3,8.0
+1197,Cheers,4,7.9
+1198,Cheers,4,7.6
+1199,Cheers,4,7.4
+1200,Cheers,4,7.5
+1201,Cheers,4,8.1
+1202,Cheers,4,8.0
+1203,Cheers,4,7.6
+1204,Cheers,4,7.6
+1205,Cheers,4,7.9
+1206,Cheers,4,7.5
+1207,Cheers,4,7.9
+1208,Cheers,4,7.9
+1209,Cheers,4,7.4
+1210,Cheers,4,8.2
+1211,Cheers,4,8.0
+1212,Cheers,4,7.9
+1213,Cheers,4,8.0
+1214,Cheers,4,7.7
+1215,Cheers,4,7.9
+1216,Cheers,4,7.1
+1217,Cheers,4,7.9
+1218,Cheers,4,8.0
+1219,Cheers,4,7.6
+1220,Cheers,4,8.0
+1221,Cheers,4,8.0
+1222,Cheers,4,8.1
+1223,Cheers,5,8.1
+1224,Cheers,5,7.7
+1225,Cheers,5,7.4
+1226,Cheers,5,8.7
+1227,Cheers,5,7.7
+1228,Cheers,5,7.8
+1229,Cheers,5,7.9
+1230,Cheers,5,7.7
+1231,Cheers,5,8.7
+1232,Cheers,5,8.2
+1233,Cheers,5,7.6
+1234,Cheers,5,7.7
+1235,Cheers,5,7.8
+1236,Cheers,5,7.7
+1237,Cheers,5,7.5
+1238,Cheers,5,7.5
+1239,Cheers,5,7.6
+1240,Cheers,5,8.1
+1241,Cheers,5,7.6
+1242,Cheers,5,8.9
+1243,Cheers,5,8.6
+1244,Cheers,5,7.6
+1245,Cheers,5,7.6
+1246,Cheers,5,8.0
+1247,Cheers,5,7.3
+1248,Cheers,5,8.6
+1249,Cheers,6,8.1
+1250,Cheers,6,7.7
+1251,Cheers,6,7.3
+1252,Cheers,6,7.2
+1253,Cheers,6,8.2
+1254,Cheers,6,7.9
+1255,Cheers,6,7.7
+1256,Cheers,6,8.4
+1257,Cheers,6,7.7
+1258,Cheers,6,7.8
+1259,Cheers,6,7.5
+1260,Cheers,6,7.9
+1261,Cheers,6,7.9
+1262,Cheers,6,8.2
+1263,Cheers,6,7.4
+1264,Cheers,6,7.7
+1265,Cheers,6,7.9
+1266,Cheers,6,8.0
+1267,Cheers,6,7.3
+1268,Cheers,6,7.6
+1269,Cheers,6,7.8
+1270,Cheers,6,7.3
+1271,Cheers,6,8.1
+1272,Cheers,6,8.3
+1273,Cheers,6,7.8
+1274,Cheers,7,7.8
+1275,Cheers,7,7.8
+1276,Cheers,7,7.4
+1277,Cheers,7,7.6
+1278,Cheers,7,7.3
+1279,Cheers,7,8.3
+1280,Cheers,7,8.1
+1281,Cheers,7,8.0
+1282,Cheers,7,7.9
+1283,Cheers,7,8.1
+1284,Cheers,7,7.7
+1285,Cheers,7,7.8
+1286,Cheers,7,8.1
+1287,Cheers,7,8.0
+1288,Cheers,7,7.8
+1289,Cheers,7,7.9
+1290,Cheers,7,7.5
+1291,Cheers,7,7.6
+1292,Cheers,7,8.0
+1293,Cheers,7,7.5
+1294,Cheers,7,8.3
+1295,Cheers,7,7.6
+1296,Cheers,8,8.0
+1297,Cheers,8,7.8
+1298,Cheers,8,7.6
+1299,Cheers,8,7.5
+1300,Cheers,8,7.9
+1301,Cheers,8,8.2
+1302,Cheers,8,7.8
+1303,Cheers,8,7.5
+1304,Cheers,8,7.8
+1305,Cheers,8,7.6
+1306,Cheers,8,7.7
+1307,Cheers,8,7.4
+1308,Cheers,8,7.3
+1309,Cheers,8,8.4
+1310,Cheers,8,8.0
+1311,Cheers,8,7.8
+1312,Cheers,8,7.7
+1313,Cheers,8,7.8
+1314,Cheers,8,8.1
+1315,Cheers,8,7.6
+1316,Cheers,8,7.9
+1317,Cheers,8,7.7
+1318,Cheers,8,7.5
+1319,Cheers,8,7.4
+1320,Cheers,8,7.7
+1321,Cheers,8,8.0
+1322,Arrested Development,1,8.2
+1323,Arrested Development,1,8.5
+1324,Arrested Development,1,8.2
+1325,Arrested Development,1,8.4
+1326,Arrested Development,1,8.3
+1327,Arrested Development,1,8.1
+1328,Arrested Development,1,8.2
+1329,Arrested Development,1,8.2
+1330,Arrested Development,1,8.5
+1331,Arrested Development,1,9.1
+1332,Arrested Development,1,8.3
+1333,Arrested Development,1,8.5
+1334,Arrested Development,1,8.5
+1335,Arrested Development,1,8.6
+1336,Arrested Development,1,8.2
+1337,Arrested Development,1,8.5
+1338,Arrested Development,1,8.8
+1339,Arrested Development,1,8.3
+1340,Arrested Development,1,8.2
+1341,Arrested Development,1,8.0
+1342,Arrested Development,1,8.6
+1343,Arrested Development,1,8.8
+1344,Arrested Development,2,8.8
+1345,Arrested Development,2,8.6
+1346,Arrested Development,2,8.9
+1347,Arrested Development,2,9.1
+1348,Arrested Development,2,8.6
+1349,Arrested Development,2,9.1
+1350,Arrested Development,2,8.2
+1351,Arrested Development,2,8.1
+1352,Arrested Development,2,8.1
+1353,Arrested Development,2,8.4
+1354,Arrested Development,2,8.4
+1355,Arrested Development,2,8.8
+1356,Arrested Development,2,8.7
+1357,Arrested Development,2,8.6
+1358,Arrested Development,2,8.7
+1359,Arrested Development,2,9.1
+1360,Arrested Development,2,8.6
+1361,Arrested Development,2,9.0
+1362,Arrested Development,3,8.7
+1363,Arrested Development,3,8.4
+1364,Arrested Development,3,8.7
+1365,Arrested Development,3,8.3
+1366,Arrested Development,3,8.8
+1367,Arrested Development,3,8.7
+1368,Arrested Development,3,8.1
+1369,Arrested Development,3,8.9
+1370,Arrested Development,3,8.8
+1371,Arrested Development,3,8.6
+1372,Arrested Development,3,8.7
+1373,Arrested Development,3,8.9
+1374,Arrested Development,3,9.3
+1375,Arrested Development,4,7.5
+1376,Arrested Development,4,6.9
+1377,Arrested Development,4,7.0
+1378,Arrested Development,4,7.7
+1379,Arrested Development,4,7.8
+1380,Arrested Development,4,7.2
+1381,Arrested Development,4,8.4
+1382,Arrested Development,4,7.7
+1383,Arrested Development,4,7.8
+1384,Arrested Development,4,7.8
+1385,Arrested Development,4,8.6
+1386,Arrested Development,4,8.3
+1387,Arrested Development,4,8.3
+1388,Arrested Development,4,8.2
+1389,Arrested Development,4,8.2
+1390,Arrested Development,5,7.1
+1391,Arrested Development,5,7.3
+1392,Arrested Development,5,7.6
+1393,Arrested Development,5,7.5
+1394,Arrested Development,5,7.5
+1395,Arrested Development,5,7.7
+1396,Arrested Development,5,7.6
+1397,Arrested Development,5,7.5
+1398,Arrested Development,5,7.1
+1399,Arrested Development,5,7.1
+1400,Arrested Development,5,6.9
+1401,Arrested Development,5,7.7
+1402,Arrested Development,5,7.0
+1403,Arrested Development,5,6.8
+1404,Arrested Development,5,7.3
+1405,Arrested Development,5,8.0
+1406,The Dick Van Dyke Show,1,7.5
+1407,The Dick Van Dyke Show,1,8.3
+1408,The Dick Van Dyke Show,1,7.5
+1409,The Dick Van Dyke Show,1,7.2
+1410,The Dick Van Dyke Show,1,7.8
+1411,The Dick Van Dyke Show,1,7.6
+1412,The Dick Van Dyke Show,1,7.8
+1413,The Dick Van Dyke Show,1,8.0
+1414,The Dick Van Dyke Show,1,7.6
+1415,The Dick Van Dyke Show,1,7.4
+1416,The Dick Van Dyke Show,1,7.8
+1417,The Dick Van Dyke Show,1,8.1
+1418,The Dick Van Dyke Show,1,7.8
+1419,The Dick Van Dyke Show,1,7.9
+1420,The Dick Van Dyke Show,1,8.8
+1421,The Dick Van Dyke Show,1,9.1
+1422,The Dick Van Dyke Show,1,7.9
+1423,The Dick Van Dyke Show,1,8.1
+1424,The Dick Van Dyke Show,1,7.6
+1425,The Dick Van Dyke Show,1,7.5
+1426,The Dick Van Dyke Show,1,7.0
+1427,The Dick Van Dyke Show,1,7.7
+1428,The Dick Van Dyke Show,1,6.7
+1429,The Dick Van Dyke Show,1,8.2
+1430,The Dick Van Dyke Show,1,7.4
+1431,The Dick Van Dyke Show,1,7.7
+1432,The Dick Van Dyke Show,1,7.7
+1433,The Dick Van Dyke Show,2,7.3
+1434,The Dick Van Dyke Show,2,8.5
+1435,The Dick Van Dyke Show,2,7.9
+1436,The Dick Van Dyke Show,2,7.7
+1437,The Dick Van Dyke Show,2,7.5
+1438,The Dick Van Dyke Show,2,8.6
+1439,The Dick Van Dyke Show,2,8.1
+1440,The Dick Van Dyke Show,2,7.4
+1441,The Dick Van Dyke Show,2,8.0
+1442,The Dick Van Dyke Show,2,7.4
+1443,The Dick Van Dyke Show,2,7.5
+1444,The Dick Van Dyke Show,2,8.0
+1445,The Dick Van Dyke Show,2,7.5
+1446,The Dick Van Dyke Show,2,8.1
+1447,The Dick Van Dyke Show,2,7.8
+1448,The Dick Van Dyke Show,2,7.5
+1449,The Dick Van Dyke Show,2,7.6
+1450,The Dick Van Dyke Show,2,8.1
+1451,The Dick Van Dyke Show,2,7.9
+1452,The Dick Van Dyke Show,2,9.2
+1453,The Dick Van Dyke Show,2,7.8
+1454,The Dick Van Dyke Show,2,8.5
+1455,The Dick Van Dyke Show,2,7.3
+1456,The Dick Van Dyke Show,2,7.5
+1457,The Dick Van Dyke Show,2,7.4
+1458,The Dick Van Dyke Show,2,8.0
+1459,The Dick Van Dyke Show,2,6.6
+1460,The Dick Van Dyke Show,3,9.3
+1461,The Dick Van Dyke Show,3,8.1
+1462,The Dick Van Dyke Show,3,7.9
+1463,The Dick Van Dyke Show,3,7.9
+1464,The Dick Van Dyke Show,3,8.7
+1465,The Dick Van Dyke Show,3,7.7
+1466,The Dick Van Dyke Show,3,8.1
+1467,The Dick Van Dyke Show,3,6.7
+1468,The Dick Van Dyke Show,3,7.6
+1469,The Dick Van Dyke Show,3,7.9
+1470,The Dick Van Dyke Show,3,7.4
+1471,The Dick Van Dyke Show,3,7.8
+1472,The Dick Van Dyke Show,3,7.8
+1473,The Dick Van Dyke Show,3,7.8
+1474,The Dick Van Dyke Show,3,8.0
+1475,The Dick Van Dyke Show,3,7.7
+1476,The Dick Van Dyke Show,3,8.5
+1477,The Dick Van Dyke Show,3,8.1
+1478,The Dick Van Dyke Show,3,7.0
+1479,The Dick Van Dyke Show,3,7.8
+1480,The Dick Van Dyke Show,3,7.8
+1481,The Dick Van Dyke Show,3,8.0
+1482,The Dick Van Dyke Show,3,7.9
+1483,The Dick Van Dyke Show,3,7.7
+1484,The Dick Van Dyke Show,3,7.8
+1485,The Dick Van Dyke Show,3,8.3
+1486,The Dick Van Dyke Show,3,7.4
+1487,The Dick Van Dyke Show,4,8.4
+1488,The Dick Van Dyke Show,4,9.0
+1489,The Dick Van Dyke Show,4,7.6
+1490,The Dick Van Dyke Show,4,7.9
+1491,The Dick Van Dyke Show,4,6.9
+1492,The Dick Van Dyke Show,4,6.9
+1493,The Dick Van Dyke Show,4,8.3
+1494,The Dick Van Dyke Show,4,7.7
+1495,The Dick Van Dyke Show,4,8.3
+1496,The Dick Van Dyke Show,4,8.8
+1497,The Dick Van Dyke Show,4,7.9
+1498,The Dick Van Dyke Show,4,8.1
+1499,The Dick Van Dyke Show,4,7.8
+1500,The Dick Van Dyke Show,4,7.2
+1501,The Dick Van Dyke Show,4,7.6
+1502,The Dick Van Dyke Show,4,8.9
+1503,The Dick Van Dyke Show,4,7.9
+1504,The Dick Van Dyke Show,4,7.7
+1505,The Dick Van Dyke Show,4,7.2
+1506,The Dick Van Dyke Show,4,7.7
+1507,The Dick Van Dyke Show,4,8.2
+1508,The Dick Van Dyke Show,4,8.0
+1509,The Dick Van Dyke Show,4,7.7
+1510,The Dick Van Dyke Show,4,7.7
+1511,The Dick Van Dyke Show,4,7.8
+1512,The Dick Van Dyke Show,4,7.5
+1513,The Dick Van Dyke Show,4,8.7
+1514,The Dick Van Dyke Show,5,9.1
+1515,The Dick Van Dyke Show,5,7.4
+1516,The Dick Van Dyke Show,5,8.0
+1517,The Dick Van Dyke Show,5,7.6
+1518,The Dick Van Dyke Show,5,7.0
+1519,The Dick Van Dyke Show,5,7.9
+1520,The Dick Van Dyke Show,5,8.2
+1521,The Dick Van Dyke Show,5,7.4
+1522,The Dick Van Dyke Show,5,6.8
+1523,The Dick Van Dyke Show,5,7.4
+1524,The Dick Van Dyke Show,5,7.2
+1525,The Dick Van Dyke Show,5,7.4
+1526,The Dick Van Dyke Show,5,7.8
+1527,The Dick Van Dyke Show,5,7.5
+1528,The Dick Van Dyke Show,5,7.6
+1529,The Dick Van Dyke Show,5,7.2
+1530,The Dick Van Dyke Show,5,7.0
+1531,The Dick Van Dyke Show,5,8.0
+1532,The Dick Van Dyke Show,5,8.1
+1533,The Dick Van Dyke Show,5,7.6
+1534,The Dick Van Dyke Show,5,7.8
+1535,The Dick Van Dyke Show,5,7.8
+1536,The Dick Van Dyke Show,5,7.8
+1537,The Dick Van Dyke Show,5,8.0
+1538,The Dick Van Dyke Show,5,8.1
+1539,The Dick Van Dyke Show,5,8.8
+1540,The Dick Van Dyke Show,5,8.3
+1541,Seinfeld,1,7.6
+1542,Seinfeld,1,7.7
+1543,Seinfeld,1,7.6
+1544,Seinfeld,1,7.4
+1545,Seinfeld,1,7.5
+1546,Seinfeld,2,7.7
+1547,Seinfeld,2,7.9
+1548,Seinfeld,2,8.4
+1549,Seinfeld,2,8.4
+1550,Seinfeld,2,7.9
+1551,Seinfeld,2,8.0
+1552,Seinfeld,2,8.3
+1553,Seinfeld,2,7.9
+1554,Seinfeld,2,8.3
+1555,Seinfeld,2,7.5
+1556,Seinfeld,2,8.7
+1557,Seinfeld,2,7.7
+1558,Seinfeld,3,8.2
+1559,Seinfeld,3,7.8
+1560,Seinfeld,3,8.2
+1561,Seinfeld,3,7.4
+1562,Seinfeld,3,8.7
+1563,Seinfeld,3,8.8
+1564,Seinfeld,3,8.5
+1565,Seinfeld,3,8.7
+1566,Seinfeld,3,8.0
+1567,Seinfeld,3,7.5
+1568,Seinfeld,3,8.3
+1569,Seinfeld,3,8.4
+1570,Seinfeld,3,8.8
+1571,Seinfeld,3,8.4
+1572,Seinfeld,3,7.6
+1573,Seinfeld,3,8.4
+1574,Seinfeld,3,8.7
+1575,Seinfeld,4,8.3
+1576,Seinfeld,4,8.3
+1577,Seinfeld,4,8.6
+1578,Seinfeld,4,8.3
+1579,Seinfeld,4,8.1
+1580,Seinfeld,4,8.1
+1581,Seinfeld,4,8.8
+1582,Seinfeld,4,8.5
+1583,Seinfeld,4,8.2
+1584,Seinfeld,4,8.2
+1585,Seinfeld,4,9.6
+1586,Seinfeld,4,8.9
+1587,Seinfeld,4,8.5
+1588,Seinfeld,4,8.2
+1589,Seinfeld,4,8.2
+1590,Seinfeld,4,8.2
+1591,Seinfeld,4,9.5
+1592,Seinfeld,4,8.0
+1593,Seinfeld,4,8.6
+1594,Seinfeld,4,8.8
+1595,Seinfeld,4,8.5
+1596,Seinfeld,4,8.3
+1597,Seinfeld,4,8.7
+1598,Seinfeld,5,8.6
+1599,Seinfeld,5,8.9
+1600,Seinfeld,5,8.4
+1601,Seinfeld,5,8.1
+1602,Seinfeld,5,8.1
+1603,Seinfeld,5,8.5
+1604,Seinfeld,5,8.5
+1605,Seinfeld,5,8.4
+1606,Seinfeld,5,7.8
+1607,Seinfeld,5,8.4
+1608,Seinfeld,5,8.2
+1609,Seinfeld,5,8.6
+1610,Seinfeld,5,8.2
+1611,Seinfeld,5,9.2
+1612,Seinfeld,5,8.5
+1613,Seinfeld,5,7.6
+1614,Seinfeld,5,8.1
+1615,Seinfeld,5,8.5
+1616,Seinfeld,5,8.6
+1617,Seinfeld,5,9.0
+1618,Seinfeld,5,9.6
+1619,Seinfeld,6,8.1
+1620,Seinfeld,6,8.2
+1621,Seinfeld,6,8.3
+1622,Seinfeld,6,8.2
+1623,Seinfeld,6,8.1
+1624,Seinfeld,6,8.2
+1625,Seinfeld,6,8.2
+1626,Seinfeld,6,8.1
+1627,Seinfeld,6,8.2
+1628,Seinfeld,6,8.9
+1629,Seinfeld,6,8.9
+1630,Seinfeld,6,8.6
+1631,Seinfeld,6,8.1
+1632,Seinfeld,6,7.4
+1633,Seinfeld,6,8.3
+1634,Seinfeld,6,8.3
+1635,Seinfeld,6,8.3
+1636,Seinfeld,6,8.9
+1637,Seinfeld,6,8.3
+1638,Seinfeld,6,8.7
+1639,Seinfeld,6,8.2
+1640,Seinfeld,6,8.5
+1641,Seinfeld,6,8.0
+1642,Seinfeld,7,8.8
+1643,Seinfeld,7,8.4
+1644,Seinfeld,7,8.2
+1645,Seinfeld,7,8.6
+1646,Seinfeld,7,8.6
+1647,Seinfeld,7,9.5
+1648,Seinfeld,7,8.6
+1649,Seinfeld,7,8.4
+1650,Seinfeld,7,8.3
+1651,Seinfeld,7,8.6
+1652,Seinfeld,7,8.9
+1653,Seinfeld,7,8.6
+1654,Seinfeld,7,8.2
+1655,Seinfeld,7,8.4
+1656,Seinfeld,7,8.5
+1657,Seinfeld,7,8.1
+1658,Seinfeld,7,7.9
+1659,Seinfeld,7,8.1
+1660,Seinfeld,7,8.9
+1661,Seinfeld,7,8.9
+1662,Seinfeld,7,8.3
+1663,Seinfeld,7,8.8
+1664,Seinfeld,8,8.3
+1665,Seinfeld,8,8.2
+1666,Seinfeld,8,9.2
+1667,Seinfeld,8,9.0
+1668,Seinfeld,8,8.8
+1669,Seinfeld,8,8.1
+1670,Seinfeld,8,8.3
+1671,Seinfeld,8,9.1
+1672,Seinfeld,8,9.1
+1673,Seinfeld,8,8.5
+1674,Seinfeld,8,8.3
+1675,Seinfeld,8,7.9
+1676,Seinfeld,8,8.6
+1677,Seinfeld,8,8.2
+1678,Seinfeld,8,8.8
+1679,Seinfeld,8,8.8
+1680,Seinfeld,8,8.7
+1681,Seinfeld,8,8.9
+1682,Seinfeld,8,9.0
+1683,Seinfeld,8,8.2
+1684,Seinfeld,8,8.5
+1685,Seinfeld,8,8.6
+1686,The Office,1,7.5
+1687,The Office,1,8.3
+1688,The Office,1,7.8
+1689,The Office,1,8.0
+1690,The Office,1,8.4
+1691,The Office,1,7.7
+1692,The Office,2,8.7
+1693,The Office,2,8.2
+1694,The Office,2,8.4
+1695,The Office,2,8.4
+1696,The Office,2,8.1
+1697,The Office,2,8.1
+1698,The Office,2,8.6
+1699,The Office,2,8.2
+1700,The Office,2,8.4
+1701,The Office,2,8.9
+1702,The Office,2,8.6
+1703,The Office,2,9.1
+1704,The Office,2,8.3
+1705,The Office,2,7.8
+1706,The Office,2,8.1
+1707,The Office,2,8.3
+1708,The Office,2,8.5
+1709,The Office,2,8.3
+1710,The Office,2,8.1
+1711,The Office,2,8.4
+1712,The Office,2,8.7
+1713,The Office,2,9.4
+1714,The Office,3,9.0
+1715,The Office,3,8.2
+1716,The Office,3,8.5
+1717,The Office,3,8.0
+1718,The Office,3,8.1
+1719,The Office,3,7.9
+1720,The Office,3,8.6
+1721,The Office,3,8.7
+1722,The Office,3,8.3
+1723,The Office,3,8.8
+1724,The Office,3,8.6
+1725,The Office,3,8.6
+1726,The Office,3,8.8
+1727,The Office,3,8.1
+1728,The Office,3,8.2
+1729,The Office,3,8.9
+1730,The Office,3,8.5
+1731,The Office,3,9.0
+1732,The Office,3,8.8
+1733,The Office,3,8.7
+1734,The Office,3,8.8
+1735,The Office,3,9.2
+1736,The Office,3,9.3
+1737,The Office,4,8.8
+1738,The Office,4,8.3
+1739,The Office,4,8.4
+1740,The Office,4,8.7
+1741,The Office,4,8.8
+1742,The Office,4,8.5
+1743,The Office,4,8.2
+1744,The Office,4,8.7
+1745,The Office,4,9.5
+1746,The Office,4,8.0
+1747,The Office,4,8.6
+1748,The Office,4,8.3
+1749,The Office,4,7.8
+1750,The Office,4,9.3
+1751,The Office,5,8.8
+1752,The Office,5,8.3
+1753,The Office,5,8.0
+1754,The Office,5,8.1
+1755,The Office,5,8.0
+1756,The Office,5,8.5
+1757,The Office,5,8.2
+1758,The Office,5,8.6
+1759,The Office,5,8.8
+1760,The Office,5,8.4
+1761,The Office,5,8.7
+1762,The Office,5,8.0
+1763,The Office,5,9.7
+1764,The Office,5,8.2
+1765,The Office,5,8.2
+1766,The Office,5,8.0
+1767,The Office,5,8.7
+1768,The Office,5,8.3
+1769,The Office,5,8.4
+1770,The Office,5,8.3
+1771,The Office,5,8.7
+1772,The Office,5,8.7
+1773,The Office,5,9.3
+1774,The Office,5,8.3
+1775,The Office,5,8.8
+1776,The Office,5,9.0
+1777,The Office,6,8.8
+1778,The Office,6,8.1
+1779,The Office,6,8.0
+1780,The Office,6,9.4
+1781,The Office,6,9.4
+1782,The Office,6,7.6
+1783,The Office,6,8.6
+1784,The Office,6,8.2
+1785,The Office,6,8.1
+1786,The Office,6,8.7
+1787,The Office,6,8.2
+1788,The Office,6,8.3
+1789,The Office,6,8.5
+1790,The Office,6,6.8
+1791,The Office,6,7.6
+1792,The Office,6,8.1
+1793,The Office,6,8.4
+1794,The Office,6,8.5
+1795,The Office,6,7.7
+1796,The Office,6,7.7
+1797,The Office,6,8.6
+1798,The Office,6,7.8
+1799,The Office,6,7.9
+1800,The Office,6,8.1
+1801,The Office,6,7.7
+1802,The Office,6,8.0
+1803,The Office,7,8.4
+1804,The Office,7,8.2
+1805,The Office,7,8.2
+1806,The Office,7,7.8
+1807,The Office,7,7.7
+1808,The Office,7,8.2
+1809,The Office,7,7.4
+1810,The Office,7,7.8
+1811,The Office,7,7.7
+1812,The Office,7,8.2
+1813,The Office,7,9.0
+1814,The Office,7,8.3
+1815,The Office,7,7.6
+1816,The Office,7,8.5
+1817,The Office,7,8.4
+1818,The Office,7,9.4
+1819,The Office,7,7.4
+1820,The Office,7,9.4
+1821,The Office,7,7.8
+1822,The Office,7,9.0
+1823,The Office,7,9.8
+1824,The Office,7,7.6
+1825,The Office,7,8.7
+1826,The Office,7,8.8
+1827,The Office,8,8.1
+1828,The Office,8,8.1
+1829,The Office,8,7.2
+1830,The Office,8,8.1
+1831,The Office,8,7.5
+1832,The Office,8,7.6
+1833,The Office,8,7.7
+1834,The Office,8,6.8
+1835,The Office,8,7.7
+1836,The Office,8,7.9
+1837,The Office,8,7.9
+1838,The Office,8,8.0
+1839,The Office,8,7.4
+1840,The Office,8,7.7
+1841,The Office,8,7.8
+1842,The Office,8,8.1
+1843,The Office,8,7.8
+1844,The Office,8,7.8
+1845,The Office,8,6.5
+1846,The Office,8,7.0
+1847,The Office,8,7.0
+1848,The Office,8,7.0
+1849,The Office,8,7.6
+1850,The Office,8,7.7
+1851,The Mary Tyler Moore Show,1,8.5
+1852,The Mary Tyler Moore Show,1,7.9
+1853,The Mary Tyler Moore Show,1,7.6
+1854,The Mary Tyler Moore Show,1,7.7
+1855,The Mary Tyler Moore Show,1,7.2
+1856,The Mary Tyler Moore Show,1,8.4
+1857,The Mary Tyler Moore Show,1,8.2
+1858,The Mary Tyler Moore Show,1,8.1
+1859,The Mary Tyler Moore Show,1,7.6
+1860,The Mary Tyler Moore Show,1,7.7
+1861,The Mary Tyler Moore Show,1,8.0
+1862,The Mary Tyler Moore Show,1,7.6
+1863,The Mary Tyler Moore Show,1,7.1
+1864,The Mary Tyler Moore Show,1,8.1
+1865,The Mary Tyler Moore Show,1,7.0
+1866,The Mary Tyler Moore Show,1,7.5
+1867,The Mary Tyler Moore Show,1,7.9
+1868,The Mary Tyler Moore Show,1,8.2
+1869,The Mary Tyler Moore Show,1,7.6
+1870,The Mary Tyler Moore Show,1,7.8
+1871,The Mary Tyler Moore Show,1,7.8
+1872,The Mary Tyler Moore Show,1,7.7
+1873,The Mary Tyler Moore Show,1,7.4
+1874,The Mary Tyler Moore Show,1,7.2
+1875,The Mary Tyler Moore Show,2,7.9
+1876,The Mary Tyler Moore Show,2,7.1
+1877,The Mary Tyler Moore Show,2,7.4
+1878,The Mary Tyler Moore Show,2,7.8
+1879,The Mary Tyler Moore Show,2,8.3
+1880,The Mary Tyler Moore Show,2,8.1
+1881,The Mary Tyler Moore Show,2,7.7
+1882,The Mary Tyler Moore Show,2,8.1
+1883,The Mary Tyler Moore Show,2,8.0
+1884,The Mary Tyler Moore Show,2,7.4
+1885,The Mary Tyler Moore Show,2,7.8
+1886,The Mary Tyler Moore Show,2,8.0
+1887,The Mary Tyler Moore Show,2,7.9
+1888,The Mary Tyler Moore Show,2,7.6
+1889,The Mary Tyler Moore Show,2,7.4
+1890,The Mary Tyler Moore Show,2,7.8
+1891,The Mary Tyler Moore Show,2,7.9
+1892,The Mary Tyler Moore Show,2,8.0
+1893,The Mary Tyler Moore Show,2,8.1
+1894,The Mary Tyler Moore Show,2,7.2
+1895,The Mary Tyler Moore Show,2,8.2
+1896,The Mary Tyler Moore Show,2,7.6
+1897,The Mary Tyler Moore Show,2,8.1
+1898,The Mary Tyler Moore Show,2,6.9
+1899,The Mary Tyler Moore Show,3,8.2
+1900,The Mary Tyler Moore Show,3,7.5
+1901,The Mary Tyler Moore Show,3,7.5
+1902,The Mary Tyler Moore Show,3,8.4
+1903,The Mary Tyler Moore Show,3,7.9
+1904,The Mary Tyler Moore Show,3,8.6
+1905,The Mary Tyler Moore Show,3,7.5
+1906,The Mary Tyler Moore Show,3,6.9
+1907,The Mary Tyler Moore Show,3,8.4
+1908,The Mary Tyler Moore Show,3,7.1
+1909,The Mary Tyler Moore Show,3,7.7
+1910,The Mary Tyler Moore Show,3,7.2
+1911,The Mary Tyler Moore Show,3,8.4
+1912,The Mary Tyler Moore Show,3,8.0
+1913,The Mary Tyler Moore Show,3,7.7
+1914,The Mary Tyler Moore Show,3,7.5
+1915,The Mary Tyler Moore Show,3,8.5
+1916,The Mary Tyler Moore Show,3,8.3
+1917,The Mary Tyler Moore Show,3,7.2
+1918,The Mary Tyler Moore Show,3,7.6
+1919,The Mary Tyler Moore Show,3,7.1
+1920,The Mary Tyler Moore Show,3,6.7
+1921,The Mary Tyler Moore Show,3,9.1
+1922,The Mary Tyler Moore Show,3,7.9
+1923,The Mary Tyler Moore Show,4,9.2
+1924,The Mary Tyler Moore Show,4,7.5
+1925,The Mary Tyler Moore Show,4,7.9
+1926,The Mary Tyler Moore Show,4,8.1
+1927,The Mary Tyler Moore Show,4,7.9
+1928,The Mary Tyler Moore Show,4,7.7
+1929,The Mary Tyler Moore Show,4,6.8
+1930,The Mary Tyler Moore Show,4,8.8
+1931,The Mary Tyler Moore Show,4,8.0
+1932,The Mary Tyler Moore Show,4,9.1
+1933,The Mary Tyler Moore Show,4,7.5
+1934,The Mary Tyler Moore Show,4,7.8
+1935,The Mary Tyler Moore Show,4,8.0
+1936,The Mary Tyler Moore Show,4,7.8
+1937,The Mary Tyler Moore Show,4,8.3
+1938,The Mary Tyler Moore Show,4,8.1
+1939,The Mary Tyler Moore Show,4,7.7
+1940,The Mary Tyler Moore Show,4,8.5
+1941,The Mary Tyler Moore Show,4,8.2
+1942,The Mary Tyler Moore Show,4,8.9
+1943,The Mary Tyler Moore Show,4,8.6
+1944,The Mary Tyler Moore Show,4,8.4
+1945,The Mary Tyler Moore Show,4,8.5
+1946,The Mary Tyler Moore Show,4,7.7
+1947,The Mary Tyler Moore Show,5,9.2
+1948,The Mary Tyler Moore Show,5,7.9
+1949,The Mary Tyler Moore Show,5,7.8
+1950,The Mary Tyler Moore Show,5,8.2
+1951,The Mary Tyler Moore Show,5,7.9
+1952,The Mary Tyler Moore Show,5,7.3
+1953,The Mary Tyler Moore Show,5,9.0
+1954,The Mary Tyler Moore Show,5,7.6
+1955,The Mary Tyler Moore Show,5,8.6
+1956,The Mary Tyler Moore Show,5,8.1
+1957,The Mary Tyler Moore Show,5,7.8
+1958,The Mary Tyler Moore Show,5,7.5
+1959,The Mary Tyler Moore Show,5,7.6
+1960,The Mary Tyler Moore Show,5,8.3
+1961,The Mary Tyler Moore Show,5,7.5
+1962,The Mary Tyler Moore Show,5,8.3
+1963,The Mary Tyler Moore Show,5,7.9
+1964,The Mary Tyler Moore Show,5,8.3
+1965,The Mary Tyler Moore Show,5,7.8
+1966,The Mary Tyler Moore Show,5,7.3
+1967,The Mary Tyler Moore Show,5,7.9
+1968,The Mary Tyler Moore Show,5,8.2
+1969,The Mary Tyler Moore Show,5,9.1
+1970,The Mary Tyler Moore Show,5,7.8
+1971,The Mary Tyler Moore Show,6,8.1
+1972,The Mary Tyler Moore Show,6,7.9
+1973,The Mary Tyler Moore Show,6,7.5
+1974,The Mary Tyler Moore Show,6,7.4
+1975,The Mary Tyler Moore Show,6,8.1
+1976,The Mary Tyler Moore Show,6,8.1
+1977,The Mary Tyler Moore Show,6,9.4
+1978,The Mary Tyler Moore Show,6,8.3
+1979,The Mary Tyler Moore Show,6,8.6
+1980,The Mary Tyler Moore Show,6,7.7
+1981,The Mary Tyler Moore Show,6,7.2
+1982,The Mary Tyler Moore Show,6,7.7
+1983,The Mary Tyler Moore Show,6,8.3
+1984,The Mary Tyler Moore Show,6,7.0
+1985,The Mary Tyler Moore Show,6,7.9
+1986,The Mary Tyler Moore Show,6,7.8
+1987,The Mary Tyler Moore Show,6,8.4
+1988,The Mary Tyler Moore Show,6,8.8
+1989,The Mary Tyler Moore Show,6,7.7
+1990,The Mary Tyler Moore Show,6,8.0
+1991,The Mary Tyler Moore Show,6,7.9
+1992,The Mary Tyler Moore Show,6,8.0
+1993,The Mary Tyler Moore Show,6,8.5
+1994,The Mary Tyler Moore Show,6,8.0
+1995,The Mary Tyler Moore Show,7,9.0
+1996,The Mary Tyler Moore Show,7,7.9
+1997,The Mary Tyler Moore Show,7,8.5
+1998,The Mary Tyler Moore Show,7,7.6
+1999,The Mary Tyler Moore Show,7,8.4
+2000,The Mary Tyler Moore Show,7,8.0
+2001,The Mary Tyler Moore Show,7,7.6
+2002,The Mary Tyler Moore Show,7,8.1
+2003,The Mary Tyler Moore Show,7,7.9
+2004,The Mary Tyler Moore Show,7,8.3
+2005,The Mary Tyler Moore Show,7,8.4
+2006,The Mary Tyler Moore Show,7,8.2
+2007,The Mary Tyler Moore Show,7,8.0
+2008,The Mary Tyler Moore Show,7,8.7
+2009,The Mary Tyler Moore Show,7,7.6
+2010,The Mary Tyler Moore Show,7,8.2
+2011,The Mary Tyler Moore Show,7,8.8
+2012,The Mary Tyler Moore Show,7,8.0
+2013,The Mary Tyler Moore Show,7,8.0
+2014,The Mary Tyler Moore Show,7,8.3
+2015,The Mary Tyler Moore Show,7,7.4
+2016,The Mary Tyler Moore Show,7,8.0
+2017,The Mary Tyler Moore Show,7,8.1
+2018,The Mary Tyler Moore Show,7,9.4
+2019,Taxi,1,7.5
+2020,Taxi,1,7.1
+2021,Taxi,1,7.5
+2022,Taxi,1,7.0
+2023,Taxi,1,7.3
+2024,Taxi,1,7.0
+2025,Taxi,1,8.0
+2026,Taxi,1,7.9
+2027,Taxi,1,6.8
+2028,Taxi,1,7.3
+2029,Taxi,1,8.4
+2030,Taxi,1,7.6
+2031,Taxi,1,6.9
+2032,Taxi,1,7.5
+2033,Taxi,1,7.2
+2034,Taxi,1,7.5
+2035,Taxi,1,6.9
+2036,Taxi,1,7.5
+2037,Taxi,1,7.5
+2038,Taxi,1,7.1
+2039,Taxi,1,7.0
+2040,Taxi,1,7.3
+2041,Taxi,2,7.6
+2042,Taxi,2,7.4
+2043,Taxi,2,9.2
+2044,Taxi,2,7.2
+2045,Taxi,2,6.9
+2046,Taxi,2,7.0
+2047,Taxi,2,7.2
+2048,Taxi,2,8.1
+2049,Taxi,2,8.0
+2050,Taxi,2,7.1
+2051,Taxi,2,7.4
+2052,Taxi,2,7.9
+2053,Taxi,2,8.0
+2054,Taxi,2,7.8
+2055,Taxi,2,6.7
+2056,Taxi,2,6.6
+2057,Taxi,2,7.5
+2058,Taxi,2,6.9
+2059,Taxi,2,7.6
+2060,Taxi,2,7.9
+2061,Taxi,2,7.2
+2062,Taxi,2,7.7
+2063,Taxi,2,7.2
+2064,Taxi,2,7.3
+2065,Taxi,3,7.4
+2066,Taxi,3,8.3
+2067,Taxi,3,7.3
+2068,Taxi,3,8.0
+2069,Taxi,3,8.6
+2070,Taxi,3,6.9
+2071,Taxi,3,7.8
+2072,Taxi,3,8.2
+2073,Taxi,3,7.6
+2074,Taxi,3,7.3
+2075,Taxi,3,7.6
+2076,Taxi,3,7.2
+2077,Taxi,3,7.9
+2078,Taxi,3,7.1
+2079,Taxi,3,6.8
+2080,Taxi,3,7.6
+2081,Taxi,3,7.1
+2082,Taxi,3,7.5
+2083,Taxi,3,7.2
+2084,Taxi,3,8.3
+2085,Taxi,4,8.6
+2086,Taxi,4,6.3
+2087,Taxi,4,7.9
+2088,Taxi,4,7.6
+2089,Taxi,4,7.6
+2090,Taxi,4,7.3
+2091,Taxi,4,7.3
+2092,Taxi,4,7.0
+2093,Taxi,4,6.9
+2094,Taxi,4,8.0
+2095,Taxi,4,7.7
+2096,Taxi,4,7.3
+2097,Taxi,4,6.6
+2098,Taxi,4,7.3
+2099,Taxi,4,6.9
+2100,Taxi,4,7.2
+2101,Taxi,4,7.3
+2102,Taxi,4,8.0
+2103,Taxi,4,6.8
+2104,Taxi,4,8.8
+2105,Taxi,4,7.1
+2106,Taxi,4,8.2
+2107,Taxi,4,7.9
+2108,Taxi,4,7.5
+2109,Taxi,5,7.6
+2110,Taxi,5,8.3
+2111,Taxi,5,7.7
+2112,Taxi,5,7.4
+2113,Taxi,5,7.5
+2114,Taxi,5,7.5
+2115,Taxi,5,7.2
+2116,Taxi,5,7.3
+2117,Taxi,5,6.6
+2118,Taxi,5,7.4
+2119,Taxi,5,7.3
+2120,Taxi,5,7.3
+2121,Taxi,5,7.5
+2122,Taxi,5,7.7
+2123,Taxi,5,6.8
+2124,Taxi,5,6.5
+2125,Taxi,5,6.6
+2126,Taxi,5,7.5
+2127,Taxi,5,7.8
+2128,Taxi,5,7.5
+2129,Taxi,5,7.1
+2130,Taxi,5,8.1
+2131,Taxi,5,8.1
+2132,Taxi,5,7.4
+2133,30 Rock,1,7.3
+2134,30 Rock,1,7.6
+2135,30 Rock,1,7.9
+2136,30 Rock,1,7.6
+2137,30 Rock,1,8.1
+2138,30 Rock,1,7.7
+2139,30 Rock,1,8.3
+2140,30 Rock,1,7.8
+2141,30 Rock,1,8.0
+2142,30 Rock,1,8.0
+2143,30 Rock,1,8.1
+2144,30 Rock,1,8.5
+2145,30 Rock,1,8.0
+2146,30 Rock,1,7.9
+2147,30 Rock,1,8.4
+2148,30 Rock,1,7.9
+2149,30 Rock,1,7.9
+2150,30 Rock,1,8.2
+2151,30 Rock,1,7.8
+2152,30 Rock,1,8.0
+2153,30 Rock,1,8.2
+2154,30 Rock,2,8.3
+2155,30 Rock,2,8.0
+2156,30 Rock,2,7.8
+2157,30 Rock,2,8.1
+2158,30 Rock,2,8.3
+2159,30 Rock,2,8.2
+2160,30 Rock,2,8.1
+2161,30 Rock,2,7.9
+2162,30 Rock,2,8.2
+2163,30 Rock,2,8.0
+2164,30 Rock,2,8.4
+2165,30 Rock,2,7.8
+2166,30 Rock,2,8.4
+2167,30 Rock,2,8.1
+2168,30 Rock,2,8.5
+2169,30 Rock,3,8.2
+2170,30 Rock,3,8.5
+2171,30 Rock,3,8.0
+2172,30 Rock,3,8.1
+2173,30 Rock,3,8.6
+2174,30 Rock,3,7.8
+2175,30 Rock,3,8.1
+2176,30 Rock,3,7.8
+2177,30 Rock,3,8.0
+2178,30 Rock,3,8.6
+2179,30 Rock,3,8.2
+2180,30 Rock,3,8.1
+2181,30 Rock,3,8.1
+2182,30 Rock,3,8.3
+2183,30 Rock,3,8.1
+2184,30 Rock,3,8.5
+2185,30 Rock,3,7.7
+2186,30 Rock,3,8.0
+2187,30 Rock,3,8.0
+2188,30 Rock,3,7.9
+2189,30 Rock,3,8.1
+2190,30 Rock,3,8.7
+2191,30 Rock,4,7.8
+2192,30 Rock,4,7.8
+2193,30 Rock,4,7.8
+2194,30 Rock,4,8.0
+2195,30 Rock,4,8.0
+2196,30 Rock,4,7.8
+2197,30 Rock,4,8.3
+2198,30 Rock,4,8.1
+2199,30 Rock,4,8.4
+2200,30 Rock,4,8.0
+2201,30 Rock,4,7.5
+2202,30 Rock,4,7.7
+2203,30 Rock,4,8.6
+2204,30 Rock,4,7.9
+2205,30 Rock,4,8.0
+2206,30 Rock,4,7.9
+2207,30 Rock,4,8.0
+2208,30 Rock,4,7.6
+2209,30 Rock,4,7.7
+2210,30 Rock,4,7.8
+2211,30 Rock,4,8.2
+2212,30 Rock,4,8.6
+2213,30 Rock,5,8.0
+2214,30 Rock,5,8.3
+2215,30 Rock,5,7.8
+2216,30 Rock,5,8.6
+2217,30 Rock,5,8.1
+2218,30 Rock,5,7.9
+2219,30 Rock,5,8.0
+2220,30 Rock,5,7.9
+2221,30 Rock,5,7.7
+2222,30 Rock,5,8.0
+2223,30 Rock,5,8.3
+2224,30 Rock,5,8.4
+2225,30 Rock,5,8.0
+2226,30 Rock,5,8.4
+2227,30 Rock,5,8.2
+2228,30 Rock,5,8.3
+2229,30 Rock,5,7.6
+2230,30 Rock,5,7.9
+2231,30 Rock,5,7.7
+2232,30 Rock,5,8.1
+2233,30 Rock,5,8.5
+2234,30 Rock,5,8.0
+2235,30 Rock,5,7.7
+2236,30 Rock,6,8.0
+2237,30 Rock,6,7.9
+2238,30 Rock,6,8.0
+2239,30 Rock,6,7.8
+2240,30 Rock,6,7.9
+2241,30 Rock,6,7.9
+2242,30 Rock,6,8.0
+2243,30 Rock,6,8.5
+2244,30 Rock,6,8.1
+2245,30 Rock,6,7.7
+2246,30 Rock,6,8.1
+2247,30 Rock,6,7.7
+2248,30 Rock,6,7.6
+2249,30 Rock,6,8.4
+2250,30 Rock,6,7.6
+2251,30 Rock,6,7.6
+2252,30 Rock,6,7.6
+2253,30 Rock,6,7.8
+2254,30 Rock,6,8.7
+2255,30 Rock,6,7.4
+2256,30 Rock,6,7.8
+2257,30 Rock,6,8.0
+2258,30 Rock,7,7.7
+2259,30 Rock,7,7.7
+2260,30 Rock,7,7.9
+2261,30 Rock,7,7.9
+2262,30 Rock,7,7.6
+2263,30 Rock,7,7.6
+2264,30 Rock,7,8.3
+2265,30 Rock,7,8.1
+2266,30 Rock,7,8.4
+2267,30 Rock,7,8.0
+2268,30 Rock,7,8.4
+2269,30 Rock,7,9.1
+2270,Everybody Loves Raymond,1,7.4
+2271,Everybody Loves Raymond,1,7.4
+2272,Everybody Loves Raymond,1,7.2
+2273,Everybody Loves Raymond,1,7.9
+2274,Everybody Loves Raymond,1,7.6
+2275,Everybody Loves Raymond,1,6.9
+2276,Everybody Loves Raymond,1,7.5
+2277,Everybody Loves Raymond,1,7.4
+2278,Everybody Loves Raymond,1,7.1
+2279,Everybody Loves Raymond,1,7.6
+2280,Everybody Loves Raymond,1,6.8
+2281,Everybody Loves Raymond,1,7.5
+2282,Everybody Loves Raymond,1,7.2
+2283,Everybody Loves Raymond,1,7.4
+2284,Everybody Loves Raymond,1,7.4
+2285,Everybody Loves Raymond,1,7.6
+2286,Everybody Loves Raymond,1,8.0
+2287,Everybody Loves Raymond,1,7.2
+2288,Everybody Loves Raymond,1,7.6
+2289,Everybody Loves Raymond,1,7.4
+2290,Everybody Loves Raymond,1,7.5
+2291,Everybody Loves Raymond,1,7.9
+2292,Everybody Loves Raymond,2,7.5
+2293,Everybody Loves Raymond,2,7.3
+2294,Everybody Loves Raymond,2,7.4
+2295,Everybody Loves Raymond,2,7.3
+2296,Everybody Loves Raymond,2,7.2
+2297,Everybody Loves Raymond,2,7.6
+2298,Everybody Loves Raymond,2,7.4
+2299,Everybody Loves Raymond,2,6.9
+2300,Everybody Loves Raymond,2,7.7
+2301,Everybody Loves Raymond,2,7.4
+2302,Everybody Loves Raymond,2,8.2
+2303,Everybody Loves Raymond,2,7.9
+2304,Everybody Loves Raymond,2,7.3
+2305,Everybody Loves Raymond,2,7.7
+2306,Everybody Loves Raymond,2,8.2
+2307,Everybody Loves Raymond,2,8.0
+2308,Everybody Loves Raymond,2,8.2
+2309,Everybody Loves Raymond,2,7.5
+2310,Everybody Loves Raymond,2,8.2
+2311,Everybody Loves Raymond,2,7.8
+2312,Everybody Loves Raymond,2,8.1
+2313,Everybody Loves Raymond,2,7.4
+2314,Everybody Loves Raymond,2,7.4
+2315,Everybody Loves Raymond,2,7.8
+2316,Everybody Loves Raymond,2,8.0
+2317,Everybody Loves Raymond,3,8.3
+2318,Everybody Loves Raymond,3,7.8
+2319,Everybody Loves Raymond,3,7.5
+2320,Everybody Loves Raymond,3,7.7
+2321,Everybody Loves Raymond,3,7.3
+2322,Everybody Loves Raymond,3,8.1
+2323,Everybody Loves Raymond,3,7.9
+2324,Everybody Loves Raymond,3,6.9
+2325,Everybody Loves Raymond,3,8.0
+2326,Everybody Loves Raymond,3,8.1
+2327,Everybody Loves Raymond,3,8.2
+2328,Everybody Loves Raymond,3,8.1
+2329,Everybody Loves Raymond,3,7.7
+2330,Everybody Loves Raymond,3,7.6
+2331,Everybody Loves Raymond,3,7.9
+2332,Everybody Loves Raymond,3,7.8
+2333,Everybody Loves Raymond,3,7.2
+2334,Everybody Loves Raymond,3,8.0
+2335,Everybody Loves Raymond,3,7.2
+2336,Everybody Loves Raymond,3,7.5
+2337,Everybody Loves Raymond,3,6.9
+2338,Everybody Loves Raymond,3,7.0
+2339,Everybody Loves Raymond,3,7.4
+2340,Everybody Loves Raymond,3,7.6
+2341,Everybody Loves Raymond,3,8.3
+2342,Everybody Loves Raymond,3,8.4
+2343,Everybody Loves Raymond,4,8.0
+2344,Everybody Loves Raymond,4,8.0
+2345,Everybody Loves Raymond,4,7.0
+2346,Everybody Loves Raymond,4,8.2
+2347,Everybody Loves Raymond,4,7.3
+2348,Everybody Loves Raymond,4,7.4
+2349,Everybody Loves Raymond,4,7.9
+2350,Everybody Loves Raymond,4,8.2
+2351,Everybody Loves Raymond,4,7.6
+2352,Everybody Loves Raymond,4,7.6
+2353,Everybody Loves Raymond,4,7.9
+2354,Everybody Loves Raymond,4,7.9
+2355,Everybody Loves Raymond,4,7.4
+2356,Everybody Loves Raymond,4,7.4
+2357,Everybody Loves Raymond,4,8.3
+2358,Everybody Loves Raymond,4,8.2
+2359,Everybody Loves Raymond,4,7.8
+2360,Everybody Loves Raymond,4,8.6
+2361,Everybody Loves Raymond,4,7.3
+2362,Everybody Loves Raymond,4,7.4
+2363,Everybody Loves Raymond,4,7.8
+2364,Everybody Loves Raymond,4,8.4
+2365,Everybody Loves Raymond,4,7.5
+2366,Everybody Loves Raymond,4,8.3
+2367,Everybody Loves Raymond,5,8.4
+2368,Everybody Loves Raymond,5,8.2
+2369,Everybody Loves Raymond,5,8.5
+2370,Everybody Loves Raymond,5,8.1
+2371,Everybody Loves Raymond,5,7.3
+2372,Everybody Loves Raymond,5,7.7
+2373,Everybody Loves Raymond,5,7.6
+2374,Everybody Loves Raymond,5,7.9
+2375,Everybody Loves Raymond,5,8.0
+2376,Everybody Loves Raymond,5,7.4
+2377,Everybody Loves Raymond,5,7.9
+2378,Everybody Loves Raymond,5,7.4
+2379,Everybody Loves Raymond,5,7.4
+2380,Everybody Loves Raymond,5,8.0
+2381,Everybody Loves Raymond,5,7.4
+2382,Everybody Loves Raymond,5,7.4
+2383,Everybody Loves Raymond,5,7.9
+2384,Everybody Loves Raymond,5,8.1
+2385,Everybody Loves Raymond,5,8.9
+2386,Everybody Loves Raymond,5,7.3
+2387,Everybody Loves Raymond,5,8.0
+2388,Everybody Loves Raymond,5,7.4
+2389,Everybody Loves Raymond,5,7.4
+2390,Everybody Loves Raymond,5,8.2
+2391,Everybody Loves Raymond,5,8.0
+2392,Everybody Loves Raymond,6,8.6
+2393,Everybody Loves Raymond,6,7.5
+2394,Everybody Loves Raymond,6,7.0
+2395,Everybody Loves Raymond,6,7.8
+2396,Everybody Loves Raymond,6,8.6
+2397,Everybody Loves Raymond,6,7.7
+2398,Everybody Loves Raymond,6,7.9
+2399,Everybody Loves Raymond,6,7.4
+2400,Everybody Loves Raymond,6,8.2
+2401,Everybody Loves Raymond,6,8.5
+2402,Everybody Loves Raymond,6,8.2
+2403,Everybody Loves Raymond,6,7.9
+2404,Everybody Loves Raymond,6,8.0
+2405,Everybody Loves Raymond,6,8.1
+2406,Everybody Loves Raymond,6,8.2
+2407,Everybody Loves Raymond,6,8.9
+2408,Everybody Loves Raymond,6,8.4
+2409,Everybody Loves Raymond,6,7.5
+2410,Everybody Loves Raymond,6,7.8
+2411,Everybody Loves Raymond,6,7.5
+2412,Everybody Loves Raymond,6,7.9
+2413,Everybody Loves Raymond,6,7.8
+2414,Everybody Loves Raymond,6,8.1
+2415,Everybody Loves Raymond,6,7.9
+2416,Everybody Loves Raymond,6,7.3
+2417,Everybody Loves Raymond,7,8.2
+2418,Everybody Loves Raymond,7,7.9
+2419,Everybody Loves Raymond,7,7.4
+2420,Everybody Loves Raymond,7,7.6
+2421,Everybody Loves Raymond,7,7.6
+2422,Everybody Loves Raymond,7,7.7
+2423,Everybody Loves Raymond,7,7.8
+2424,Everybody Loves Raymond,7,7.4
+2425,Everybody Loves Raymond,7,9.0
+2426,Everybody Loves Raymond,7,8.1
+2427,Everybody Loves Raymond,7,7.7
+2428,Everybody Loves Raymond,7,7.5
+2429,Everybody Loves Raymond,7,7.4
+2430,Everybody Loves Raymond,7,8.2
+2431,Everybody Loves Raymond,7,7.5
+2432,Everybody Loves Raymond,7,7.3
+2433,Everybody Loves Raymond,7,8.2
+2434,Everybody Loves Raymond,7,8.3
+2435,Everybody Loves Raymond,7,7.5
+2436,Everybody Loves Raymond,7,7.7
+2437,Everybody Loves Raymond,7,8.0
+2438,Everybody Loves Raymond,7,8.7
+2439,Everybody Loves Raymond,7,7.5
+2440,Everybody Loves Raymond,7,8.6
+2441,Everybody Loves Raymond,8,7.2
+2442,Everybody Loves Raymond,8,8.0
+2443,Everybody Loves Raymond,8,7.3
+2444,Everybody Loves Raymond,8,7.9
+2445,Everybody Loves Raymond,8,7.2
+2446,Everybody Loves Raymond,8,7.6
+2447,Everybody Loves Raymond,8,8.1
+2448,Everybody Loves Raymond,8,7.1
+2449,Everybody Loves Raymond,8,8.5
+2450,Everybody Loves Raymond,8,7.8
+2451,Everybody Loves Raymond,8,7.4
+2452,Everybody Loves Raymond,8,7.6
+2453,Everybody Loves Raymond,8,7.4
+2454,Everybody Loves Raymond,8,8.3
+2455,Everybody Loves Raymond,8,7.6
+2456,Everybody Loves Raymond,8,7.6
+2457,Everybody Loves Raymond,8,7.7
+2458,Everybody Loves Raymond,8,8.1
+2459,Everybody Loves Raymond,8,7.9
+2460,Everybody Loves Raymond,8,8.0
+2461,Everybody Loves Raymond,8,8.2
+2462,Everybody Loves Raymond,8,7.7
+2463,Everybody Loves Raymond,8,8.0
+2464,Futurama,1,8.7
+2465,Futurama,1,8.1
+2466,Futurama,1,8.3
+2467,Futurama,1,8.3
+2468,Futurama,1,8.0
+2469,Futurama,1,8.4
+2470,Futurama,1,8.0
+2471,Futurama,1,8.1
+2472,Futurama,1,8.2
+2473,Futurama,2,8.3
+2474,Futurama,2,7.8
+2475,Futurama,2,8.1
+2476,Futurama,2,8.4
+2477,Futurama,2,7.8
+2478,Futurama,2,8.1
+2479,Futurama,2,7.8
+2480,Futurama,2,8.2
+2481,Futurama,2,8.1
+2482,Futurama,2,7.6
+2483,Futurama,2,7.6
+2484,Futurama,2,7.7
+2485,Futurama,2,8.2
+2486,Futurama,2,8.2
+2487,Futurama,2,7.6
+2488,Futurama,2,7.9
+2489,Futurama,2,7.7
+2490,Futurama,2,8.6
+2491,Futurama,2,7.9
+2492,Futurama,2,8.6
+2493,Futurama,3,7.6
+2494,Futurama,3,8.5
+2495,Futurama,3,7.4
+2496,Futurama,3,9.0
+2497,Futurama,3,8.8
+2498,Futurama,3,7.3
+2499,Futurama,3,8.5
+2500,Futurama,3,7.2
+2501,Futurama,3,7.6
+2502,Futurama,3,9.5
+2503,Futurama,3,7.8
+2504,Futurama,3,8.2
+2505,Futurama,3,7.4
+2506,Futurama,3,8.4
+2507,Futurama,3,7.7
+2508,Futurama,4,9.1
+2509,Futurama,4,7.8
+2510,Futurama,4,8.3
+2511,Futurama,4,7.8
+2512,Futurama,4,8.7
+2513,Futurama,4,7.6
+2514,Futurama,4,7.7
+2515,Futurama,4,8.9
+2516,Futurama,4,7.8
+2517,Futurama,4,7.0
+2518,Futurama,4,7.7
+2519,Futurama,4,8.3
+2520,Futurama,5,8.0
+2521,Futurama,5,9.6
+2522,Futurama,5,7.4
+2523,Futurama,5,8.0
+2524,Futurama,5,7.7
+2525,Futurama,5,7.8
+2526,Futurama,5,8.4
+2527,Futurama,5,8.8
+2528,Futurama,5,9.2
+2529,Futurama,5,8.9
+2530,Futurama,5,8.3
+2531,Futurama,5,7.7
+2532,Futurama,5,7.3
+2533,Futurama,5,7.8
+2534,Futurama,5,7.6
+2535,Futurama,5,9.2
+2536,Futurama,6,8.3
+2537,Futurama,6,8.5
+2538,Futurama,6,8.4
+2539,Futurama,6,8.6
+2540,Futurama,6,7.6
+2541,Futurama,6,7.7
+2542,Futurama,6,7.6
+2543,Futurama,6,7.6
+2544,Futurama,6,7.7
+2545,Futurama,6,7.8
+2546,Futurama,6,7.8
+2547,Futurama,6,7.7
+2548,Futurama,6,7.7
+2549,Futurama,6,7.6
+2550,Futurama,6,7.6
+2551,Futurama,6,7.8
+2552,Futurama,7,7.9
+2553,Futurama,7,7.1
+2554,Futurama,7,7.8
+2555,Futurama,7,7.3
+2556,Futurama,7,7.3
+2557,Futurama,7,8.7
+2558,Futurama,7,9.4
+2559,Futurama,7,7.4
+2560,Futurama,7,7.9
+2561,Futurama,7,8.4
+2562,Futurama,7,7.3
+2563,Futurama,7,7.6
+2564,Futurama,7,6.5
+2565,Futurama,8,7.5
+2566,Futurama,8,7.7
+2567,Futurama,8,7.6
+2568,Futurama,8,8.1
+2569,Futurama,8,7.6
+2570,Futurama,8,6.9
+2571,Futurama,8,7.4
+2572,Futurama,8,7.4
+2573,Futurama,8,7.3
+2574,Futurama,8,7.8
+2575,Futurama,8,7.7
+2576,Futurama,8,8.0
+2577,Futurama,8,8.0
+2578,Veep,1,7.3
+2579,Veep,1,7.7
+2580,Veep,1,7.8
+2581,Veep,1,7.8
+2582,Veep,1,8.0
+2583,Veep,1,8.1
+2584,Veep,1,7.9
+2585,Veep,1,8.2
+2586,Veep,2,7.9
+2587,Veep,2,8.0
+2588,Veep,2,8.2
+2589,Veep,2,8.1
+2590,Veep,2,8.6
+2591,Veep,2,8.0
+2592,Veep,2,7.8
+2593,Veep,2,8.1
+2594,Veep,2,8.6
+2595,Veep,2,8.8
+2596,Veep,3,8.2
+2597,Veep,3,8.1
+2598,Veep,3,8.5
+2599,Veep,3,8.3
+2600,Veep,3,8.1
+2601,Veep,3,8.2
+2602,Veep,3,8.4
+2603,Veep,3,8.8
+2604,Veep,3,8.9
+2605,Veep,3,8.6
+2606,Veep,4,8.5
+2607,Veep,4,8.4
+2608,Veep,4,8.2
+2609,Veep,4,8.3
+2610,Veep,4,8.9
+2611,Veep,4,8.1
+2612,Veep,4,8.2
+2613,Veep,4,8.4
+2614,Veep,4,9.0
+2615,Veep,4,9.0
+2616,Veep,5,8.5
+2617,Veep,5,8.2
+2618,Veep,5,8.4
+2619,Veep,5,9.0
+2620,Veep,5,8.1
+2621,Veep,5,8.8
+2622,Veep,5,8.9
+2623,Veep,5,8.9
+2624,Veep,5,9.2
+2625,Veep,5,8.7
+2626,Veep,6,7.7
+2627,Veep,6,8.2
+2628,Veep,6,8.2
+2629,Veep,6,8.1
+2630,Veep,6,8.2
+2631,Veep,6,8.1
+2632,Veep,6,8.3
+2633,Veep,6,8.0
+2634,Veep,6,8.4
+2635,Veep,6,8.5
+2636,Veep,7,8.8
+2637,Veep,7,8.3
+2638,Veep,7,8.4
+2639,Veep,7,8.5
+2640,Veep,7,8.4
+2641,Veep,7,8.6
+2642,Veep,7,9.5
+2643,Scrubs,1,8.5
+2644,Scrubs,1,8.2
+2645,Scrubs,1,8.0
+2646,Scrubs,1,9.2
+2647,Scrubs,1,8.2
+2648,Scrubs,1,8.2
+2649,Scrubs,1,8.1
+2650,Scrubs,1,8.2
+2651,Scrubs,1,8.1
+2652,Scrubs,1,8.1
+2653,Scrubs,1,7.9
+2654,Scrubs,1,8.2
+2655,Scrubs,1,8.0
+2656,Scrubs,1,8.2
+2657,Scrubs,1,8.6
+2658,Scrubs,1,7.9
+2659,Scrubs,1,8.0
+2660,Scrubs,1,7.9
+2661,Scrubs,1,8.1
+2662,Scrubs,1,8.0
+2663,Scrubs,1,7.8
+2664,Scrubs,1,9.1
+2665,Scrubs,1,8.8
+2666,Scrubs,1,8.8
+2667,Scrubs,2,8.7
+2668,Scrubs,2,7.9
+2669,Scrubs,2,8.0
+2670,Scrubs,2,7.9
+2671,Scrubs,2,8.0
+2672,Scrubs,2,8.0
+2673,Scrubs,2,8.0
+2674,Scrubs,2,8.3
+2675,Scrubs,2,8.1
+2676,Scrubs,2,8.2
+2677,Scrubs,2,8.3
+2678,Scrubs,2,8.1
+2679,Scrubs,2,8.6
+2680,Scrubs,2,8.0
+2681,Scrubs,2,8.7
+2682,Scrubs,2,8.1
+2683,Scrubs,2,8.0
+2684,Scrubs,2,8.6
+2685,Scrubs,2,8.0
+2686,Scrubs,2,8.3
+2687,Scrubs,2,8.1
+2688,Scrubs,2,8.6
+2689,Scrubs,3,8.2
+2690,Scrubs,3,7.9
+2691,Scrubs,3,8.0
+2692,Scrubs,3,8.1
+2693,Scrubs,3,8.2
+2694,Scrubs,3,8.0
+2695,Scrubs,3,8.5
+2696,Scrubs,3,8.3
+2697,Scrubs,3,8.0
+2698,Scrubs,3,7.9
+2699,Scrubs,3,8.0
+2700,Scrubs,3,9.0
+2701,Scrubs,3,8.7
+2702,Scrubs,3,9.8
+2703,Scrubs,3,8.1
+2704,Scrubs,3,8.8
+2705,Scrubs,3,8.1
+2706,Scrubs,3,8.1
+2707,Scrubs,3,8.3
+2708,Scrubs,3,8.4
+2709,Scrubs,3,8.3
+2710,Scrubs,3,8.6
+2711,Scrubs,4,8.5
+2712,Scrubs,4,8.3
+2713,Scrubs,4,8.1
+2714,Scrubs,4,8.2
+2715,Scrubs,4,8.1
+2716,Scrubs,4,8.9
+2717,Scrubs,4,8.0
+2718,Scrubs,4,8.8
+2719,Scrubs,4,8.2
+2720,Scrubs,4,8.3
+2721,Scrubs,4,8.4
+2722,Scrubs,4,8.7
+2723,Scrubs,4,8.0
+2724,Scrubs,4,8.3
+2725,Scrubs,4,8.1
+2726,Scrubs,4,8.1
+2727,Scrubs,4,8.4
+2728,Scrubs,4,8.3
+2729,Scrubs,4,8.5
+2730,Scrubs,4,8.4
+2731,Scrubs,4,8.1
+2732,Scrubs,4,8.3
+2733,Scrubs,4,8.0
+2734,Scrubs,4,8.0
+2735,Scrubs,4,8.2
+2736,Scrubs,5,8.1
+2737,Scrubs,5,8.0
+2738,Scrubs,5,8.3
+2739,Scrubs,5,8.5
+2740,Scrubs,5,8.1
+2741,Scrubs,5,8.0
+2742,Scrubs,5,9.3
+2743,Scrubs,5,8.4
+2744,Scrubs,5,8.8
+2745,Scrubs,5,8.5
+2746,Scrubs,5,8.0
+2747,Scrubs,5,8.4
+2748,Scrubs,5,8.6
+2749,Scrubs,5,8.0
+2750,Scrubs,5,8.4
+2751,Scrubs,5,8.5
+2752,Scrubs,5,8.1
+2753,Scrubs,5,8.0
+2754,Scrubs,5,8.7
+2755,Scrubs,5,9.7
+2756,Scrubs,5,9.3
+2757,Scrubs,5,8.1
+2758,Scrubs,5,8.2
+2759,Scrubs,5,8.6
+2760,Scrubs,6,8.1
+2761,Scrubs,6,8.3
+2762,Scrubs,6,8.0
+2763,Scrubs,6,8.3
+2764,Scrubs,6,7.9
+2765,Scrubs,6,9.1
+2766,Scrubs,6,8.3
+2767,Scrubs,6,8.6
+2768,Scrubs,6,8.2
+2769,Scrubs,6,8.0
+2770,Scrubs,6,5.7
+2771,Scrubs,6,8.0
+2772,Scrubs,6,8.3
+2773,Scrubs,6,8.9
+2774,Scrubs,6,9.1
+2775,Scrubs,6,8.3
+2776,Scrubs,6,8.6
+2777,Scrubs,6,8.1
+2778,Scrubs,6,8.6
+2779,Scrubs,6,8.6
+2780,Scrubs,6,8.3
+2781,Scrubs,6,8.6
+2782,Scrubs,7,8.3
+2783,Scrubs,7,8.0
+2784,Scrubs,7,7.9
+2785,Scrubs,7,8.0
+2786,Scrubs,7,8.1
+2787,Scrubs,7,8.2
+2788,Scrubs,7,7.9
+2789,Scrubs,7,8.0
+2790,Scrubs,7,8.6
+2791,Scrubs,7,8.0
+2792,Scrubs,7,8.1
+2793,Scrubs,8,8.2
+2794,Scrubs,8,9.4
+2795,Scrubs,8,7.9
+2796,Scrubs,8,8.2
+2797,Scrubs,8,8.3
+2798,Scrubs,8,8.3
+2799,Scrubs,8,8.0
+2800,Scrubs,8,8.5
+2801,Scrubs,8,7.7
+2802,Scrubs,8,7.8
+2803,Scrubs,8,7.7
+2804,Scrubs,8,7.7
+2805,Scrubs,8,7.8
+2806,Scrubs,8,8.1
+2807,Scrubs,8,8.3
+2808,Scrubs,8,7.9
+2809,Scrubs,8,8.3
+2810,Scrubs,8,9.3
+2811,Scrubs,8,9.8
+2812,Its Always Sunny In Philadelphia,1,8.3
+2813,Its Always Sunny In Philadelphia,1,8.4
+2814,Its Always Sunny In Philadelphia,1,8.4
+2815,Its Always Sunny In Philadelphia,1,8.2
+2816,Its Always Sunny In Philadelphia,1,8.1
+2817,Its Always Sunny In Philadelphia,1,8.2
+2818,Its Always Sunny In Philadelphia,1,8.6
+2819,Its Always Sunny In Philadelphia,2,8.6
+2820,Its Always Sunny In Philadelphia,2,8.7
+2821,Its Always Sunny In Philadelphia,2,9.1
+2822,Its Always Sunny In Philadelphia,2,9.2
+2823,Its Always Sunny In Philadelphia,2,8.8
+2824,Its Always Sunny In Philadelphia,2,8.5
+2825,Its Always Sunny In Philadelphia,2,8.1
+2826,Its Always Sunny In Philadelphia,2,8.1
+2827,Its Always Sunny In Philadelphia,2,8.4
+2828,Its Always Sunny In Philadelphia,2,8.6
+2829,Its Always Sunny In Philadelphia,3,8.7
+2830,Its Always Sunny In Philadelphia,3,8.8
+2831,Its Always Sunny In Philadelphia,3,8.4
+2832,Its Always Sunny In Philadelphia,3,8.9
+2833,Its Always Sunny In Philadelphia,3,8.1
+2834,Its Always Sunny In Philadelphia,3,8.5
+2835,Its Always Sunny In Philadelphia,3,8.3
+2836,Its Always Sunny In Philadelphia,3,8.6
+2837,Its Always Sunny In Philadelphia,3,9.3
+2838,Its Always Sunny In Philadelphia,3,9.1
+2839,Its Always Sunny In Philadelphia,3,8.5
+2840,Its Always Sunny In Philadelphia,3,8.3
+2841,Its Always Sunny In Philadelphia,3,8.5
+2842,Its Always Sunny In Philadelphia,3,8.6
+2843,Its Always Sunny In Philadelphia,3,9.0
+2844,Its Always Sunny In Philadelphia,4,8.5
+2845,Its Always Sunny In Philadelphia,4,9.2
+2846,Its Always Sunny In Philadelphia,4,8.5
+2847,Its Always Sunny In Philadelphia,4,8.6
+2848,Its Always Sunny In Philadelphia,4,9.0
+2849,Its Always Sunny In Philadelphia,4,8.7
+2850,Its Always Sunny In Philadelphia,4,8.4
+2851,Its Always Sunny In Philadelphia,4,8.6
+2852,Its Always Sunny In Philadelphia,4,8.3
+2853,Its Always Sunny In Philadelphia,4,8.9
+2854,Its Always Sunny In Philadelphia,4,7.8
+2855,Its Always Sunny In Philadelphia,4,8.5
+2856,Its Always Sunny In Philadelphia,4,9.7
+2857,Its Always Sunny In Philadelphia,5,8.4
+2858,Its Always Sunny In Philadelphia,5,9.1
+2859,Its Always Sunny In Philadelphia,5,8.1
+2860,Its Always Sunny In Philadelphia,5,8.8
+2861,Its Always Sunny In Philadelphia,5,8.8
+2862,Its Always Sunny In Philadelphia,5,8.4
+2863,Its Always Sunny In Philadelphia,5,8.5
+2864,Its Always Sunny In Philadelphia,5,9.0
+2865,Its Always Sunny In Philadelphia,5,8.6
+2866,Its Always Sunny In Philadelphia,5,9.3
+2867,Its Always Sunny In Philadelphia,5,8.2
+2868,Its Always Sunny In Philadelphia,5,8.6
+2869,Its Always Sunny In Philadelphia,6,8.0
+2870,Its Always Sunny In Philadelphia,6,7.7
+2871,Its Always Sunny In Philadelphia,6,8.9
+2872,Its Always Sunny In Philadelphia,6,8.2
+2873,Its Always Sunny In Philadelphia,6,8.3
+2874,Its Always Sunny In Philadelphia,6,7.8
+2875,Its Always Sunny In Philadelphia,6,9.1
+2876,Its Always Sunny In Philadelphia,6,7.8
+2877,Its Always Sunny In Philadelphia,6,8.9
+2878,Its Always Sunny In Philadelphia,6,8.4
+2879,Its Always Sunny In Philadelphia,6,8.6
+2880,Its Always Sunny In Philadelphia,6,8.5
+2881,Its Always Sunny In Philadelphia,6,9.2
+2882,Its Always Sunny In Philadelphia,7,8.7
+2883,Its Always Sunny In Philadelphia,7,9.2
+2884,Its Always Sunny In Philadelphia,7,8.5
+2885,Its Always Sunny In Philadelphia,7,8.0
+2886,Its Always Sunny In Philadelphia,7,6.8
+2887,Its Always Sunny In Philadelphia,7,8.3
+2888,Its Always Sunny In Philadelphia,7,9.2
+2889,Its Always Sunny In Philadelphia,7,8.4
+2890,Its Always Sunny In Philadelphia,7,8.7
+2891,Its Always Sunny In Philadelphia,7,7.8
+2892,Its Always Sunny In Philadelphia,7,8.9
+2893,Its Always Sunny In Philadelphia,7,8.3
+2894,Its Always Sunny In Philadelphia,7,8.5
+2895,Its Always Sunny In Philadelphia,8,8.0
+2896,Its Always Sunny In Philadelphia,8,8.3
+2897,Its Always Sunny In Philadelphia,8,8.7
+2898,Its Always Sunny In Philadelphia,8,8.9
+2899,Its Always Sunny In Philadelphia,8,9.0
+2900,Its Always Sunny In Philadelphia,8,7.7
+2901,Its Always Sunny In Philadelphia,8,8.1
+2902,Its Always Sunny In Philadelphia,8,8.4
+2903,Its Always Sunny In Philadelphia,8,9.0
+2904,Its Always Sunny In Philadelphia,8,9.0
+2905,Archer,1,7.8
+2906,Archer,1,7.6
+2907,Archer,1,8.2
+2908,Archer,1,7.6
+2909,Archer,1,8.0
+2910,Archer,1,8.2
+2911,Archer,1,8.7
+2912,Archer,1,7.7
+2913,Archer,1,8.1
+2914,Archer,1,8.0
+2915,Archer,2,8.5
+2916,Archer,2,7.8
+2917,Archer,2,7.9
+2918,Archer,2,8.2
+2919,Archer,2,8.1
+2920,Archer,2,7.8
+2921,Archer,2,7.8
+2922,Archer,2,8.6
+2923,Archer,2,9.0
+2924,Archer,2,8.6
+2925,Archer,2,8.1
+2926,Archer,2,8.2
+2927,Archer,2,8.3
+2928,Archer,3,8.5
+2929,Archer,3,8.2
+2930,Archer,3,8.2
+2931,Archer,3,8.4
+2932,Archer,3,8.1
+2933,Archer,3,8.5
+2934,Archer,3,7.8
+2935,Archer,3,8.6
+2936,Archer,3,8.0
+2937,Archer,3,8.0
+2938,Archer,3,7.8
+2939,Archer,3,8.4
+2940,Archer,3,8.4
+2941,Archer,4,8.3
+2942,Archer,4,8.2
+2943,Archer,4,8.0
+2944,Archer,4,7.7
+2945,Archer,4,7.6
+2946,Archer,4,7.6
+2947,Archer,4,7.9
+2948,Archer,4,7.7
+2949,Archer,4,8.0
+2950,Archer,4,7.8
+2951,Archer,4,7.9
+2952,Archer,4,7.8
+2953,Archer,4,8.1
+2954,Archer,5,8.6
+2955,Archer,5,7.8
+2956,Archer,5,7.8
+2957,Archer,5,8.2
+2958,Archer,5,7.8
+2959,Archer,5,7.8
+2960,Archer,5,7.9
+2961,Archer,5,8.3
+2962,Archer,5,8.1
+2963,Archer,5,8.1
+2964,Archer,5,8.1
+2965,Archer,5,8.1
+2966,Archer,5,8.8
+2967,Archer,6,8.2
+2968,Archer,6,8.1
+2969,Archer,6,8.3
+2970,Archer,6,8.1
+2971,Archer,6,8.7
+2972,Archer,6,8.0
+2973,Archer,6,7.8
+2974,Archer,6,8.9
+2975,Archer,6,8.6
+2976,Archer,6,8.2
+2977,Archer,6,8.0
+2978,Archer,6,8.1
+2979,Archer,6,8.6
+2980,Archer,7,8.0
+2981,Archer,7,8.2
+2982,Archer,7,8.5
+2983,Archer,7,8.1
+2984,Archer,7,8.2
+2985,Archer,7,8.4
+2986,Archer,7,8.5
+2987,Archer,7,7.8
+2988,Archer,7,8.2
+2989,Archer,7,8.9
+2990,Archer,8,7.8
+2991,Archer,8,7.7
+2992,Archer,8,7.6
+2993,Archer,8,7.6
+2994,Archer,8,7.2
+2995,Archer,8,7.9
+2996,Archer,8,8.0
+2997,Archer,8,7.6
+2998,The Golden Girls,1,8.1
+2999,The Golden Girls,1,7.9
+3000,The Golden Girls,1,7.6
+3001,The Golden Girls,1,7.8
+3002,The Golden Girls,1,7.9
+3003,The Golden Girls,1,7.4
+3004,The Golden Girls,1,8.1
+3005,The Golden Girls,1,8.1
+3006,The Golden Girls,1,7.8
+3007,The Golden Girls,1,7.9
+3008,The Golden Girls,1,7.5
+3009,The Golden Girls,1,7.6
+3010,The Golden Girls,1,8.5
+3011,The Golden Girls,1,7.3
+3012,The Golden Girls,1,8.3
+3013,The Golden Girls,1,7.0
+3014,The Golden Girls,1,7.5
+3015,The Golden Girls,1,8.2
+3016,The Golden Girls,1,7.5
+3017,The Golden Girls,1,7.6
+3018,The Golden Girls,1,8.4
+3019,The Golden Girls,1,7.7
+3020,The Golden Girls,1,7.5
+3021,The Golden Girls,1,7.3
+3022,The Golden Girls,1,8.7
+3023,The Golden Girls,2,8.1
+3024,The Golden Girls,2,8.8
+3025,The Golden Girls,2,7.7
+3026,The Golden Girls,2,8.7
+3027,The Golden Girls,2,9.0
+3028,The Golden Girls,2,7.8
+3029,The Golden Girls,2,7.2
+3030,The Golden Girls,2,7.8
+3031,The Golden Girls,2,7.9
+3032,The Golden Girls,2,7.7
+3033,The Golden Girls,2,8.0
+3034,The Golden Girls,2,8.2
+3035,The Golden Girls,2,7.5
+3036,The Golden Girls,2,8.5
+3037,The Golden Girls,2,7.4
+3038,The Golden Girls,2,7.7
+3039,The Golden Girls,2,8.1
+3040,The Golden Girls,2,8.1
+3041,The Golden Girls,2,8.4
+3042,The Golden Girls,2,7.6
+3043,The Golden Girls,2,7.3
+3044,The Golden Girls,2,8.0
+3045,The Golden Girls,2,7.1
+3046,The Golden Girls,2,8.4
+3047,The Golden Girls,2,8.2
+3048,The Golden Girls,2,3.7
+3049,The Golden Girls,3,9.0
+3050,The Golden Girls,3,8.4
+3051,The Golden Girls,3,7.8
+3052,The Golden Girls,3,7.7
+3053,The Golden Girls,3,8.1
+3054,The Golden Girls,3,7.3
+3055,The Golden Girls,3,7.5
+3056,The Golden Girls,3,7.8
+3057,The Golden Girls,3,7.8
+3058,The Golden Girls,3,7.6
+3059,The Golden Girls,3,7.9
+3060,The Golden Girls,3,7.2
+3061,The Golden Girls,3,8.4
+3062,The Golden Girls,3,7.4
+3063,The Golden Girls,3,8.1
+3064,The Golden Girls,3,7.8
+3065,The Golden Girls,3,8.3
+3066,The Golden Girls,3,7.0
+3067,The Golden Girls,3,7.0
+3068,The Golden Girls,3,7.5
+3069,The Golden Girls,3,7.7
+3070,The Golden Girls,3,7.3
+3071,The Golden Girls,3,8.1
+3072,The Golden Girls,3,6.2
+3073,The Golden Girls,3,8.4
+3074,The Golden Girls,4,8.3
+3075,The Golden Girls,4,8.1
+3076,The Golden Girls,4,7.7
+3077,The Golden Girls,4,7.9
+3078,The Golden Girls,4,7.5
+3079,The Golden Girls,4,7.9
+3080,The Golden Girls,4,7.6
+3081,The Golden Girls,4,7.9
+3082,The Golden Girls,4,8.5
+3083,The Golden Girls,4,7.8
+3084,The Golden Girls,4,8.1
+3085,The Golden Girls,4,7.8
+3086,The Golden Girls,4,7.5
+3087,The Golden Girls,4,8.0
+3088,The Golden Girls,4,8.5
+3089,The Golden Girls,4,7.5
+3090,The Golden Girls,4,7.3
+3091,The Golden Girls,4,6.7
+3092,The Golden Girls,4,8.1
+3093,The Golden Girls,4,8.0
+3094,The Golden Girls,4,7.4
+3095,The Golden Girls,4,7.8
+3096,The Golden Girls,4,8.1
+3097,The Golden Girls,4,8.1
+3098,The Golden Girls,4,7.0
+3099,The Golden Girls,4,6.9
+3100,The Golden Girls,5,8.0
+3101,The Golden Girls,5,8.3
+3102,The Golden Girls,5,8.0
+3103,The Golden Girls,5,7.4
+3104,The Golden Girls,5,7.3
+3105,The Golden Girls,5,7.7
+3106,The Golden Girls,5,8.5
+3107,The Golden Girls,5,7.6
+3108,The Golden Girls,5,7.5
+3109,The Golden Girls,5,7.1
+3110,The Golden Girls,5,7.8
+3111,The Golden Girls,5,7.5
+3112,The Golden Girls,5,7.4
+3113,The Golden Girls,5,7.7
+3114,The Golden Girls,5,8.0
+3115,The Golden Girls,5,7.9
+3116,The Golden Girls,5,8.1
+3117,The Golden Girls,5,8.3
+3118,The Golden Girls,5,8.1
+3119,The Golden Girls,5,7.4
+3120,The Golden Girls,5,8.0
+3121,The Golden Girls,5,7.4
+3122,The Golden Girls,5,7.8
+3123,The Golden Girls,5,7.5
+3124,The Golden Girls,5,6.5
+3125,The Golden Girls,5,6.6
+3126,The Golden Girls,6,7.6
+3127,The Golden Girls,6,7.7
+3128,The Golden Girls,6,7.6
+3129,The Golden Girls,6,7.5
+3130,The Golden Girls,6,7.9
+3131,The Golden Girls,6,7.9
+3132,The Golden Girls,6,7.7
+3133,The Golden Girls,6,7.9
+3134,The Golden Girls,6,8.5
+3135,The Golden Girls,6,8.1
+3136,The Golden Girls,6,7.7
+3137,The Golden Girls,6,8.2
+3138,The Golden Girls,6,7.7
+3139,The Golden Girls,6,8.7
+3140,The Golden Girls,6,7.6
+3141,The Golden Girls,6,8.3
+3142,The Golden Girls,6,8.2
+3143,The Golden Girls,6,7.7
+3144,The Golden Girls,6,7.7
+3145,The Golden Girls,6,7.5
+3146,The Golden Girls,6,7.8
+3147,The Golden Girls,6,8.5
+3148,The Golden Girls,6,7.8
+3149,The Golden Girls,6,6.8
+3150,The Golden Girls,6,6.9
+3151,The Golden Girls,6,7.8
+3152,The Golden Girls,7,8.0
+3153,The Golden Girls,7,9.1
+3154,The Golden Girls,7,7.7
+3155,The Golden Girls,7,7.9
+3156,The Golden Girls,7,7.8
+3157,The Golden Girls,7,7.8
+3158,The Golden Girls,7,7.9
+3159,The Golden Girls,7,8.1
+3160,The Golden Girls,7,7.6
+3161,The Golden Girls,7,8.0
+3162,The Golden Girls,7,7.9
+3163,The Golden Girls,7,7.6
+3164,The Golden Girls,7,8.1
+3165,The Golden Girls,7,8.3
+3166,The Golden Girls,7,8.0
+3167,The Golden Girls,7,7.9
+3168,The Golden Girls,7,7.7
+3169,The Golden Girls,7,8.6
+3170,The Golden Girls,7,8.2
+3171,The Golden Girls,7,7.6
+3172,The Golden Girls,7,8.1
+3173,The Golden Girls,7,7.9
+3174,The Golden Girls,7,9.2
+3175,Community,1,7.7
+3176,Community,1,7.8
+3177,Community,1,8.2
+3178,Community,1,8.2
+3179,Community,1,7.8
+3180,Community,1,7.7
+3181,Community,1,8.8
+3182,Community,1,8.0
+3183,Community,1,8.8
+3184,Community,1,8.2
+3185,Community,1,7.9
+3186,Community,1,8.5
+3187,Community,1,8.0
+3188,Community,1,7.9
+3189,Community,1,8.1
+3190,Community,1,8.5
+3191,Community,1,9.0
+3192,Community,1,8.0
+3193,Community,1,8.5
+3194,Community,1,8.5
+3195,Community,1,9.3
+3196,Community,1,8.0
+3197,Community,1,9.8
+3198,Community,1,8.2
+3199,Community,1,8.5
+3200,Community,2,8.7
+3201,Community,2,8.3
+3202,Community,2,8.0
+3203,Community,2,8.7
+3204,Community,2,7.8
+3205,Community,2,9.3
+3206,Community,2,8.5
+3207,Community,2,9.1
+3208,Community,2,9.4
+3209,Community,2,8.4
+3210,Community,2,8.8
+3211,Community,2,8.0
+3212,Community,2,7.9
+3213,Community,2,9.5
+3214,Community,2,8.1
+3215,Community,2,8.8
+3216,Community,2,8.3
+3217,Community,2,7.4
+3218,Community,2,9.0
+3219,Community,2,7.5
+3220,Community,2,9.1
+3221,Community,2,8.0
+3222,Community,2,9.7
+3223,Community,2,9.6
+3224,Community,3,8.1
+3225,Community,3,8.1
+3226,Community,3,8.0
+3227,Community,3,9.8
+3228,Community,3,8.8
+3229,Community,3,7.7
+3230,Community,3,8.6
+3231,Community,3,9.1
+3232,Community,3,8.4
+3233,Community,3,8.6
+3234,Community,3,7.7
+3235,Community,3,8.0
+3236,Community,3,8.2
+3237,Community,3,9.3
+3238,Community,3,8.1
+3239,Community,3,8.6
+3240,Community,3,9.5
+3241,Community,3,8.2
+3242,Community,3,9.2
+3243,Community,3,9.5
+3244,Community,3,9.1
+3245,Community,3,8.8
+3246,Community,4,7.3
+3247,Community,4,7.5
+3248,Community,4,7.3
+3249,Community,4,7.1
+3250,Community,4,7.5
+3251,Community,4,7.5
+3252,Community,4,6.7
+3253,Community,4,7.9
+3254,Community,4,6.9
+3255,Community,4,7.6
+3256,Community,4,8.0
+3257,Community,4,8.2
+3258,Community,4,7.7
+3259,Community,5,7.9
+3260,Community,5,8.5
+3261,Community,5,9.0
+3262,Community,5,9.3
+3263,Community,5,9.4
+3264,Community,5,8.1
+3265,Community,5,7.8
+3266,Community,5,9.0
+3267,Community,5,8.1
+3268,Community,5,8.5
+3269,Community,5,8.0
+3270,Community,5,7.8
+3271,Community,5,8.2
+3272,Community,6,7.8
+3273,Community,6,7.5
+3274,Community,6,7.7
+3275,Community,6,8.1
+3276,Community,6,7.7
+3277,Community,6,7.6
+3278,Community,6,7.4
+3279,Community,6,7.9
+3280,Community,6,7.7
+3281,Community,6,7.5
+3282,Community,6,9.0
+3283,Community,6,8.6
+3284,Community,6,9.5
+3285,Sarabhai V/S Sarabhai,1,9.0
+3286,Sarabhai V/S Sarabhai,1,8.7
+3287,Sarabhai V/S Sarabhai,1,8.9
+3288,Sarabhai V/S Sarabhai,1,8.6
+3289,Sarabhai V/S Sarabhai,1,8.5
+3290,Sarabhai V/S Sarabhai,1,9.2
+3291,Sarabhai V/S Sarabhai,1,8.6
+3292,Sarabhai V/S Sarabhai,1,7.8
+3293,Sarabhai V/S Sarabhai,1,8.0
+3294,Sarabhai V/S Sarabhai,1,8.7
+3295,Sarabhai V/S Sarabhai,1,8.6
+3296,Sarabhai V/S Sarabhai,1,8.7
+3297,Sarabhai V/S Sarabhai,1,8.5
+3298,Sarabhai V/S Sarabhai,1,8.4
+3299,Sarabhai V/S Sarabhai,1,8.7
+3300,Sarabhai V/S Sarabhai,1,8.4
+3301,Sarabhai V/S Sarabhai,1,8.7
+3302,Sarabhai V/S Sarabhai,1,8.0
+3303,Sarabhai V/S Sarabhai,1,8.4
+3304,Sarabhai V/S Sarabhai,1,9.0
+3305,Sarabhai V/S Sarabhai,1,8.9
+3306,Sarabhai V/S Sarabhai,1,8.0
+3307,Sarabhai V/S Sarabhai,1,9.1
+3308,Sarabhai V/S Sarabhai,1,9.1
+3309,Sarabhai V/S Sarabhai,1,8.1
+3310,Sarabhai V/S Sarabhai,1,8.9
+3311,Sarabhai V/S Sarabhai,1,8.3
+3312,Sarabhai V/S Sarabhai,2,8.7
+3313,Sarabhai V/S Sarabhai,2,8.7
+3314,Sarabhai V/S Sarabhai,2,8.5
+3315,Sarabhai V/S Sarabhai,2,8.6
+3316,Sarabhai V/S Sarabhai,2,8.9
+3317,Sarabhai V/S Sarabhai,2,9.0
+3318,Sarabhai V/S Sarabhai,2,8.8
+3319,Sarabhai V/S Sarabhai,2,9.0
+3320,Sarabhai V/S Sarabhai,2,8.5
+3321,Sarabhai V/S Sarabhai,2,8.7
+3322,Parks and Recreation,1,7.0
+3323,Parks and Recreation,1,7.1
+3324,Parks and Recreation,1,7.2
+3325,Parks and Recreation,1,7.4
+3326,Parks and Recreation,1,7.2
+3327,Parks and Recreation,1,7.8
+3328,Parks and Recreation,2,8.0
+3329,Parks and Recreation,2,8.2
+3330,Parks and Recreation,2,7.8
+3331,Parks and Recreation,2,8.4
+3332,Parks and Recreation,2,7.7
+3333,Parks and Recreation,2,7.7
+3334,Parks and Recreation,2,8.4
+3335,Parks and Recreation,2,8.4
+3336,Parks and Recreation,2,7.9
+3337,Parks and Recreation,2,8.8
+3338,Parks and Recreation,2,7.9
+3339,Parks and Recreation,2,8.1
+3340,Parks and Recreation,2,8.1
+3341,Parks and Recreation,2,8.0
+3342,Parks and Recreation,2,8.0
+3343,Parks and Recreation,2,7.7
+3344,Parks and Recreation,2,8.1
+3345,Parks and Recreation,2,8.1
+3346,Parks and Recreation,2,8.2
+3347,Parks and Recreation,2,8.0
+3348,Parks and Recreation,2,8.6
+3349,Parks and Recreation,2,8.4
+3350,Parks and Recreation,2,8.6
+3351,Parks and Recreation,2,8.7
+3352,Parks and Recreation,3,8.2
+3353,Parks and Recreation,3,9.0
+3354,Parks and Recreation,3,8.2
+3355,Parks and Recreation,3,8.6
+3356,Parks and Recreation,3,8.1
+3357,Parks and Recreation,3,8.1
+3358,Parks and Recreation,3,8.8
+3359,Parks and Recreation,3,8.1
+3360,Parks and Recreation,3,9.1
+3361,Parks and Recreation,3,8.6
+3362,Parks and Recreation,3,8.7
+3363,Parks and Recreation,3,8.3
+3364,Parks and Recreation,3,8.9
+3365,Parks and Recreation,3,8.6
+3366,Parks and Recreation,3,8.2
+3367,Parks and Recreation,3,8.9
+3368,Parks and Recreation,4,8.2
+3369,Parks and Recreation,4,8.7
+3370,Parks and Recreation,4,8.2
+3371,Parks and Recreation,4,8.4
+3372,Parks and Recreation,4,7.8
+3373,Parks and Recreation,4,8.6
+3374,Parks and Recreation,4,8.1
+3375,Parks and Recreation,4,8.1
+3376,Parks and Recreation,4,8.5
+3377,Parks and Recreation,4,8.5
+3378,Parks and Recreation,4,8.6
+3379,Parks and Recreation,4,8.5
+3380,Parks and Recreation,4,8.7
+3381,Parks and Recreation,4,8.3
+3382,Parks and Recreation,4,8.0
+3383,Parks and Recreation,4,7.8
+3384,Parks and Recreation,4,8.0
+3385,Parks and Recreation,4,8.0
+3386,Parks and Recreation,4,8.0
+3387,Parks and Recreation,4,8.9
+3388,Parks and Recreation,4,8.3
+3389,Parks and Recreation,4,9.1
+3390,Parks and Recreation,5,8.0
+3391,Parks and Recreation,5,8.0
+3392,Parks and Recreation,5,8.1
+3393,Parks and Recreation,5,8.1
+3394,Parks and Recreation,5,8.8
+3395,Parks and Recreation,5,7.9
+3396,Parks and Recreation,5,7.9
+3397,Parks and Recreation,5,7.9
+3398,Parks and Recreation,5,9.0
+3399,Parks and Recreation,5,8.9
+3400,Parks and Recreation,5,8.2
+3401,Parks and Recreation,5,7.8
+3402,Parks and Recreation,5,8.7
+3403,Parks and Recreation,5,9.3
+3404,Parks and Recreation,5,8.0
+3405,Parks and Recreation,5,8.2
+3406,Parks and Recreation,5,7.7
+3407,Parks and Recreation,5,8.4
+3408,Parks and Recreation,5,8.1
+3409,Parks and Recreation,5,8.2
+3410,Parks and Recreation,5,7.7
+3411,Parks and Recreation,5,8.4
+3412,Parks and Recreation,6,8.6
+3413,Parks and Recreation,6,8.7
+3414,Parks and Recreation,6,7.8
+3415,Parks and Recreation,6,8.1
+3416,Parks and Recreation,6,7.9
+3417,Parks and Recreation,6,8.2
+3418,Parks and Recreation,6,7.7
+3419,Parks and Recreation,6,7.8
+3420,Parks and Recreation,6,8.3
+3421,Parks and Recreation,6,7.7
+3422,Parks and Recreation,6,7.7
+3423,Parks and Recreation,6,7.7
+3424,Parks and Recreation,6,9.0
+3425,Parks and Recreation,6,8.0
+3426,Parks and Recreation,6,7.8
+3427,Parks and Recreation,6,7.6
+3428,Parks and Recreation,6,7.8
+3429,Parks and Recreation,6,7.8
+3430,Parks and Recreation,6,8.5
+3431,Parks and Recreation,6,8.3
+3432,Parks and Recreation,6,9.0
+3433,Parks and Recreation,6,9.4
+3434,Parks and Recreation,7,7.7
+3435,Parks and Recreation,7,8.3
+3436,Parks and Recreation,7,7.5
+3437,Parks and Recreation,7,9.6
+3438,Parks and Recreation,7,8.3
+3439,Parks and Recreation,7,8.1
+3440,Parks and Recreation,7,8.5
+3441,Parks and Recreation,7,8.2
+3442,Parks and Recreation,7,8.5
+3443,Parks and Recreation,7,8.5
+3444,Parks and Recreation,7,8.6
+3445,Parks and Recreation,7,9.6
+3446,Malcolm in the Middle,1,8.4
+3447,Malcolm in the Middle,1,8.5
+3448,Malcolm in the Middle,1,8.0
+3449,Malcolm in the Middle,1,7.7
+3450,Malcolm in the Middle,1,8.0
+3451,Malcolm in the Middle,1,8.1
+3452,Malcolm in the Middle,1,7.6
+3453,Malcolm in the Middle,1,8.5
+3454,Malcolm in the Middle,1,7.9
+3455,Malcolm in the Middle,1,7.8
+3456,Malcolm in the Middle,1,8.1
+3457,Malcolm in the Middle,1,8.0
+3458,Malcolm in the Middle,1,8.7
+3459,Malcolm in the Middle,1,7.9
+3460,Malcolm in the Middle,1,8.1
+3461,Malcolm in the Middle,1,8.7
+3462,Malcolm in the Middle,2,8.6
+3463,Malcolm in the Middle,2,8.2
+3464,Malcolm in the Middle,2,8.4
+3465,Malcolm in the Middle,2,8.0
+3466,Malcolm in the Middle,2,8.0
+3467,Malcolm in the Middle,2,8.1
+3468,Malcolm in the Middle,2,7.7
+3469,Malcolm in the Middle,2,7.7
+3470,Malcolm in the Middle,2,7.7
+3471,Malcolm in the Middle,2,8.0
+3472,Malcolm in the Middle,2,7.6
+3473,Malcolm in the Middle,2,8.3
+3474,Malcolm in the Middle,2,8.4
+3475,Malcolm in the Middle,2,7.7
+3476,Malcolm in the Middle,2,7.8
+3477,Malcolm in the Middle,2,8.2
+3478,Malcolm in the Middle,2,7.8
+3479,Malcolm in the Middle,2,8.1
+3480,Malcolm in the Middle,2,8.1
+3481,Malcolm in the Middle,2,9.3
+3482,Malcolm in the Middle,2,8.2
+3483,Malcolm in the Middle,2,7.8
+3484,Malcolm in the Middle,2,7.8
+3485,Malcolm in the Middle,2,8.4
+3486,Malcolm in the Middle,2,8.2
+3487,Malcolm in the Middle,3,7.8
+3488,Malcolm in the Middle,3,8.0
+3489,Malcolm in the Middle,3,7.7
+3490,Malcolm in the Middle,3,7.7
+3491,Malcolm in the Middle,3,8.1
+3492,Malcolm in the Middle,3,7.9
+3493,Malcolm in the Middle,3,8.1
+3494,Malcolm in the Middle,3,7.9
+3495,Malcolm in the Middle,3,7.7
+3496,Malcolm in the Middle,3,7.8
+3497,Malcolm in the Middle,3,8.2
+3498,Malcolm in the Middle,3,8.2
+3499,Malcolm in the Middle,3,8.3
+3500,Malcolm in the Middle,3,7.8
+3501,Malcolm in the Middle,3,7.8
+3502,Malcolm in the Middle,3,7.5
+3503,Malcolm in the Middle,3,8.0
+3504,Malcolm in the Middle,3,7.8
+3505,Malcolm in the Middle,3,6.5
+3506,Malcolm in the Middle,3,7.5
+3507,Malcolm in the Middle,3,7.8
+3508,Malcolm in the Middle,3,8.1
+3509,Malcolm in the Middle,4,8.0
+3510,Malcolm in the Middle,4,7.8
+3511,Malcolm in the Middle,4,8.8
+3512,Malcolm in the Middle,4,7.7
+3513,Malcolm in the Middle,4,7.8
+3514,Malcolm in the Middle,4,7.8
+3515,Malcolm in the Middle,4,8.3
+3516,Malcolm in the Middle,4,8.2
+3517,Malcolm in the Middle,4,7.9
+3518,Malcolm in the Middle,4,8.6
+3519,Malcolm in the Middle,4,7.7
+3520,Malcolm in the Middle,4,7.6
+3521,Malcolm in the Middle,4,8.0
+3522,Malcolm in the Middle,4,7.7
+3523,Malcolm in the Middle,4,7.9
+3524,Malcolm in the Middle,4,7.6
+3525,Malcolm in the Middle,4,6.7
+3526,Malcolm in the Middle,4,7.7
+3527,Malcolm in the Middle,4,7.5
+3528,Malcolm in the Middle,4,8.0
+3529,Malcolm in the Middle,4,8.0
+3530,Malcolm in the Middle,4,7.6
+3531,Malcolm in the Middle,5,7.7
+3532,Malcolm in the Middle,5,7.9
+3533,Malcolm in the Middle,5,7.8
+3534,Malcolm in the Middle,5,8.2
+3535,Malcolm in the Middle,5,7.7
+3536,Malcolm in the Middle,5,7.7
+3537,Malcolm in the Middle,5,7.8
+3538,Malcolm in the Middle,5,7.9
+3539,Malcolm in the Middle,5,7.7
+3540,Malcolm in the Middle,5,7.6
+3541,Malcolm in the Middle,5,7.8
+3542,Malcolm in the Middle,5,7.4
+3543,Malcolm in the Middle,5,7.7
+3544,Malcolm in the Middle,5,8.0
+3545,Malcolm in the Middle,5,7.9
+3546,Malcolm in the Middle,5,7.6
+3547,Malcolm in the Middle,5,7.5
+3548,Malcolm in the Middle,5,7.8
+3549,Malcolm in the Middle,5,7.9
+3550,Malcolm in the Middle,5,7.6
+3551,Malcolm in the Middle,5,8.3
+3552,Malcolm in the Middle,5,8.5
+3553,Malcolm in the Middle,6,7.7
+3554,Malcolm in the Middle,6,8.0
+3555,Malcolm in the Middle,6,8.0
+3556,Malcolm in the Middle,6,8.1
+3557,Malcolm in the Middle,6,7.2
+3558,Malcolm in the Middle,6,8.0
+3559,Malcolm in the Middle,6,7.9
+3560,Malcolm in the Middle,6,7.7
+3561,Malcolm in the Middle,6,7.7
+3562,Malcolm in the Middle,6,8.2
+3563,Malcolm in the Middle,6,8.3
+3564,Malcolm in the Middle,6,7.4
+3565,Malcolm in the Middle,6,7.6
+3566,Malcolm in the Middle,6,7.7
+3567,Malcolm in the Middle,6,7.7
+3568,Malcolm in the Middle,6,7.9
+3569,Malcolm in the Middle,6,7.7
+3570,Malcolm in the Middle,6,7.8
+3571,Malcolm in the Middle,6,7.8
+3572,Malcolm in the Middle,6,7.5
+3573,Malcolm in the Middle,6,7.7
+3574,Malcolm in the Middle,6,7.7
+3575,Malcolm in the Middle,7,8.5
+3576,Malcolm in the Middle,7,7.8
+3577,Malcolm in the Middle,7,7.7
+3578,Malcolm in the Middle,7,8.0
+3579,Malcolm in the Middle,7,8.1
+3580,Malcolm in the Middle,7,7.7
+3581,Malcolm in the Middle,7,8.2
+3582,Malcolm in the Middle,7,7.6
+3583,Malcolm in the Middle,7,7.8
+3584,Malcolm in the Middle,7,7.6
+3585,Malcolm in the Middle,7,7.8
+3586,Malcolm in the Middle,7,7.6
+3587,Malcolm in the Middle,7,7.7
+3588,Malcolm in the Middle,7,7.7
+3589,Malcolm in the Middle,7,7.6
+3590,Malcolm in the Middle,7,8.8
+3591,Malcolm in the Middle,7,7.9
+3592,Malcolm in the Middle,7,8.3
+3593,Malcolm in the Middle,7,7.6
+3594,Malcolm in the Middle,7,7.4
+3595,Malcolm in the Middle,7,7.6
+3596,Malcolm in the Middle,7,9.1
+3597,Louie,1,7.6
+3598,Louie,1,8.0
+3599,Louie,1,8.1
+3600,Louie,1,8.1
+3601,Louie,1,8.2
+3602,Louie,1,8.3
+3603,Louie,1,8.0
+3604,Louie,1,7.9
+3605,Louie,1,8.8
+3606,Louie,1,7.6
+3607,Louie,1,8.0
+3608,Louie,1,8.1
+3609,Louie,1,8.3
+3610,Louie,2,8.0
+3611,Louie,2,8.4
+3612,Louie,2,7.9
+3613,Louie,2,7.9
+3614,Louie,2,7.7
+3615,Louie,2,8.6
+3616,Louie,2,8.0
+3617,Louie,2,8.9
+3618,Louie,2,8.7
+3619,Louie,2,7.7
+3620,Louie,2,9.1
+3621,Louie,2,7.9
+3622,Louie,2,8.4
+3623,Louie,3,7.9
+3624,Louie,3,8.1
+3625,Louie,3,8.2
+3626,Louie,3,8.5
+3627,Louie,3,8.6
+3628,Louie,3,8.5
+3629,Louie,3,7.8
+3630,Louie,3,7.9
+3631,Louie,3,7.7
+3632,Louie,3,8.3
+3633,Louie,3,8.7
+3634,Louie,3,9.3
+3635,Louie,3,9.0
+3636,Louie,4,8.2
+3637,Louie,4,8.7
+3638,Louie,4,9.2
+3639,Louie,4,8.0
+3640,Louie,4,8.1
+3641,Louie,4,8.4
+3642,Louie,4,8.0
+3643,Louie,4,7.8
+3644,Louie,4,8.2
+3645,Louie,4,7.9
+3646,Louie,4,9.2
+3647,Louie,4,9.5
+3648,Louie,4,8.4
+3649,Louie,4,8.4
+3650,Louie,5,8.5
+3651,Louie,5,8.5
+3652,Louie,5,8.5
+3653,Louie,5,8.2
+3654,Louie,5,8.8
+3655,Louie,5,8.5
+3656,Louie,5,7.8
+3657,Louie,5,8.3
+3658,Curb Your Enthusiasm,1,8.1
+3659,Curb Your Enthusiasm,1,7.7
+3660,Curb Your Enthusiasm,1,8.1
+3661,Curb Your Enthusiasm,1,7.9
+3662,Curb Your Enthusiasm,1,8.4
+3663,Curb Your Enthusiasm,1,8.0
+3664,Curb Your Enthusiasm,1,7.6
+3665,Curb Your Enthusiasm,1,8.7
+3666,Curb Your Enthusiasm,1,8.1
+3667,Curb Your Enthusiasm,1,8.7
+3668,Curb Your Enthusiasm,2,8.1
+3669,Curb Your Enthusiasm,2,8.6
+3670,Curb Your Enthusiasm,2,8.8
+3671,Curb Your Enthusiasm,2,8.4
+3672,Curb Your Enthusiasm,2,8.0
+3673,Curb Your Enthusiasm,2,7.6
+3674,Curb Your Enthusiasm,2,9.4
+3675,Curb Your Enthusiasm,2,8.8
+3676,Curb Your Enthusiasm,2,8.3
+3677,Curb Your Enthusiasm,2,8.2
+3678,Curb Your Enthusiasm,3,8.4
+3679,Curb Your Enthusiasm,3,7.9
+3680,Curb Your Enthusiasm,3,8.4
+3681,Curb Your Enthusiasm,3,8.4
+3682,Curb Your Enthusiasm,3,7.9
+3683,Curb Your Enthusiasm,3,8.3
+3684,Curb Your Enthusiasm,3,8.6
+3685,Curb Your Enthusiasm,3,9.0
+3686,Curb Your Enthusiasm,3,8.1
+3687,Curb Your Enthusiasm,3,9.1
+3688,Curb Your Enthusiasm,4,7.9
+3689,Curb Your Enthusiasm,4,8.3
+3690,Curb Your Enthusiasm,4,8.1
+3691,Curb Your Enthusiasm,4,8.1
+3692,Curb Your Enthusiasm,4,8.5
+3693,Curb Your Enthusiasm,4,9.1
+3694,Curb Your Enthusiasm,4,8.7
+3695,Curb Your Enthusiasm,4,8.3
+3696,Curb Your Enthusiasm,4,8.6
+3697,Curb Your Enthusiasm,4,8.9
+3698,Curb Your Enthusiasm,5,8.1
+3699,Curb Your Enthusiasm,5,8.4
+3700,Curb Your Enthusiasm,5,8.4
+3701,Curb Your Enthusiasm,5,8.2
+3702,Curb Your Enthusiasm,5,8.5
+3703,Curb Your Enthusiasm,5,7.8
+3704,Curb Your Enthusiasm,5,8.6
+3705,Curb Your Enthusiasm,5,9.2
+3706,Curb Your Enthusiasm,5,8.2
+3707,Curb Your Enthusiasm,5,8.4
+3708,Curb Your Enthusiasm,6,8.3
+3709,Curb Your Enthusiasm,6,8.5
+3710,Curb Your Enthusiasm,6,8.7
+3711,Curb Your Enthusiasm,6,8.2
+3712,Curb Your Enthusiasm,6,8.6
+3713,Curb Your Enthusiasm,6,8.6
+3714,Curb Your Enthusiasm,6,8.2
+3715,Curb Your Enthusiasm,6,8.8
+3716,Curb Your Enthusiasm,6,9.0
+3717,Curb Your Enthusiasm,6,9.1
+3718,Curb Your Enthusiasm,7,8.4
+3719,Curb Your Enthusiasm,7,8.8
+3720,Curb Your Enthusiasm,7,8.5
+3721,Curb Your Enthusiasm,7,8.3
+3722,Curb Your Enthusiasm,7,9.1
+3723,Curb Your Enthusiasm,7,8.3
+3724,Curb Your Enthusiasm,7,8.8
+3725,Curb Your Enthusiasm,7,8.3
+3726,Curb Your Enthusiasm,7,9.1
+3727,Curb Your Enthusiasm,7,9.2
+3728,Curb Your Enthusiasm,8,8.2
+3729,Curb Your Enthusiasm,8,8.2
+3730,Curb Your Enthusiasm,8,9.3
+3731,Curb Your Enthusiasm,8,8.0
+3732,Curb Your Enthusiasm,8,8.6
+3733,Curb Your Enthusiasm,8,8.7
+3734,Curb Your Enthusiasm,8,7.9
+3735,Curb Your Enthusiasm,8,8.1
+3736,Curb Your Enthusiasm,8,8.7
+3737,Curb Your Enthusiasm,8,8.9
+3738,I Love Lucy,1,8.2
+3739,I Love Lucy,1,8.3
+3740,I Love Lucy,1,8.5
+3741,I Love Lucy,1,8.5
+3742,I Love Lucy,1,8.4
+3743,I Love Lucy,1,8.1
+3744,I Love Lucy,1,8.6
+3745,I Love Lucy,1,8.7
+3746,I Love Lucy,1,8.4
+3747,I Love Lucy,1,8.2
+3748,I Love Lucy,1,8.0
+3749,I Love Lucy,1,7.9
+3750,I Love Lucy,1,8.2
+3751,I Love Lucy,1,7.6
+3752,I Love Lucy,1,7.7
+3753,I Love Lucy,1,8.5
+3754,I Love Lucy,1,8.3
+3755,I Love Lucy,1,8.8
+3756,I Love Lucy,1,8.6
+3757,I Love Lucy,1,7.9
+3758,I Love Lucy,1,8.6
+3759,I Love Lucy,1,8.5
+3760,I Love Lucy,1,8.4
+3761,I Love Lucy,1,8.7
+3762,I Love Lucy,1,8.9
+3763,I Love Lucy,1,7.8
+3764,I Love Lucy,1,8.4
+3765,I Love Lucy,2,9.5
+3766,I Love Lucy,2,8.5
+3767,I Love Lucy,2,8.6
+3768,I Love Lucy,2,8.9
+3769,I Love Lucy,2,8.2
+3770,I Love Lucy,2,8.5
+3771,I Love Lucy,2,8.4
+3772,I Love Lucy,2,8.7
+3773,I Love Lucy,2,8.4
+3774,I Love Lucy,2,8.7
+3775,I Love Lucy,2,7.9
+3776,I Love Lucy,2,8.2
+3777,I Love Lucy,2,8.0
+3778,I Love Lucy,2,8.2
+3779,I Love Lucy,2,8.5
+3780,I Love Lucy,2,8.5
+3781,I Love Lucy,2,8.6
+3782,I Love Lucy,2,8.1
+3783,I Love Lucy,2,8.6
+3784,I Love Lucy,2,8.6
+3785,I Love Lucy,2,8.7
+3786,I Love Lucy,2,8.7
+3787,I Love Lucy,2,8.3
+3788,I Love Lucy,2,8.0
+3789,I Love Lucy,2,8.4
+3790,I Love Lucy,2,8.5
+3791,I Love Lucy,2,8.5
+3792,I Love Lucy,3,8.2
+3793,I Love Lucy,3,8.4
+3794,I Love Lucy,3,8.7
+3795,I Love Lucy,3,8.8
+3796,I Love Lucy,3,8.3
+3797,I Love Lucy,3,8.9
+3798,I Love Lucy,3,8.2
+3799,I Love Lucy,3,8.5
+3800,I Love Lucy,3,8.5
+3801,I Love Lucy,3,8.5
+3802,I Love Lucy,3,8.5
+3803,I Love Lucy,3,8.2
+3804,I Love Lucy,3,8.6
+3805,I Love Lucy,3,8.5
+3806,I Love Lucy,3,8.6
+3807,I Love Lucy,3,8.6
+3808,I Love Lucy,3,8.4
+3809,I Love Lucy,3,8.1
+3810,I Love Lucy,3,8.7
+3811,I Love Lucy,3,8.8
+3812,I Love Lucy,3,8.5
+3813,I Love Lucy,3,8.4
+3814,I Love Lucy,3,8.4
+3815,I Love Lucy,3,8.6
+3816,I Love Lucy,3,8.5
+3817,I Love Lucy,3,8.5
+3818,I Love Lucy,3,8.7
+3819,I Love Lucy,4,8.8
+3820,I Love Lucy,4,8.5
+3821,I Love Lucy,4,8.6
+3822,I Love Lucy,4,8.3
+3823,I Love Lucy,4,8.7
+3824,I Love Lucy,4,8.6
+3825,I Love Lucy,4,8.5
+3826,I Love Lucy,4,8.8
+3827,I Love Lucy,4,8.5
+3828,I Love Lucy,4,8.7
+3829,I Love Lucy,4,8.9
+3830,I Love Lucy,4,8.8
+3831,I Love Lucy,4,8.9
+3832,I Love Lucy,4,8.3
+3833,I Love Lucy,4,8.9
+3834,I Love Lucy,4,9.5
+3835,I Love Lucy,4,8.4
+3836,I Love Lucy,4,8.6
+3837,I Love Lucy,4,8.7
+3838,I Love Lucy,4,8.4
+3839,I Love Lucy,4,8.6
+3840,I Love Lucy,4,8.5
+3841,I Love Lucy,4,8.5
+3842,I Love Lucy,4,8.7
+3843,I Love Lucy,4,8.8
+3844,I Love Lucy,4,8.5
+3845,I Love Lucy,4,8.7
+3846,I Love Lucy,5,8.9
+3847,I Love Lucy,5,9.2
+3848,I Love Lucy,5,8.2
+3849,I Love Lucy,5,8.4
+3850,I Love Lucy,5,9.3
+3851,I Love Lucy,5,8.4
+3852,I Love Lucy,5,8.5
+3853,I Love Lucy,5,8.0
+3854,I Love Lucy,5,8.3
+3855,I Love Lucy,5,8.6
+3856,I Love Lucy,5,8.8
+3857,I Love Lucy,5,8.8
+3858,I Love Lucy,5,8.8
+3859,I Love Lucy,5,8.6
+3860,I Love Lucy,5,8.5
+3861,I Love Lucy,5,8.2
+3862,I Love Lucy,5,7.6
+3863,I Love Lucy,5,8.9
+3864,I Love Lucy,5,8.8
+3865,I Love Lucy,5,9.0
+3866,I Love Lucy,5,8.7
+3867,I Love Lucy,5,8.5
+3868,I Love Lucy,5,9.2
+3869,I Love Lucy,5,8.8
+3870,I Love Lucy,5,8.7
+3871,I Love Lucy,5,9.0
+3872,I Love Lucy,6,8.7
+3873,I Love Lucy,6,8.4
+3874,I Love Lucy,6,8.7
+3875,I Love Lucy,6,8.3
+3876,I Love Lucy,6,8.5
+3877,I Love Lucy,6,8.9
+3878,I Love Lucy,6,9.0
+3879,I Love Lucy,6,8.6
+3880,I Love Lucy,6,8.5
+3881,I Love Lucy,6,8.5
+3882,I Love Lucy,6,8.3
+3883,I Love Lucy,6,8.7
+3884,I Love Lucy,6,9.0
+3885,I Love Lucy,6,8.7
+3886,I Love Lucy,6,8.7
+3887,I Love Lucy,6,8.6
+3888,I Love Lucy,6,8.8
+3889,I Love Lucy,6,8.6
+3890,I Love Lucy,6,8.7
+3891,I Love Lucy,6,8.8
+3892,I Love Lucy,6,8.2
+3893,I Love Lucy,6,8.5
+3894,I Love Lucy,6,8.4
+3895,I Love Lucy,6,8.9
+3896,I Love Lucy,6,8.7
+3897,I Love Lucy,6,8.8
+3898,I Love Lucy,6,8.3
+3899,The IT Crowd,1,7.7
+3900,The IT Crowd,1,8.2
+3901,The IT Crowd,1,7.9
+3902,The IT Crowd,1,8.0
+3903,The IT Crowd,1,8.5
+3904,The IT Crowd,1,8.2
+3905,The IT Crowd,2,9.5
+3906,The IT Crowd,2,8.2
+3907,The IT Crowd,2,8.3
+3908,The IT Crowd,2,8.7
+3909,The IT Crowd,2,7.9
+3910,The IT Crowd,2,7.7
+3911,The IT Crowd,3,7.8
+3912,The IT Crowd,3,8.5
+3913,The IT Crowd,3,8.2
+3914,The IT Crowd,3,9.0
+3915,The IT Crowd,3,8.5
+3916,The IT Crowd,3,7.8
+3917,The IT Crowd,4,8.1
+3918,The IT Crowd,4,8.4
+3919,The IT Crowd,4,7.6
+3920,The IT Crowd,4,8.3
+3921,The IT Crowd,4,8.4
+3922,The IT Crowd,4,7.6
+3923,The Millers,1,6.8
+3924,The Millers,1,7.0
+3925,The Millers,1,7.1
+3926,The Millers,1,6.9
+3927,The Millers,1,7.3
+3928,The Millers,1,7.0
+3929,The Millers,1,7.2
+3930,The Millers,1,6.9
+3931,The Millers,1,7.1
+3932,The Millers,1,7.1
+3933,The Millers,1,7.3
+3934,The Millers,1,7.6
+3935,The Millers,1,7.1
+3936,The Millers,1,7.2
+3937,The Millers,1,6.9
+3938,The Millers,1,6.7
+3939,The Millers,1,6.8
+3940,The Millers,1,6.8
+3941,The Millers,1,7.2
+3942,The Millers,1,6.9
+3943,The Millers,1,7.3
+3944,The Millers,1,7.2
+3945,The Millers,1,7.2
+3946,The Millers,2,7.3
+3947,The Millers,2,7.2
+3948,The Millers,2,7.1
+3949,The Millers,2,7.0
+3950,The Millers,2,6.7
+3951,The Millers,2,7.3
+3952,The Millers,2,7.7
+3953,The Millers,2,7.4
+3954,The Millers,2,7.8
+3955,The Millers,2,7.9
+3956,The Millers,2,7.7
+3957,The Larry Sanders Show,1,7.9
+3958,The Larry Sanders Show,1,7.7
+3959,The Larry Sanders Show,1,8.4
+3960,The Larry Sanders Show,1,7.9
+3961,The Larry Sanders Show,1,7.9
+3962,The Larry Sanders Show,1,8.1
+3963,The Larry Sanders Show,1,7.9
+3964,The Larry Sanders Show,1,8.1
+3965,The Larry Sanders Show,1,7.9
+3966,The Larry Sanders Show,1,7.8
+3967,The Larry Sanders Show,1,7.4
+3968,The Larry Sanders Show,1,7.8
+3969,The Larry Sanders Show,1,8.2
+3970,The Larry Sanders Show,2,7.7
+3971,The Larry Sanders Show,2,8.0
+3972,The Larry Sanders Show,2,7.8
+3973,The Larry Sanders Show,2,7.7
+3974,The Larry Sanders Show,2,7.9
+3975,The Larry Sanders Show,2,7.9
+3976,The Larry Sanders Show,2,8.0
+3977,The Larry Sanders Show,2,7.9
+3978,The Larry Sanders Show,2,7.5
+3979,The Larry Sanders Show,2,7.6
+3980,The Larry Sanders Show,2,7.7
+3981,The Larry Sanders Show,2,7.7
+3982,The Larry Sanders Show,2,7.7
+3983,The Larry Sanders Show,2,7.5
+3984,The Larry Sanders Show,2,7.8
+3985,The Larry Sanders Show,2,8.3
+3986,The Larry Sanders Show,2,7.8
+3987,The Larry Sanders Show,2,8.1
+3988,The Larry Sanders Show,3,7.8
+3989,The Larry Sanders Show,3,7.6
+3990,The Larry Sanders Show,3,7.8
+3991,The Larry Sanders Show,3,7.9
+3992,The Larry Sanders Show,3,7.4
+3993,The Larry Sanders Show,3,8.7
+3994,The Larry Sanders Show,3,8.0
+3995,The Larry Sanders Show,3,8.1
+3996,The Larry Sanders Show,3,7.9
+3997,The Larry Sanders Show,3,8.1
+3998,The Larry Sanders Show,3,7.7
+3999,The Larry Sanders Show,3,7.4
+4000,The Larry Sanders Show,3,8.2
+4001,The Larry Sanders Show,3,8.1
+4002,The Larry Sanders Show,3,8.2
+4003,The Larry Sanders Show,3,7.6
+4004,The Larry Sanders Show,3,7.6
+4005,The Larry Sanders Show,4,7.9
+4006,The Larry Sanders Show,4,8.2
+4007,The Larry Sanders Show,4,8.5
+4008,The Larry Sanders Show,4,8.2
+4009,The Larry Sanders Show,4,7.8
+4010,The Larry Sanders Show,4,7.6
+4011,The Larry Sanders Show,4,9.0
+4012,The Larry Sanders Show,4,7.7
+4013,The Larry Sanders Show,4,7.7
+4014,The Larry Sanders Show,4,7.9
+4015,The Larry Sanders Show,4,8.1
+4016,The Larry Sanders Show,4,8.0
+4017,The Larry Sanders Show,4,7.8
+4018,The Larry Sanders Show,4,7.9
+4019,The Larry Sanders Show,4,7.6
+4020,The Larry Sanders Show,4,8.4
+4021,The Larry Sanders Show,4,7.3
+4022,The Larry Sanders Show,5,8.5
+4023,The Larry Sanders Show,5,7.9
+4024,The Larry Sanders Show,5,7.8
+4025,The Larry Sanders Show,5,7.8
+4026,The Larry Sanders Show,5,7.7
+4027,The Larry Sanders Show,5,7.8
+4028,The Larry Sanders Show,5,6.9
+4029,The Larry Sanders Show,5,7.8
+4030,The Larry Sanders Show,5,7.6
+4031,The Larry Sanders Show,5,8.0
+4032,The Larry Sanders Show,5,7.8
+4033,The Larry Sanders Show,5,7.0
+4034,The Larry Sanders Show,5,7.7
+4035,The Larry Sanders Show,6,7.8
+4036,The Larry Sanders Show,6,7.7
+4037,The Larry Sanders Show,6,8.1
+4038,The Larry Sanders Show,6,8.2
+4039,The Larry Sanders Show,6,7.8
+4040,The Larry Sanders Show,6,8.5
+4041,The Larry Sanders Show,6,7.7
+4042,The Larry Sanders Show,6,7.8
+4043,The Larry Sanders Show,6,7.5
+4044,The Larry Sanders Show,6,7.7
+4045,The Larry Sanders Show,6,9.1
+4046,Fawlty Towers,1,8.6
+4047,Fawlty Towers,1,8.5
+4048,Fawlty Towers,1,8.4
+4049,Fawlty Towers,1,8.9
+4050,Fawlty Towers,1,8.9
+4051,Fawlty Towers,1,9.3
+4052,Fawlty Towers,2,9.3
+4053,Fawlty Towers,2,9.1
+4054,Fawlty Towers,2,8.4
+4055,Fawlty Towers,2,9.2
+4056,Fawlty Towers,2,8.6
+4057,Fawlty Towers,2,9.0
+4058,El Chavo del Ocho,1,8.0
+4059,El Chavo del Ocho,1,8.4
+4060,El Chavo del Ocho,1,7.2
+4061,El Chavo del Ocho,1,8.2
+4062,El Chavo del Ocho,1,7.6
+4063,El Chavo del Ocho,1,7.7
+4064,El Chavo del Ocho,1,8.1
+4065,El Chavo del Ocho,1,9.3
+4066,El Chavo del Ocho,3,8.2
+4067,El Chavo del Ocho,3,7.8
+4068,El Chavo del Ocho,3,7.6
+4069,El Chavo del Ocho,3,7.6
+4070,El Chavo del Ocho,3,7.4
+4071,El Chavo del Ocho,4,8.5
+4072,El Chavo del Ocho,4,8.2
+4073,El Chavo del Ocho,4,8.1
+4074,El Chavo del Ocho,4,8.6
+4075,El Chavo del Ocho,4,8.1
+4076,El Chavo del Ocho,7,7.8
+4077,El Chavo del Ocho,7,7.8
+4078,Only Fools and Horses,1,7.9
+4079,Only Fools and Horses,1,8.4
+4080,Only Fools and Horses,1,8.2
+4081,Only Fools and Horses,1,7.8
+4082,Only Fools and Horses,1,7.7
+4083,Only Fools and Horses,1,8.0
+4084,Only Fools and Horses,1,7.8
+4085,Only Fools and Horses,2,8.2
+4086,Only Fools and Horses,2,8.3
+4087,Only Fools and Horses,2,9.0
+4088,Only Fools and Horses,2,8.0
+4089,Only Fools and Horses,2,8.6
+4090,Only Fools and Horses,2,8.2
+4091,Only Fools and Horses,2,9.0
+4092,Only Fools and Horses,2,7.8
+4093,Only Fools and Horses,3,8.2
+4094,Only Fools and Horses,3,8.5
+4095,Only Fools and Horses,3,8.9
+4096,Only Fools and Horses,3,8.1
+4097,Only Fools and Horses,3,8.7
+4098,Only Fools and Horses,3,8.1
+4099,Only Fools and Horses,3,8.6
+4100,Only Fools and Horses,3,8.3
+4101,Only Fools and Horses,4,8.4
+4102,Only Fools and Horses,4,8.6
+4103,Only Fools and Horses,4,8.3
+4104,Only Fools and Horses,4,8.2
+4105,Only Fools and Horses,4,8.4
+4106,Only Fools and Horses,4,8.0
+4107,Only Fools and Horses,4,8.3
+4108,Only Fools and Horses,4,9.1
+4109,Only Fools and Horses,5,8.3
+4110,Only Fools and Horses,5,8.2
+4111,Only Fools and Horses,5,8.6
+4112,Only Fools and Horses,5,8.9
+4113,Only Fools and Horses,5,7.9
+4114,Only Fools and Horses,5,8.1
+4115,Only Fools and Horses,5,7.4
+4116,Only Fools and Horses,5,8.6
+4117,Only Fools and Horses,5,9.0
+4118,Only Fools and Horses,6,9.3
+4119,Only Fools and Horses,6,9.2
+4120,Only Fools and Horses,6,9.4
+4121,Only Fools and Horses,6,9.3
+4122,Only Fools and Horses,6,8.4
+4123,Only Fools and Horses,6,9.1
+4124,Only Fools and Horses,6,9.6
+4125,Only Fools and Horses,7,8.4
+4126,Only Fools and Horses,7,8.2
+4127,Only Fools and Horses,7,9.1
+4128,Only Fools and Horses,7,8.9
+4129,Only Fools and Horses,7,8.4
+4130,Only Fools and Horses,7,8.8
+4131,Only Fools and Horses,7,8.4
+4132,Only Fools and Horses,7,8.5
+4133,Only Fools and Horses,7,8.7
+4134,Only Fools and Horses,7,8.4
+4135,Only Fools and Horses,8,9.4
+4136,Only Fools and Horses,8,8.7
+4137,Only Fools and Horses,8,9.6
+4138,Still Game,1,7.9
+4139,Still Game,1,8.0
+4140,Still Game,1,8.7
+4141,Still Game,1,8.4
+4142,Still Game,1,8.2
+4143,Still Game,1,8.3
+4144,Still Game,2,8.6
+4145,Still Game,2,8.4
+4146,Still Game,2,8.5
+4147,Still Game,2,8.0
+4148,Still Game,2,8.2
+4149,Still Game,2,8.6
+4150,Still Game,2,8.6
+4151,Still Game,2,8.1
+4152,Still Game,2,8.4
+4153,Still Game,3,8.1
+4154,Still Game,3,8.2
+4155,Still Game,3,8.7
+4156,Still Game,3,8.9
+4157,Still Game,3,8.3
+4158,Still Game,3,7.9
+4159,Still Game,4,8.2
+4160,Still Game,4,7.8
+4161,Still Game,4,8.2
+4162,Still Game,4,7.8
+4163,Still Game,4,8.7
+4164,Still Game,4,8.3
+4165,Still Game,4,7.5
+4166,Still Game,5,8.8
+4167,Still Game,5,8.7
+4168,Still Game,5,8.6
+4169,Still Game,5,8.1
+4170,Still Game,5,7.7
+4171,Still Game,5,7.9
+4172,Still Game,5,8.5
+4173,Still Game,6,8.0
+4174,Still Game,6,8.7
+4175,Still Game,6,8.3
+4176,Still Game,6,8.0
+4177,Still Game,6,8.3
+4178,Still Game,6,7.6
+4179,Still Game,6,7.9
+4180,Still Game,6,8.0
+4181,Still Game,6,7.9
+4182,Still Game,7,8.2
+4183,Still Game,7,8.3
+4184,Still Game,7,7.6
+4185,Still Game,7,6.9
+4186,Still Game,7,7.2
+4187,Still Game,7,7.6
+4188,Still Game,8,7.7
+4189,Still Game,8,7.8
+4190,Still Game,8,6.8
+4191,Still Game,8,7.0
+4192,Still Game,8,6.5
+4193,Still Game,8,6.6
+4194,Gravity Falls,1,8.4
+4195,Gravity Falls,1,8.0
+4196,Gravity Falls,1,8.1
+4197,Gravity Falls,1,7.8
+4198,Gravity Falls,1,8.7
+4199,Gravity Falls,1,8.0
+4200,Gravity Falls,1,8.7
+4201,Gravity Falls,1,8.3
+4202,Gravity Falls,1,9.1
+4203,Gravity Falls,1,8.7
+4204,Gravity Falls,1,8.0
+4205,Gravity Falls,1,8.7
+4206,Gravity Falls,1,8.0
+4207,Gravity Falls,1,8.2
+4208,Gravity Falls,1,7.8
+4209,Gravity Falls,1,8.6
+4210,Gravity Falls,1,7.5
+4211,Gravity Falls,1,8.5
+4212,Gravity Falls,1,9.3
+4213,Gravity Falls,1,9.3
+4214,Gravity Falls,2,8.9
+4215,Gravity Falls,2,9.3
+4216,Gravity Falls,2,8.2
+4217,Gravity Falls,2,8.7
+4218,Gravity Falls,2,8.7
+4219,Gravity Falls,2,8.0
+4220,Gravity Falls,2,9.2
+4221,Gravity Falls,2,9.0
+4222,Gravity Falls,2,7.8
+4223,Gravity Falls,2,9.2
+4224,Gravity Falls,2,9.8
+4225,Gravity Falls,2,9.6
+4226,Gravity Falls,2,8.5
+4227,Gravity Falls,2,8.3
+4228,Gravity Falls,2,9.0
+4229,Gravity Falls,2,8.1
+4230,Gravity Falls,2,9.4
+4231,Gravity Falls,2,9.5
+4232,Gravity Falls,2,9.3
+4233,Gravity Falls,2,9.8
+4234,3rd Rock From The Sun,1,8.0
+4235,3rd Rock From The Sun,1,8.0
+4236,3rd Rock From The Sun,1,8.0
+4237,3rd Rock From The Sun,1,7.9
+4238,3rd Rock From The Sun,1,7.9
+4239,3rd Rock From The Sun,1,7.9
+4240,3rd Rock From The Sun,1,7.9
+4241,3rd Rock From The Sun,1,8.1
+4242,3rd Rock From The Sun,1,7.6
+4243,3rd Rock From The Sun,1,7.9
+4244,3rd Rock From The Sun,1,7.8
+4245,3rd Rock From The Sun,1,8.0
+4246,3rd Rock From The Sun,1,7.8
+4247,3rd Rock From The Sun,1,7.6
+4248,3rd Rock From The Sun,1,8.0
+4249,3rd Rock From The Sun,1,8.3
+4250,3rd Rock From The Sun,1,7.8
+4251,3rd Rock From The Sun,1,7.7
+4252,3rd Rock From The Sun,1,8.0
+4253,3rd Rock From The Sun,1,8.2
+4254,3rd Rock From The Sun,2,7.8
+4255,3rd Rock From The Sun,2,7.8
+4256,3rd Rock From The Sun,2,7.8
+4257,3rd Rock From The Sun,2,7.6
+4258,3rd Rock From The Sun,2,7.7
+4259,3rd Rock From The Sun,2,7.6
+4260,3rd Rock From The Sun,2,8.0
+4261,3rd Rock From The Sun,2,8.0
+4262,3rd Rock From The Sun,2,8.0
+4263,3rd Rock From The Sun,2,8.1
+4264,3rd Rock From The Sun,2,7.6
+4265,3rd Rock From The Sun,2,8.0
+4266,3rd Rock From The Sun,2,8.1
+4267,3rd Rock From The Sun,2,7.7
+4268,3rd Rock From The Sun,2,7.9
+4269,3rd Rock From The Sun,2,7.6
+4270,3rd Rock From The Sun,2,7.6
+4271,3rd Rock From The Sun,2,7.9
+4272,3rd Rock From The Sun,2,7.9
+4273,3rd Rock From The Sun,2,7.7
+4274,3rd Rock From The Sun,2,7.8
+4275,3rd Rock From The Sun,2,7.9
+4276,3rd Rock From The Sun,2,7.6
+4277,3rd Rock From The Sun,2,7.8
+4278,3rd Rock From The Sun,2,7.6
+4279,3rd Rock From The Sun,2,7.7
+4280,3rd Rock From The Sun,3,7.5
+4281,3rd Rock From The Sun,3,7.5
+4282,3rd Rock From The Sun,3,7.9
+4283,3rd Rock From The Sun,3,8.0
+4284,3rd Rock From The Sun,3,7.9
+4285,3rd Rock From The Sun,3,7.8
+4286,3rd Rock From The Sun,3,8.0
+4287,3rd Rock From The Sun,3,7.8
+4288,3rd Rock From The Sun,3,6.3
+4289,3rd Rock From The Sun,3,7.9
+4290,3rd Rock From The Sun,3,7.6
+4291,3rd Rock From The Sun,3,7.6
+4292,3rd Rock From The Sun,3,7.6
+4293,3rd Rock From The Sun,3,7.7
+4294,3rd Rock From The Sun,3,7.7
+4295,3rd Rock From The Sun,3,7.6
+4296,3rd Rock From The Sun,3,8.0
+4297,3rd Rock From The Sun,3,7.9
+4298,3rd Rock From The Sun,3,7.8
+4299,3rd Rock From The Sun,3,7.7
+4300,3rd Rock From The Sun,3,7.7
+4301,3rd Rock From The Sun,3,8.0
+4302,3rd Rock From The Sun,3,8.1
+4303,3rd Rock From The Sun,3,7.8
+4304,3rd Rock From The Sun,3,7.9
+4305,3rd Rock From The Sun,3,8.0
+4306,3rd Rock From The Sun,3,8.1
+4307,3rd Rock From The Sun,4,7.9
+4308,3rd Rock From The Sun,4,7.7
+4309,3rd Rock From The Sun,4,7.7
+4310,3rd Rock From The Sun,4,8.3
+4311,3rd Rock From The Sun,4,8.0
+4312,3rd Rock From The Sun,4,7.9
+4313,3rd Rock From The Sun,4,7.8
+4314,3rd Rock From The Sun,4,8.0
+4315,3rd Rock From The Sun,4,7.7
+4316,3rd Rock From The Sun,4,8.5
+4317,3rd Rock From The Sun,4,8.3
+4318,3rd Rock From The Sun,4,8.0
+4319,3rd Rock From The Sun,4,7.8
+4320,3rd Rock From The Sun,4,7.8
+4321,3rd Rock From The Sun,4,7.7
+4322,3rd Rock From The Sun,4,8.1
+4323,3rd Rock From The Sun,4,8.2
+4324,3rd Rock From The Sun,4,7.8
+4325,3rd Rock From The Sun,4,7.8
+4326,3rd Rock From The Sun,4,7.9
+4327,3rd Rock From The Sun,4,8.2
+4328,3rd Rock From The Sun,4,7.7
+4329,3rd Rock From The Sun,4,8.1
+4330,3rd Rock From The Sun,4,8.0
+4331,3rd Rock From The Sun,5,7.5
+4332,3rd Rock From The Sun,5,8.1
+4333,3rd Rock From The Sun,5,7.8
+4334,3rd Rock From The Sun,5,8.5
+4335,3rd Rock From The Sun,5,8.0
+4336,3rd Rock From The Sun,5,7.9
+4337,3rd Rock From The Sun,5,8.0
+4338,3rd Rock From The Sun,5,7.8
+4339,3rd Rock From The Sun,5,8.3
+4340,3rd Rock From The Sun,5,7.8
+4341,3rd Rock From The Sun,5,8.0
+4342,3rd Rock From The Sun,5,7.9
+4343,3rd Rock From The Sun,5,8.0
+4344,3rd Rock From The Sun,5,7.8
+4345,3rd Rock From The Sun,5,7.7
+4346,3rd Rock From The Sun,5,7.6
+4347,3rd Rock From The Sun,5,7.9
+4348,3rd Rock From The Sun,5,7.7
+4349,3rd Rock From The Sun,5,8.2
+4350,3rd Rock From The Sun,5,8.0
+4351,3rd Rock From The Sun,5,7.9
+4352,3rd Rock From The Sun,5,7.7
+4353,3rd Rock From The Sun,6,7.4
+4354,3rd Rock From The Sun,6,8.2
+4355,3rd Rock From The Sun,6,7.5
+4356,3rd Rock From The Sun,6,7.3
+4357,3rd Rock From The Sun,6,7.2
+4358,3rd Rock From The Sun,6,7.5
+4359,3rd Rock From The Sun,6,7.6
+4360,3rd Rock From The Sun,6,7.7
+4361,3rd Rock From The Sun,6,7.9
+4362,3rd Rock From The Sun,6,7.7
+4363,3rd Rock From The Sun,6,7.6
+4364,3rd Rock From The Sun,6,7.7
+4365,3rd Rock From The Sun,6,7.6
+4366,3rd Rock From The Sun,6,7.4
+4367,3rd Rock From The Sun,6,7.7
+4368,3rd Rock From The Sun,6,7.5
+4369,3rd Rock From The Sun,6,7.7
+4370,3rd Rock From The Sun,6,7.8
+4371,3rd Rock From The Sun,6,8.4
+4372,3rd Rock From The Sun,6,8.7
+4373,Mind Your Language,1,8.4
+4374,Mind Your Language,1,8.2
+4375,Mind Your Language,1,7.8
+4376,Mind Your Language,1,8.1
+4377,Mind Your Language,1,8.1
+4378,Mind Your Language,1,8.3
+4379,Mind Your Language,1,8.2
+4380,Mind Your Language,1,8.0
+4381,Mind Your Language,1,8.4
+4382,Mind Your Language,1,7.7
+4383,Mind Your Language,1,8.1
+4384,Mind Your Language,1,7.8
+4385,Mind Your Language,1,8.3
+4386,Mind Your Language,2,8.3
+4387,Mind Your Language,2,8.3
+4388,Mind Your Language,2,7.8
+4389,Mind Your Language,2,7.9
+4390,Mind Your Language,2,8.2
+4391,Mind Your Language,2,8.1
+4392,Mind Your Language,2,7.9
+4393,Mind Your Language,2,8.2
+4394,Mind Your Language,3,8.2
+4395,Mind Your Language,3,7.9
+4396,Mind Your Language,3,8.6
+4397,Mind Your Language,3,8.0
+4398,Mind Your Language,3,7.9
+4399,Mind Your Language,3,8.1
+4400,Mind Your Language,3,8.0
+4401,Mind Your Language,3,8.3
+4402,Mind Your Language,4,8.5
+4403,Mind Your Language,4,7.9
+4404,Mind Your Language,4,7.6
+4405,Mind Your Language,4,7.4
+4406,Mind Your Language,4,6.5
+4407,Mind Your Language,4,7.1
+4408,Mind Your Language,4,6.7
+4409,Mind Your Language,4,7.3
+4410,Mind Your Language,4,7.1
+4411,Mind Your Language,4,6.1
+4412,Mind Your Language,4,7.6
+4413,Mind Your Language,4,5.9
+4414,Mind Your Language,4,7.3
+4415,Flight of the Conchords,1,8.3
+4416,Flight of the Conchords,1,8.3
+4417,Flight of the Conchords,1,8.9
+4418,Flight of the Conchords,1,8.6
+4419,Flight of the Conchords,1,8.2
+4420,Flight of the Conchords,1,8.2
+4421,Flight of the Conchords,1,8.6
+4422,Flight of the Conchords,1,8.5
+4423,Flight of the Conchords,1,8.4
+4424,Flight of the Conchords,1,8.4
+4425,Flight of the Conchords,1,8.6
+4426,Flight of the Conchords,1,8.2
+4427,Flight of the Conchords,2,8.2
+4428,Flight of the Conchords,2,8.8
+4429,Flight of the Conchords,2,8.7
+4430,Flight of the Conchords,2,8.2
+4431,Flight of the Conchords,2,8.9
+4432,Flight of the Conchords,2,8.5
+4433,Flight of the Conchords,2,8.4
+4434,Flight of the Conchords,2,8.0
+4435,Flight of the Conchords,2,8.0
+4436,Flight of the Conchords,2,8.3
+4437,My Name Is Earl,1,8.4
+4438,My Name Is Earl,1,8.0
+4439,My Name Is Earl,1,8.0
+4440,My Name Is Earl,1,8.2
+4441,My Name Is Earl,1,8.0
+4442,My Name Is Earl,1,7.8
+4443,My Name Is Earl,1,8.0
+4444,My Name Is Earl,1,8.2
+4445,My Name Is Earl,1,7.7
+4446,My Name Is Earl,1,7.9
+4447,My Name Is Earl,1,7.6
+4448,My Name Is Earl,1,8.1
+4449,My Name Is Earl,1,8.0
+4450,My Name Is Earl,1,7.7
+4451,My Name Is Earl,1,7.8
+4452,My Name Is Earl,1,8.3
+4453,My Name Is Earl,1,7.7
+4454,My Name Is Earl,1,8.2
+4455,My Name Is Earl,1,8.4
+4456,My Name Is Earl,1,7.6
+4457,My Name Is Earl,1,8.1
+4458,My Name Is Earl,1,8.0
+4459,My Name Is Earl,1,7.6
+4460,My Name Is Earl,1,8.4
+4461,My Name Is Earl,2,7.7
+4462,My Name Is Earl,2,7.9
+4463,My Name Is Earl,2,7.8
+4464,My Name Is Earl,2,7.7
+4465,My Name Is Earl,2,7.9
+4466,My Name Is Earl,2,7.8
+4467,My Name Is Earl,2,7.8
+4468,My Name Is Earl,2,8.2
+4469,My Name Is Earl,2,7.7
+4470,My Name Is Earl,2,8.1
+4471,My Name Is Earl,2,8.2
+4472,My Name Is Earl,2,8.9
+4473,My Name Is Earl,2,8.3
+4474,My Name Is Earl,2,7.6
+4475,My Name Is Earl,2,7.4
+4476,My Name Is Earl,2,7.6
+4477,My Name Is Earl,2,7.7
+4478,My Name Is Earl,2,7.6
+4479,My Name Is Earl,2,7.8
+4480,My Name Is Earl,2,7.9
+4481,My Name Is Earl,2,7.8
+4482,My Name Is Earl,2,8.1
+4483,My Name Is Earl,2,8.6
+4484,My Name Is Earl,3,8.0
+4485,My Name Is Earl,3,8.0
+4486,My Name Is Earl,3,7.7
+4487,My Name Is Earl,3,7.8
+4488,My Name Is Earl,3,7.0
+4489,My Name Is Earl,3,7.7
+4490,My Name Is Earl,3,7.5
+4491,My Name Is Earl,3,7.5
+4492,My Name Is Earl,3,7.6
+4493,My Name Is Earl,3,7.5
+4494,My Name Is Earl,3,7.5
+4495,My Name Is Earl,3,7.9
+4496,My Name Is Earl,3,7.5
+4497,My Name Is Earl,3,7.4
+4498,My Name Is Earl,3,7.4
+4499,My Name Is Earl,3,7.4
+4500,My Name Is Earl,3,7.6
+4501,My Name Is Earl,3,7.3
+4502,My Name Is Earl,3,7.4
+4503,My Name Is Earl,3,7.5
+4504,My Name Is Earl,3,7.7
+4505,My Name Is Earl,3,7.7
+4506,My Name Is Earl,4,8.0
+4507,My Name Is Earl,4,7.7
+4508,My Name Is Earl,4,7.6
+4509,My Name Is Earl,4,7.5
+4510,My Name Is Earl,4,7.7
+4511,My Name Is Earl,4,7.6
+4512,My Name Is Earl,4,7.6
+4513,My Name Is Earl,4,7.1
+4514,My Name Is Earl,4,7.6
+4515,My Name Is Earl,4,7.8
+4516,My Name Is Earl,4,7.6
+4517,My Name Is Earl,4,7.3
+4518,My Name Is Earl,4,7.9
+4519,My Name Is Earl,4,7.7
+4520,My Name Is Earl,4,7.6
+4521,My Name Is Earl,4,7.7
+4522,My Name Is Earl,4,7.7
+4523,My Name Is Earl,4,7.8
+4524,My Name Is Earl,4,8.1
+4525,My Name Is Earl,4,7.5
+4526,My Name Is Earl,4,7.7
+4527,My Name Is Earl,4,8.0
+4528,My Name Is Earl,4,7.9
+4529,My Name Is Earl,4,7.7
+4530,My Name Is Earl,4,7.9
+4531,My Name Is Earl,4,7.8
+4532,My Name Is Earl,4,8.1
+4533,Spaced,1,8.0
+4534,Spaced,1,7.7
+4535,Spaced,1,8.1
+4536,Spaced,1,8.5
+4537,Spaced,1,8.5
+4538,Spaced,1,8.5
+4539,Spaced,1,8.4
+4540,Spaced,2,8.2
+4541,Spaced,2,8.4
+4542,Spaced,2,8.5
+4543,Spaced,2,8.7
+4544,Spaced,2,8.9
+4545,Spaced,2,8.4
+4546,Spaced,2,8.7
+4547,Silicon Valley,1,7.8
+4548,Silicon Valley,1,7.8
+4549,Silicon Valley,1,8.1
+4550,Silicon Valley,1,7.8
+4551,Silicon Valley,1,8.4
+4552,Silicon Valley,1,8.5
+4553,Silicon Valley,1,8.6
+4554,Silicon Valley,1,9.4
+4555,Silicon Valley,2,8.3
+4556,Silicon Valley,2,8.0
+4557,Silicon Valley,2,8.1
+4558,Silicon Valley,2,7.9
+4559,Silicon Valley,2,8.1
+4560,Silicon Valley,2,8.8
+4561,Silicon Valley,2,8.5
+4562,Silicon Valley,2,8.3
+4563,Silicon Valley,2,8.8
+4564,Silicon Valley,2,9.3
+4565,Silicon Valley,3,8.2
+4566,Silicon Valley,3,8.1
+4567,Silicon Valley,3,8.7
+4568,Silicon Valley,3,8.7
+4569,Silicon Valley,3,8.0
+4570,Silicon Valley,3,8.2
+4571,Silicon Valley,3,8.4
+4572,Silicon Valley,3,8.5
+4573,Silicon Valley,3,8.3
+4574,Silicon Valley,3,8.7
+4575,Silicon Valley,4,8.2
+4576,Silicon Valley,4,8.6
+4577,Silicon Valley,4,8.6
+4578,Silicon Valley,4,8.1
+4579,Silicon Valley,4,8.1
+4580,Silicon Valley,4,8.0
+4581,Silicon Valley,4,8.0
+4582,Silicon Valley,4,8.1
+4583,Silicon Valley,4,8.5
+4584,Silicon Valley,4,8.5
+4585,Silicon Valley,5,8.0
+4586,Silicon Valley,5,7.8
+4587,Silicon Valley,5,8.3
+4588,Silicon Valley,5,7.7
+4589,Silicon Valley,5,8.1
+4590,Silicon Valley,5,7.8
+4591,Silicon Valley,5,8.0
+4592,Silicon Valley,5,9.2
+4593,Silicon Valley,6,8.2
+4594,Silicon Valley,6,8.1
+4595,Silicon Valley,6,8.5
+4596,Silicon Valley,6,7.4
+4597,Silicon Valley,6,7.7
+4598,Silicon Valley,6,8.6
+4599,Silicon Valley,6,8.7
+4600,Mr Bean,1,7.4
+4601,Mr Bean,1,7.1
+4602,Mr Bean,1,7.3
+4603,Mr Bean,1,7.0
+4604,Mr Bean,1,7.0
+4605,Mr Bean,1,7.1
+4606,Mr Bean,1,7.2
+4607,Mr Bean,1,6.9
+4608,Mr Bean,1,7.2
+4609,Mr Bean,1,6.9
+4610,Mr Bean,1,7.0
+4611,Mr Bean,1,7.2
+4612,Mr Bean,1,7.1
+4613,Mr Bean,1,7.0
+4614,Mr Bean,1,7.1
+4615,Mr Bean,1,7.1
+4616,Mr Bean,1,7.2
+4617,Mr Bean,1,7.2
+4618,Mr Bean,2,7.2
+4619,Mr Bean,2,7.6
+4620,Mr Bean,2,7.1
+4621,Mr Bean,2,6.9
+4622,Mr Bean,2,7.3
+4623,Mr Bean,2,6.8
+4624,Mr Bean,2,7.2
+4625,Mr Bean,2,7.1
+4626,Mr Bean,2,7.1
+4627,Mr Bean,2,7.0
+4628,Mr Bean,2,7.5
+4629,Mr Bean,2,7.2
+4630,Mr Bean,2,7.3
+4631,Mr Bean,2,7.1
+4632,Mr Bean,2,7.2
+4633,Mr Bean,2,7.1
+4634,Mr Bean,3,7.1
+4635,Mr Bean,3,7.1
+4636,Mr Bean,3,7.1
+4637,Mr Bean,3,6.5
+4638,Mr Bean,4,6.8
+4639,Mr Bean,4,6.6
+4640,Mr Bean,4,6.9
+4641,Mr Bean,4,6.7
+4642,Mr Bean,4,6.8
+4643,Mr Bean,4,7.0
+4644,Mr Bean,4,6.7
+4645,Mr Bean,4,6.6
+4646,Mr Bean,4,6.4
+4647,Mr Bean,4,6.9
+4648,Mr Bean,4,6.2
+4649,Mr Bean,4,7.0
+4650,Mr Bean,4,7.4
+4651,Mr Bean,4,7.3
+4652,Mr Bean,4,7.2
+4653,Mr Bean,4,7.3
+4654,Mr Bean,4,7.4
+4655,Mr Bean,4,7.1
+4656,Mr Bean,4,6.4
+4657,Mr Bean,4,7.4
+4658,Mr Bean,4,7.4
+4659,Mr Bean,4,7.3
+4660,Mr Bean,4,7.6
+4661,Mr Bean,4,7.0
+4662,Mr Bean,4,6.6
+4663,Mr Bean,4,7.7
+4664,Mr Bean,4,7.2
+4665,Mr Bean,5,7.8
+4666,Two and a Half Men,1,8.4
+4667,Two and a Half Men,1,8.0
+4668,Two and a Half Men,1,7.9
+4669,Two and a Half Men,1,8.1
+4670,Two and a Half Men,1,8.0
+4671,Two and a Half Men,1,7.7
+4672,Two and a Half Men,1,8.4
+4673,Two and a Half Men,1,8.0
+4674,Two and a Half Men,1,7.8
+4675,Two and a Half Men,1,8.2
+4676,Two and a Half Men,1,7.8
+4677,Two and a Half Men,1,8.8
+4678,Two and a Half Men,1,7.8
+4679,Two and a Half Men,1,8.0
+4680,Two and a Half Men,1,8.0
+4681,Two and a Half Men,1,8.0
+4682,Two and a Half Men,1,8.1
+4683,Two and a Half Men,1,8.5
+4684,Two and a Half Men,1,8.2
+4685,Two and a Half Men,1,7.8
+4686,Two and a Half Men,1,8.1
+4687,Two and a Half Men,1,8.0
+4688,Two and a Half Men,1,8.6
+4689,Two and a Half Men,1,8.3
+4690,Two and a Half Men,2,8.2
+4691,Two and a Half Men,2,7.8
+4692,Two and a Half Men,2,8.2
+4693,Two and a Half Men,2,8.1
+4694,Two and a Half Men,2,7.8
+4695,Two and a Half Men,2,8.1
+4696,Two and a Half Men,2,7.6
+4697,Two and a Half Men,2,8.2
+4698,Two and a Half Men,2,8.0
+4699,Two and a Half Men,2,8.2
+4700,Two and a Half Men,2,8.2
+4701,Two and a Half Men,2,8.2
+4702,Two and a Half Men,2,8.3
+4703,Two and a Half Men,2,7.9
+4704,Two and a Half Men,2,8.1
+4705,Two and a Half Men,2,8.4
+4706,Two and a Half Men,2,8.1
+4707,Two and a Half Men,2,8.3
+4708,Two and a Half Men,2,8.0
+4709,Two and a Half Men,2,7.9
+4710,Two and a Half Men,2,8.0
+4711,Two and a Half Men,2,7.8
+4712,Two and a Half Men,2,8.8
+4713,Two and a Half Men,2,8.4
+4714,Two and a Half Men,3,8.1
+4715,Two and a Half Men,3,8.3
+4716,Two and a Half Men,3,7.9
+4717,Two and a Half Men,3,7.9
+4718,Two and a Half Men,3,7.9
+4719,Two and a Half Men,3,8.6
+4720,Two and a Half Men,3,8.1
+4721,Two and a Half Men,3,8.4
+4722,Two and a Half Men,3,8.1
+4723,Two and a Half Men,3,7.8
+4724,Two and a Half Men,3,8.4
+4725,Two and a Half Men,3,8.2
+4726,Two and a Half Men,3,7.8
+4727,Two and a Half Men,3,8.3
+4728,Two and a Half Men,3,8.0
+4729,Two and a Half Men,3,8.5
+4730,Two and a Half Men,3,7.7
+4731,Two and a Half Men,3,7.8
+4732,Two and a Half Men,3,8.0
+4733,Two and a Half Men,3,8.4
+4734,Two and a Half Men,3,7.9
+4735,Two and a Half Men,3,8.1
+4736,Two and a Half Men,3,7.8
+4737,Two and a Half Men,3,8.2
+4738,Two and a Half Men,4,7.8
+4739,Two and a Half Men,4,8.0
+4740,Two and a Half Men,4,7.7
+4741,Two and a Half Men,4,7.7
+4742,Two and a Half Men,4,7.9
+4743,Two and a Half Men,4,8.4
+4744,Two and a Half Men,4,8.0
+4745,Two and a Half Men,4,8.1
+4746,Two and a Half Men,4,7.8
+4747,Two and a Half Men,4,7.9
+4748,Two and a Half Men,4,8.7
+4749,Two and a Half Men,4,7.8
+4750,Two and a Half Men,4,7.8
+4751,Two and a Half Men,4,7.9
+4752,Two and a Half Men,4,8.0
+4753,Two and a Half Men,4,7.9
+4754,Two and a Half Men,4,7.8
+4755,Two and a Half Men,4,7.8
+4756,Two and a Half Men,4,8.2
+4757,Two and a Half Men,4,8.3
+4758,Two and a Half Men,4,7.9
+4759,Two and a Half Men,4,7.9
+4760,Two and a Half Men,4,8.2
+4761,Two and a Half Men,4,8.4
+4762,Two and a Half Men,5,8.0
+4763,Two and a Half Men,5,8.0
+4764,Two and a Half Men,5,8.0
+4765,Two and a Half Men,5,8.1
+4766,Two and a Half Men,5,8.0
+4767,Two and a Half Men,5,7.9
+4768,Two and a Half Men,5,7.8
+4769,Two and a Half Men,5,8.6
+4770,Two and a Half Men,5,8.1
+4771,Two and a Half Men,5,8.2
+4772,Two and a Half Men,5,8.2
+4773,Two and a Half Men,5,8.0
+4774,Two and a Half Men,5,8.3
+4775,Two and a Half Men,5,8.1
+4776,Two and a Half Men,5,8.0
+4777,Two and a Half Men,5,8.0
+4778,Two and a Half Men,5,8.8
+4779,Two and a Half Men,5,7.9
+4780,Two and a Half Men,5,8.0
+4781,Two and a Half Men,6,8.0
+4782,Two and a Half Men,6,7.9
+4783,Two and a Half Men,6,8.1
+4784,Two and a Half Men,6,7.9
+4785,Two and a Half Men,6,7.7
+4786,Two and a Half Men,6,8.1
+4787,Two and a Half Men,6,8.1
+4788,Two and a Half Men,6,7.9
+4789,Two and a Half Men,6,8.6
+4790,Two and a Half Men,6,7.8
+4791,Two and a Half Men,6,7.8
+4792,Two and a Half Men,6,8.2
+4793,Two and a Half Men,6,7.7
+4794,Two and a Half Men,6,8.1
+4795,Two and a Half Men,6,7.8
+4796,Two and a Half Men,6,8.3
+4797,Two and a Half Men,6,7.8
+4798,Two and a Half Men,6,7.7
+4799,Two and a Half Men,6,8.8
+4800,Two and a Half Men,6,8.0
+4801,Two and a Half Men,6,8.3
+4802,Two and a Half Men,6,7.7
+4803,Two and a Half Men,6,7.8
+4804,Two and a Half Men,6,8.4
+4805,Two and a Half Men,7,8.3
+4806,Two and a Half Men,7,8.0
+4807,Two and a Half Men,7,7.9
+4808,Two and a Half Men,7,7.8
+4809,Two and a Half Men,7,7.8
+4810,Two and a Half Men,7,8.1
+4811,Two and a Half Men,7,8.1
+4812,Two and a Half Men,7,8.8
+4813,Two and a Half Men,7,8.0
+4814,Two and a Half Men,7,8.1
+4815,Two and a Half Men,7,8.1
+4816,Two and a Half Men,7,8.0
+4817,Two and a Half Men,7,8.0
+4818,Two and a Half Men,7,7.7
+4819,Two and a Half Men,7,7.8
+4820,Two and a Half Men,7,7.8
+4821,Two and a Half Men,7,7.6
+4822,Two and a Half Men,7,8.3
+4823,Two and a Half Men,7,7.9
+4824,Two and a Half Men,7,7.8
+4825,Two and a Half Men,7,8.2
+4826,Two and a Half Men,7,8.0
+4827,Two and a Half Men,8,8.6
+4828,Two and a Half Men,8,8.1
+4829,Two and a Half Men,8,8.0
+4830,Two and a Half Men,8,8.1
+4831,Two and a Half Men,8,7.8
+4832,Two and a Half Men,8,8.1
+4833,Two and a Half Men,8,7.9
+4834,Two and a Half Men,8,7.9
+4835,Two and a Half Men,8,8.1
+4836,Two and a Half Men,8,7.6
+4837,Two and a Half Men,8,7.6
+4838,Two and a Half Men,8,7.4
+4839,Two and a Half Men,8,7.8
+4840,Two and a Half Men,8,7.8
+4841,Two and a Half Men,8,8.2
+4842,Two and a Half Men,8,7.7
+4843,That '70s Show,1,8.1
+4844,That '70s Show,1,8.1
+4845,That '70s Show,1,7.8
+4846,That '70s Show,1,7.7
+4847,That '70s Show,1,7.7
+4848,That '70s Show,1,8.2
+4849,That '70s Show,1,8.1
+4850,That '70s Show,1,7.9
+4851,That '70s Show,1,7.8
+4852,That '70s Show,1,7.6
+4853,That '70s Show,1,8.2
+4854,That '70s Show,1,8.0
+4855,That '70s Show,1,7.8
+4856,That '70s Show,1,7.8
+4857,That '70s Show,1,7.9
+4858,That '70s Show,1,7.8
+4859,That '70s Show,1,8.2
+4860,That '70s Show,1,8.0
+4861,That '70s Show,1,7.9
+4862,That '70s Show,1,8.4
+4863,That '70s Show,1,8.3
+4864,That '70s Show,1,7.4
+4865,That '70s Show,1,8.1
+4866,That '70s Show,1,8.2
+4867,That '70s Show,1,8.1
+4868,That '70s Show,2,8.5
+4869,That '70s Show,2,7.8
+4870,That '70s Show,2,7.6
+4871,That '70s Show,2,7.6
+4872,That '70s Show,2,8.2
+4873,That '70s Show,2,7.9
+4874,That '70s Show,2,7.8
+4875,That '70s Show,2,8.1
+4876,That '70s Show,2,7.7
+4877,That '70s Show,2,7.7
+4878,That '70s Show,2,7.7
+4879,That '70s Show,2,7.6
+4880,That '70s Show,2,7.8
+4881,That '70s Show,2,7.8
+4882,That '70s Show,2,7.9
+4883,That '70s Show,2,7.9
+4884,That '70s Show,2,7.9
+4885,That '70s Show,2,7.9
+4886,That '70s Show,2,8.2
+4887,That '70s Show,2,7.8
+4888,That '70s Show,2,7.6
+4889,That '70s Show,2,7.4
+4890,That '70s Show,2,7.6
+4891,That '70s Show,2,7.8
+4892,That '70s Show,2,8.2
+4893,That '70s Show,2,8.0
+4894,That '70s Show,3,8.3
+4895,That '70s Show,3,8.2
+4896,That '70s Show,3,7.6
+4897,That '70s Show,3,8.1
+4898,That '70s Show,3,7.7
+4899,That '70s Show,3,8.5
+4900,That '70s Show,3,7.4
+4901,That '70s Show,3,8.0
+4902,That '70s Show,3,7.7
+4903,That '70s Show,3,7.8
+4904,That '70s Show,3,7.7
+4905,That '70s Show,3,7.7
+4906,That '70s Show,3,8.7
+4907,That '70s Show,3,7.6
+4908,That '70s Show,3,7.7
+4909,That '70s Show,3,7.8
+4910,That '70s Show,3,8.1
+4911,That '70s Show,3,7.8
+4912,That '70s Show,3,7.5
+4913,That '70s Show,3,7.5
+4914,That '70s Show,3,7.6
+4915,That '70s Show,3,7.7
+4916,That '70s Show,3,8.3
+4917,That '70s Show,3,7.4
+4918,That '70s Show,3,7.8
+4919,That '70s Show,4,8.0
+4920,That '70s Show,4,7.6
+4921,That '70s Show,4,7.6
+4922,That '70s Show,4,7.7
+4923,That '70s Show,4,7.7
+4924,That '70s Show,4,7.6
+4925,That '70s Show,4,7.4
+4926,That '70s Show,4,7.4
+4927,That '70s Show,4,7.7
+4928,That '70s Show,4,7.8
+4929,That '70s Show,4,7.4
+4930,That '70s Show,4,7.5
+4931,That '70s Show,4,7.6
+4932,That '70s Show,4,8.2
+4933,That '70s Show,4,7.8
+4934,That '70s Show,4,7.4
+4935,That '70s Show,4,7.6
+4936,That '70s Show,4,7.3
+4937,That '70s Show,4,7.7
+4938,That '70s Show,4,8.3
+4939,That '70s Show,4,8.1
+4940,That '70s Show,4,7.8
+4941,That '70s Show,4,8.1
+4942,That '70s Show,4,7.3
+4943,That '70s Show,4,7.4
+4944,That '70s Show,4,7.6
+4945,That '70s Show,4,8.1
+4946,That '70s Show,5,7.8
+4947,That '70s Show,5,7.6
+4948,That '70s Show,5,7.7
+4949,That '70s Show,5,7.7
+4950,That '70s Show,5,7.5
+4951,That '70s Show,5,7.6
+4952,That '70s Show,5,7.6
+4953,That '70s Show,5,7.8
+4954,That '70s Show,5,7.7
+4955,That '70s Show,5,7.6
+4956,That '70s Show,5,7.4
+4957,That '70s Show,5,8.0
+4958,That '70s Show,5,7.6
+4959,That '70s Show,5,7.6
+4960,That '70s Show,5,7.6
+4961,That '70s Show,5,7.6
+4962,That '70s Show,5,7.5
+4963,That '70s Show,5,7.7
+4964,That '70s Show,5,7.5
+4965,That '70s Show,5,7.4
+4966,That '70s Show,5,7.4
+4967,That '70s Show,5,8.1
+4968,That '70s Show,5,7.6
+4969,That '70s Show,5,7.9
+4970,That '70s Show,5,8.2
+4971,That '70s Show,6,7.6
+4972,That '70s Show,6,7.5
+4973,That '70s Show,6,7.7
+4974,That '70s Show,6,7.6
+4975,That '70s Show,6,7.4
+4976,That '70s Show,6,7.6
+4977,That '70s Show,6,7.6
+4978,That '70s Show,6,7.4
+4979,That '70s Show,6,7.7
+4980,That '70s Show,6,7.6
+4981,That '70s Show,6,7.4
+4982,That '70s Show,6,7.4
+4983,That '70s Show,6,7.4
+4984,That '70s Show,6,7.6
+4985,That '70s Show,6,7.3
+4986,That '70s Show,6,7.7
+4987,That '70s Show,6,7.7
+4988,That '70s Show,6,7.4
+4989,That '70s Show,6,7.2
+4990,That '70s Show,6,7.7
+4991,That '70s Show,6,7.3
+4992,That '70s Show,6,8.0
+4993,That '70s Show,6,7.4
+4994,That '70s Show,6,7.4
+4995,That '70s Show,6,7.6
+4996,That '70s Show,7,7.4
+4997,That '70s Show,7,7.4
+4998,That '70s Show,7,7.3
+4999,That '70s Show,7,7.3
+5000,That '70s Show,7,7.1
+5001,That '70s Show,7,7.2
+5002,That '70s Show,7,7.4
+5003,That '70s Show,7,7.3
+5004,That '70s Show,7,7.3
+5005,That '70s Show,7,7.5
+5006,That '70s Show,7,7.5
+5007,That '70s Show,7,7.2
+5008,That '70s Show,7,8.0
+5009,That '70s Show,7,7.9
+5010,That '70s Show,7,7.4
+5011,That '70s Show,7,7.1
+5012,That '70s Show,7,7.3
+5013,That '70s Show,7,7.1
+5014,That '70s Show,7,7.2
+5015,That '70s Show,7,7.3
+5016,That '70s Show,7,7.3
+5017,That '70s Show,7,7.2
+5018,That '70s Show,7,7.2
+5019,That '70s Show,7,7.6
+5020,That '70s Show,7,8.1
+5021,That '70s Show,8,7.3
+5022,That '70s Show,8,6.7
+5023,That '70s Show,8,6.4
+5024,That '70s Show,8,7.0
+5025,That '70s Show,8,7.0
+5026,That '70s Show,8,6.6
+5027,That '70s Show,8,6.8
+5028,That '70s Show,8,6.6
+5029,That '70s Show,8,6.4
+5030,That '70s Show,8,6.3
+5031,That '70s Show,8,6.4
+5032,That '70s Show,8,6.5
+5033,That '70s Show,8,6.4
+5034,That '70s Show,8,6.5
+5035,That '70s Show,8,6.4
+5036,That '70s Show,8,6.6
+5037,That '70s Show,8,6.5
+5038,That '70s Show,8,6.6
+5039,That '70s Show,8,6.5
+5040,That '70s Show,8,6.5
+5041,That '70s Show,8,7.4
+5042,That '70s Show,8,8.9

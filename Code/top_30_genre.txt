@@ -1,0 +1,246 @@
+Rank,Show,Year,Genre
+1,CSI: Crime Scene Investigation,2004,Drama
+2,American Idol — Tuesday,2004,Reality
+3,American Idol — Wednesday,2004,Reality
+4,Desperate Housewives,2004,Drama
+5,CSI: Miami,2004,Drama
+6,Without a Trace,2004,Drama
+7,Survivor,2004,Reality
+8,Grey's Anatomy,2004,Drama
+9,Everybody Loves Raymond,2004,Sitcom
+10,Monday Night Football,2004,Sports
+11,Two and a Half Men,2004,Sitcom
+12,ER,2004,Drama
+13,Lost,2004,Drama
+14,Cold Case,2004,Drama
+14,The Apprentice,2004,Reality
+16,Law & Order: Special Victims Unit,2004,Drama
+16,60 Minutes,2004,News
+18,Extreme Makeover: Home Edition,2004,Reality
+18,Medium,2004,Drama
+20,Law & Order,2004,Drama
+20,CSI: NY,2004,Drama
+22,NCIS,2004,Drama
+23,House,2004,Drama
+24,Boston Legal,2004,Drama
+25,Law & Order: Criminal Intent,2004,Drama
+26,Crossing Jordan,2004,Drama
+27,CBS Sunday Movie,2004,Other
+27,The Amazing Race,2004,Reality
+29,Judging Amy,2004,Drama
+29,The West Wing,2004,Drama
+1,American Idol — Tuesday,2005,Reality
+2,American Idol — Wednesday,2005,Reality
+3,CSI: Crime Scene Investigation,2005,Drama
+4,Desperate Housewives,2005,Drama
+5,Grey's Anatomy,2005,Drama
+6,Without a Trace,2005,Drama
+7,Dancing with the Stars,2005,Reality
+8,CSI: Miami,2005,Drama
+9,Monday Night Football,2005,Sports
+9,House,2005,Drama
+11,Survivor,2005,Reality
+12,NCIS,2005,Drama
+13,Two and a Half Men,2005,Sitcom
+13,The Unit,2005,Drama
+15,Dancing with the Stars — Results,2005,Reality
+15,Deal or No Deal — Monday,2005,Reality
+17,Cold Case,2005,Drama
+18,Lost,2005,Drama
+18,CSI: NY,2005,Drama
+18,Law & Order: Special Victims Unit,2005,Drama
+21,60 Minutes,2005,News
+21,Deal or No Deal — Wednesday,2005,Reality
+23,Extreme Makeover: Home Edition,2005,Reality
+24,Commander in Chief,2005,Drama
+25,The New Adventures of Old Christine,2005,Sitcom
+25,Unan1mous,2005,Drama
+27,Criminal Minds,2005,Drama
+28,24,2005,Drama
+28,ER,2005,Drama
+30,Out of Practice,2005,Sitcom
+1,CSI: Crime Scene Investigation,2003,Drama
+2,American Idol — Tuesday,2003,Reality
+3,American Idol — Wednesday,2003,Reality
+4,Friends,2003,Sitcom
+5,The Apprentice,2003,Reality
+6,ER,2003,Drama
+7,Survivor,2003,Reality
+8,CSI: Miami,2003,Drama
+9,Monday Night Football,2003,Sports
+9,Everybody Loves Raymond,2003,Sitcom
+11,Without a Trace,2003,Drama
+12,Law & Order,2003,Drama
+13,Will & Grace,2003,Drama
+14,My Big Fat Obnoxious Fiance,2003,Reality
+14,Two and a Half Men,2003,Sitcom
+16,60 Minutes,2003,News
+17,Cold Case,2003,Drama
+18,Law & Order: Special Victims Unit,2003,Drama
+19,Crossing Jordan,2003,Drama
+19,Law & Order: Criminal Intent,2003,Drama
+21,The Bachelor/The Bachelorette,2003,Reality
+22,Fear Factor,2003,Reality
+23,The West Wing,2003,Drama
+23,CBS Sunday Movie,2003,Other
+23,Navy: NCIS,2003,Drama
+26,Judging Amy,2003,Drama
+26,Still Standing,2003,Sitcom
+28,Las Vegas,2003,Drama
+29,Average Joe,2003,Reality
+30,Frasier,2003,Sitcom
+30,The King of Queens,2003,Sitcom
+1,CSI: Crime Scene Investigation,2002,Drama
+2,Friends,2002,Sitcom
+3,Joe Millionaire,2002,Reality
+4,ER,2002,Drama
+5,American Idol — Tuesday,2002,Reality
+6,American Idol — Wednesday,2002,Reality
+7,Survivor (Thailand & Amazon),2002,Reality
+7,Everybody Loves Raymond,2002,Sitcom
+9,Law & Order,2002,Drama
+10,Monday Night Football,2002,Sports
+11,CSI: Miami,2002,Drama
+11,Will & Grace,2002,Sitcom
+13,Scrubs,2002,Sitcom
+14,Law & Order: Special Victims Unit,2002,Drama
+15,Without a Trace,2002,Drama
+16,The Bachelor/The Bachelorette,2002,Reality
+17,60 Minutes,2002,News
+18,Judging Amy,2002,Drama
+19,Law & Order: Criminal Intent,2002,Drama
+19,Still Standing,2002,Sitcom
+21,The West Wing,2002,Drama
+22,JAG,2002,Drama
+23,Good Morning Miami,2002,Sitcom
+24,Yes Dear,2002,Sitcom
+25,The King of Queens,2002,Sitcom
+26,Frasier,2002,Sitcom
+27,The Guardian,2002,Drama
+28,My Big Fat Greek Life,2002,Sitcom
+29,NYPD Blue,2002,Drama
+30,Fear Factor,2002,Reality
+1,Friends,2001,Sitcom
+2,CSI: Crime Scene Investigation,2001,Drama
+3,ER,2001,Drama
+4,Everybody Loves Raymond,2001,Sitcom
+5,Law & Order,2001,Drama
+6,Survivor,2001,Reality
+7,Monday Night Football,2001,Sports
+8,The West Wing,2001,Drama
+9,Will & Grace,2001,Sitcom
+9,Leap of Faith,2001,Sitcom
+11,Becker,2001,Sitcom
+12,Law & Order: Special Victims Unit,2001,Drama
+13,60 Minutes,2001,News
+14,Frasier,2001,Sitcom
+14,JAG,2001,Drama
+16,Inside Schwartz,2001,Sitcom
+16,Judging Amy,2001,Drama
+18,Just Shoot Me!,2001,Sitcom
+19,The King of Queens,2001,Sitcom
+20,Yes Dear,2001,Sitcom
+20,Crossing Jordan,2001,Drama
+22,The Guardian,2001,Drama
+23,The Practice,2001,Drama
+23,NYPD Blue,2001,Drama
+25,Baby Bob,2001,Sitcom
+25,Dateline NBC — Friday,2001,News
+27,Fear Factor,2001,Reality
+27,Law & Order: Criminal Intent,2001,Drama
+27,Providence,2001,Drama
+30,60 Minutes II,2001,News
+30,Family Law,2001,Drama
+1,Survivor,2000,Reality
+2,ER,2000,Drama
+3,Who Wants to Be a Millionaire — Wednesday,2000,Reality
+4,Who Wants to Be a Millionaire — Tuesday,2000,Reality
+5,Friends,2000,Sitcom
+5,Monday Night Football,2000,Sports
+5,Everybody Loves Raymond,2000,Sitcom
+8,Who Wants to Be a Millionaire — Sunday,2000,Reality
+9,Law & Order,2000,Drama
+10,The Practice,2000,Drama
+11,Who Wants to Be a Millionaire — Thursday,2000,Reality
+11,CSI: Crime Scene Investigation,2000,Drama
+11,The West Wing,2000,Drama
+14,Will & Grace,2000,Sitcom
+15,60 Minutes,2000,News
+16,Becker,2000,Sitcom
+17,Temptation Island,2000,Reality
+17,Frasier,2000,Sitcom
+19,Who Wants to Be a Millionaire — Friday,2000,Reality
+20,Just Shoot Me!,2000,Sitcom
+21,Judging Amy,2000,Drama
+22,Cursed/The Weber Show,2000,Sitcom
+22,NYPD Blue,2000,Drama
+22,Touched by an Angel,2000,Drama
+25,Law & Order: Special Victims Unit,2000,Drama
+26,JAG,2000,Drama
+27,The King of Queens,2000,Sitcom
+28,Yes Dear,2000,Sitcom
+29,Family Law,2000,Drama
+29,The District,2000,Drama
+29,CBS Sunday Movie,2000,Other
+1,Who Wants to Be a Millionaire — Tuesday,1999,Reality
+2,Who Wants to Be a Millionaire — Thursday,1999,Reality
+3,Who Wants to Be a Millionaire — Sunday,1999,Reality
+4,ER,1999,Drama
+5,Friends,1999,Sitcom
+6,Frasier,1999,Sitcom
+7,Monday Night Football,1999,Sports
+8,60 Minutes,1999,News
+9,The Practice,1999,Drama
+10,Touched by an Angel,1999,Drama
+11,Law & Order,1999,Drama
+12,Everybody Loves Raymond,1999,Sitcom
+13,Jesse,1999,Sitcom
+14,CBS Sunday Movie,1999,Other
+15,Stark Raving Mad,1999,Sitcom
+15,NYPD Blue,1999,Drama
+17,Dharma & Greg,1999,Sitcom
+18,Becker,1999,Sitcom
+19,Judging Amy,1999,Drama
+20,JAG,1999,Drama
+21,The Drew Carey Show,1999,Sitcom
+22,Providence,1999,Drama
+23,60 Minutes II,1999,News
+24,The West Wing,1999,Drama
+24,ABC Monday Movie,1999,Other
+24,Spin City,1999,Sitcom
+27,Family Law,1999,Drama
+28,Dateline NBC — Friday,1999,News
+28,Malcolm in the Middle,1999,Sitcom
+30,Law & Order: Special Victims Unit,1999,Drama
+30,CBS Wednesday Movie,1999,Other
+1,ER,1998,Drama
+2,Friends,1998,Sitcom
+3,Frasier,1998,Sitcom
+4,Monday Night Football,1998,Sports
+5,Veronica's Closet,1998,Sitcom
+5,Jesse,1998,Sitcom
+7,60 Minutes,1998,News
+8,Touched by an Angel,1998,Drama
+9,CBS Sunday Movie,1998,Other
+10,Home Improvement,1998,Sitcom
+11,Everybody Loves Raymond,1998,Sitcom
+12,NYPD Blue,1998,Drama
+13,Law & Order,1998,Drama
+14,The Drew Carey Show,1998,Sitcom
+14,20/20 — Friday,1998,News
+16,Providence,1998,Drama
+15,20/20 — Wednesday,1998,News
+15,JAG,1998,Drama
+19,Dateline NBC — Tuesday,1998,News
+19,Dateline NBC — Monday,1998,News
+19,Becker,1998,Sitcom
+19,CBS Tuesday Movie,1998,Other
+23,Ally McBeal,1998,Drama
+24,Dharma & Greg,1998,Sitcom
+25,Spin City,1998,Sitcom
+25,Walker Texas Ranger,1998,Drama
+25,Dateline NBC — Friday,1998,News
+28,The X-Files,1998,Drama
+28,NBC Sunday Night Movie,1998,Other
+30,60 Minutes II,1998,News
+30,Diagnosis: Murder,1998,Other

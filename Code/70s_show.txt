@@ -1,0 +1,201 @@
+Trend, Season, Episode, Title, Year, Total Votes, Average Rating
+3,1,1,That '70s Pilot,1998,1512,8.1
+1,1,2,Eric's Birthday,1998,1222,8.1
+2,1,3,Streaking,1998,1145,7.8
+1,1,4,Battle of the Sexists,1998,1085,7.7
+3,1,5,Eric's Burger Job,1998,1063,7.7
+1,1,6,The Keg,1998,1120,8.2
+1,1,7,That Disco Episode,1998,1084,8.1
+-,1,8,Drive in,1998,1035,7.9
+-,1,9,Thanksgiving,1998,1023,7.8
+1,1,10,Sunday Bloody Sunday,1998,976,7.5
+-,1,11,Eric's Buddy,1998,1153,8.2
+-,1,12,The Best Christmas Ever,1998,983,8.0
+-,1,13,Ski Trip,1999,959,7.8
+-,1,14,Stolen Car,1999,936,7.8
+-,1,15,That Wrestling Show,1999,1007,7.9
+-,1,16,First Date,1999,939,7.8
+1,1,17,The Pill,1999,960,8.2
+-,1,18,The Career Day,1999,961,8.0
+-,1,19,Prom Night,1999,958,7.9
+-,1,20,A New Hope,1999,1076,8.4
+-,1,21,Water Tower,1999,967,8.3
+1,1,22,Punk Chick,1999,931,7.4
+-,1,23,Grandma's Dead,1999,942,8.1
+-,1,24,Hyde Moves In,1999,983,8.2
+-,1,25,The Good Son,1999,941,8.1
+1,2,1,Garage Sale,1999,1010,8.5
+-,2,2,Red's Last Day,1999,851,7.8
+1,2,3,The Velvet Rope,1999,852,7.6
+1,2,4,Laurie and the Professor,1999,838,7.6
+-,2,5,Halloween,1999,908,8.2
+-,2,6,Vanstock,1999,831,7.9
+-,2,7,I Love Cake,1999,820,7.8
+-,2,8,Sleepover,1999,829,8.1
+1,2,9,Eric Gets Suspended,1999,821,7.7
+-,2,10,Red's Birthday,1999,794,7.7
+-,2,11,Laurie Moves Out,1999,784,7.7
+1,2,12,Eric's Stash,2000,791,7.6
+-,2,13,Hunting,2000,806,7.8
+-,2,14,Red's New Job,2000,772,7.8
+-,2,15,Burning Down the House,2000,834,7.9
+-,2,16,The First Time,2000,814,7.9
+-,2,17,After Glow,2000,779,7.9
+-,2,18,Kitty and Eric's Night Out,2000,785,7.9
+-,2,19,Parents Find Out,2000,806,8.2
+-,2,20,Kiss of Death,2000,760,7.8
+2,2,21,Kelso's Serenade,2000,750,7.6
+1,2,22,Jackie Moves On,2000,745,7.4
+1,2,23,Holy Crap!,2000,774,7.6
+-,2,24,Red Fired Up,2000,742,7.8
+1,2,25,Cat Fight Club,2000,784,8.2
+-,2,26,Moon Over Point Place,2000,778,8.0
+-,3,1,Reefer Madness,2000,840,8.3
+-,3,2,Red Sees Red,2000,804,8.2
+1,3,3,Hyde's Father,2000,732,7.6
+-,3,4,Too Old to Trick or Treat Too Young to Die,2000,951,8.1
+-,3,5,Roller Disco,2000,721,7.7
+1,3,6,Eric's Panties,2000,936,8.5
+1,3,7,Baby Fever,2000,703,7.4
+-,3,8,Jackie Bags Hyde,2000,747,8.0
+1,3,9,Hyde's Christmas Rager,2000,711,7.7
+-,3,10,Ice Shack,2001,705,7.8
+-,3,11,Who Wants It More?,2001,691,7.7
+1,3,12,Fez Gets the Girl,2001,704,7.7
+1,3,13,Dine & Dash,2001,915,8.7
+1,3,14,Radio Daze,2001,690,7.6
+1,3,15,Donna's Panties,2001,698,7.7
+-,3,16,Romantic Weekend,2001,688,7.8
+-,3,17,Kitty's Birthday (That's Today?!),2001,734,8.1
+-,3,18,The Trials of M. Kelso,2001,688,7.8
+1,3,19,Eric's Naughty No-no,2001,681,7.5
+1,3,20,Holy Craps,2001,689,7.5
+1,3,21,Fez Dates Donna,2001,671,7.6
+1,3,22,Eric's Drunken Tattoo,2001,694,7.7
+-,3,23,Canadian Road Trip,2001,818,8.3
+1,3,24,Backstage Pass,2001,691,7.4
+-,3,25,The Promise Ring,2001,698,7.8
+-,4,1,It's a Wonderful Life,2001,826,8.0
+1,4,2,Eric's Depression,2001,689,7.6
+1,4,3,Pinciotti vs. Forman,2001,653,7.6
+1,4,4,Hyde Gets the Girl,2001,715,7.7
+1,4,5,Bye Bye Basement,2001,673,7.7
+1,4,6,The Relapse,2001,646,7.6
+1,4,7,Uncomfortable Ball Stuff,2001,646,7.4
+2,4,8,Donna's Story,2001,650,7.4
+-,4,9,The Forgotten Son,2001,631,7.7
+-,4,10,Red and Stacey,2001,693,7.8
+1,4,11,The Third Wheel,2001,641,7.4
+1,4,12,An Eric Forman Christmas,2001,673,7.5
+1,4,13,Jackie Says Cheese,2002,640,7.6
+-,4,14,Eric's Hot Cousin,2002,773,8.2
+-,4,15,Tornado Prom,2002,664,7.8
+1,4,16,Donna Dates a Kelso,2002,635,7.4
+1,4,17,Kelso's Career,2002,624,7.6
+1,4,18,Leo Loves Kitty,2002,615,7.3
+1,4,19,Jackie's Cheese Squeeze,2002,626,7.7
+-,4,20,Class Picture,2002,754,8.3
+-,4,21,Prank Day,2002,649,8.1
+-,4,22,Eric's Corvette Caper,2002,626,7.8
+-,4,23,Hyde's Birthday,2002,643,8.1
+1,4,24,That '70s Musical,2002,1063,7.3
+2,4,25,Eric's False Alarm,2002,594,7.4
+2,4,26,Everybody Loves Casey,2002,603,7.6
+1,4,27,Love Wisconsin Style,2002,643,8.1
+1,5,1,Going to California,2002,665,7.8
+2,5,2,I Can't Quit You Babe,2002,621,7.6
+1,5,3,What Is and What Should Never Be,2002,603,7.7
+1,5,4,Heartbreaker,2002,607,7.7
+1,5,5,Ramble On,2002,597,7.5
+1,5,6,Over the Hills and Far Away,2002,611,7.6
+1,5,7,Hot Dog,2002,586,7.6
+-,5,8,Thank You,2002,592,7.8
+1,5,9,Black Dog,2002,587,7.7
+1,5,10,The Crunge,2002,581,7.6
+1,5,11,The Girl I Love,2003,574,7.4
+1,5,12,Misty Mountain Hop,2003,629,8.0
+2,5,13,Your Time Is Gonna Come,2003,592,7.6
+2,5,14,Babe I'm Gonna Leave You,2003,588,7.6
+2,5,15,When the Levee Breaks,2003,571,7.6
+1,5,16,Whole Lotta Love,2003,572,7.6
+1,5,17,The Battle of Evermore,2003,588,7.5
+1,5,18,Hey Hey What Can I Do,2003,572,7.7
+2,5,19,Bring It on Home,2003,577,7.5
+1,5,20,No Quarter,2003,562,7.4
+2,5,21,Trampled Under Foot,2003,561,7.4
+1,5,22,You Shook Me,2003,590,8.1
+1,5,23,Nobody's Fault But Mine,2003,558,7.6
+-,5,24,Immigrant Song,2003,582,7.9
+-,5,25,Celebration Day,2003,620,8.2
+1,6,1,The Kids Are Alright,2003,611,7.6
+1,6,2,Join Together,2003,558,7.5
+-,6,3,Magic Bus,2003,569,7.7
+1,6,4,The Acid Queen,2003,568,7.6
+1,6,5,I'm Free,2003,559,7.4
+1,6,6,We're Not Gonna Take It,2003,550,7.6
+1,6,7,Christmas,2003,572,7.6
+1,6,8,I'm a Boy,2004,554,7.4
+1,6,9,Young Man Blues,2004,567,7.7
+1,6,10,A Legal Matter,2004,547,7.6
+1,6,11,I Can See for Miles,2004,543,7.4
+1,6,12,Sally Simpson,2004,576,7.4
+1,6,13,Won't Get Fooled Again,2004,549,7.4
+1,6,14,Baby Don't You Do It,2004,559,7.6
+1,6,15,Who Are You,2004,544,7.3
+-,6,16,Man with Money,2004,541,7.7
+1,6,17,Happy Jack,2004,551,7.7
+1,6,18,Do You Think It's Alright?,2004,516,7.4
+1,6,19,Substitute,2004,519,7.2
+-,6,20,Squeeze Box,2004,548,7.7
+1,6,21,5:15,2004,534,7.3
+-,6,22,Sparks,2004,547,8.0
+1,6,23,My Wife,2004,516,7.4
+1,6,24,Going Mobile,2004,511,7.4
+1,6,25,The Seeker,2004,520,7.6
+1,7,1,Time Is on My Side,2004,533,7.4
+1,7,2,Let's Spend the Night Together,2004,522,7.4
+1,7,3,(I Can't Get No) Satisfaction,2004,512,7.3
+1,7,4,Beast of Burden,2004,508,7.3
+1,7,5,It's Only Rock and Roll,2004,499,7.1
+1,7,6,Rip This Joint,2004,503,7.2
+1,7,7,Mother's Little Helper,2004,591,7.4
+1,7,8,Angie,2004,538,7.3
+1,7,9,You Can't Always Get What You Want,2004,524,7.3
+1,7,10,Surprise Surprise,2004,516,7.5
+1,7,11,Winter,2004,510,7.5
+1,7,12,Don't Lie to Me,2005,542,7.2
+1,7,13,Can't You Hear Me Knocking,2005,582,8.0
+1,7,14,Street Fighting Man,2005,538,7.9
+1,7,15,It's All Over Now,2005,544,7.4
+1,7,16,On with the Show,2005,505,7.1
+1,7,17,Down the Road Apiece,2005,502,7.3
+1,7,18,Oh Baby We Got a Good Thing Goin',2005,500,7.1
+1,7,19,Who's Been Sleeping Here?,2005,485,7.2
+1,7,20,Gimme Shelter,2005,489,7.3
+1,7,21,2120 So. Michigan Ave,2005,511,7.3
+1,7,22,2000 Light Years from Home,2005,504,7.2
+1,7,23,Take It or Leave It,2005,503,7.2
+1,7,24,Short and Curlies,2005,519,7.6
+1,7,25,Till the Next Goodbye,2005,604,8.1
+1,8,1,Bohemian Rhapsody,2005,603,7.3
+1,8,2,Somebody to Love,2005,557,6.7
+1,8,3,You're My Best Friend,2005,551,6.4
+1,8,4,Misfire,2005,576,7.0
+1,8,5,Stone Cold Crazy,2005,546,7.0
+1,8,6,Long Away,2005,516,6.6
+1,8,7,Fun It,2005,537,6.8
+1,8,8,Good Company,2006,502,6.6
+1,8,9,Who Needs You,2006,504,6.4
+1,8,10,Sweet Lady,2006,515,6.3
+1,8,11,Good Old Fashioned Lover Boy,2006,492,6.4
+1,8,12,Killer Queen,2006,497,6.5
+1,8,13,Spread Your Wings,2006,500,6.4
+1,8,14,Son and Daughter,2006,490,6.5
+1,8,15,Keep Yourself Alive,2006,491,6.4
+1,8,16,My Fairy King,2006,494,6.6
+1,8,17,Crazy Little Thing Called Love,2006,490,6.5
+1,8,18,We Will Rock You,2006,519,6.6
+2,8,19,Sheer Heart Attack,2006,502,6.5
+1,8,20,Leaving Home Ain't Easy,2006,489,6.5
+1,8,21,Love of My Life,2006,595,7.4
+-,8,22,That '70s Finale,2006,1432,8.9

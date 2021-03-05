@@ -1,0 +1,9 @@
+Season,Season Ranking,Number Of Top 30 Shows In Timeslot, Top Competitor Slot, Top Competitor
+1,49,1,8,Touched By An Angel
+2,86,3,1,Who Wants To Be A Millionaire?
+3,65,2,3,Who Wants To Be A Millionaire?
+4,67,1,14,JAG
+5,52,1,14,JAG
+6,49,4,9,Everybody Loves Raymond
+7,85,1,13,Lost
+8,103,3,7,Dancing With The Stars

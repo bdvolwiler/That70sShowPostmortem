@@ -1,0 +1,49 @@
+Show,Number Of Seasons, Number Of Episodes
+Modern Family,11,250
+Friends,10,236
+The Big Bang Theory,12,279
+All in the Family,9,206
+How I Met Your Mother,9,208
+Frasier,11,263
+MASH,11,251
+Cheers,11,270
+Arrested Development,5,84
+The Dick Van Dyke Show,5,158
+Seinfeld,9,173
+The Office,9,188
+The Mary Tyler Moore Show,7,168
+Taxi,5,114
+30 Rock,7,137
+Everybody Loves Raymond,9,210
+Futurama,10,140
+Veep,7,65
+Scrubs,9,182
+Get Smart,5,172
+Its Always Sunny In Philadelphia,14,153
+Archer,11,118
+The Golden Girls,7,177
+Community,6,110
+Sarabhai V/S Sarabhai,2,79
+Parks and Recreation,7,125
+Malcolm in the Middle,7,151
+Louie,5,61
+Curb Your Enthusiasm,10,100
+I Love Lucy,6,180
+The IT Crowd,5,24
+The Millers,2,34
+The Larry Sanders Show,6,89
+Fawlty Towers,2,12
+El Chavo del Ocho,7,124
+Only Fools and Horses,9,63
+Still Game,9,63
+Gravity Falls,2,41
+3rd Rock From The Sun,6,139
+Soap,4,90
+Mind Your Language,4,42
+Flight of the Conchords,2,22
+My Name Is Earl,4,96
+Spaced,2,14
+Silicon Valley,6,53
+Mr Bean,1,15
+Two and a Half Men,12,261
+That '70s Show,8,200

@@ -1,0 +1,209 @@
+Trend,Season,Episode,Title,Year,Total Votes, Average Rating
+13,1,1,Pilot,2005,5,195,8.5
+11,1,2,Purple Giraffe,2005,3,919,8.2
+12,1,3,The Sweet Taste of Liberty,2005,3,718,8.2
+10,1,4,Return of the Shirt,2005,3,489,8.0
+9,1,5,Okay Awesome,2005,3,612,8.3
+11,1,6,The Slutty Pumpkin,2005,3,488,8.1
+11,1,7,Matchmaker,2005,3,287,7.7
+10,1,8,The Duel,2005,3,244,8.2
+11,1,9,Belly Full of Turkey,2005,3,247,8.1
+17,1,10,The Pineapple Incident,2005,4,938,9.2
+12,1,11,The Limo,2005,3,379,8.3
+10,1,12,The Wedding,2006,3,170,8.1
+9,1,13,Drumroll, Please,2006,3,584,8.7
+10,1,14,Zip, Zip, Zip,2006,3,078,8.2
+10,1,15,Game Night,2006,4,009,9.1
+9,1,16,Cupcake,2006,2,967,7.9
+9,1,17,Life Among the Gorillas,2006,2,945,7.7
+10,1,18,Nothing Good Happens After 2 AM,2006,3,245,8.5
+11,1,19,Mary the Paralegal,2006,3,523,8.8
+11,1,20,Best Prom Ever,2006,2,947,7.9
+10,1,21,Milk,2006,2,968,8.1
+12,1,22,Come On,2006,3,642,8.9
+10,2,1,Where Were We?,2006,2,941,8.2
+8,2,2,The Scorpion and the Toad,2006,2,874,8.2
+7,2,3,Brunch,2006,2,994,8.5
+8	2	4	Ted Mosby, Architect	2006	3,381	8.8
+9	2	5	World's Greatest Couple	2006	3,209	8.8
+7	2	6	Aldrin Justice	2006	2,879	8.1
+10	2	7	Swarley	2006	4,020	9.0
+9	2	8	Atlantic City	2006	2,814	8.0
+17	2	9	Slap Bet	2006	5,857	9.5
+7	2	10	Single Stamina	2006	2,865	8.2
+8	2	11	How Lily Stole Christmas	2006	2,843	8.1
+10	2	12	First Time in New York	2007	2,931	8.2
+10	2	13	Columns	2007	2,709	8.0
+7	2	14	Monday Night Football	2007	2,901	8.4
+7	2	15	Lucky Penny	2007	2,837	8.4
+9	2	16	Stuff	2007	2,976	8.5
+9	2	17	Arrivederci, Fiero	2007	2,926	8.3
+6	2	18	Moving Day	2007	2,703	8.1
+6	2	19	Bachelor Party	2007	2,848	8.4
+9	2	20	Showdown	2007	3,127	8.9
+7	2	21	Something Borrowed	2007	2,948	8.8
+8	2	22	Something Blue	2007	3,005	8.8
+12	3	1	Wait for It	2007	2,990	8.3
+8	3	2	We're Not from Here	2007	2,659	7.7
+8	3	3	Third Wheel	2007	2,765	8.1
+9	3	4	Little Boys	2007	2,658	7.8
+11	3	5	How I Met Everyone Else	2007	3,673	9.0
+8	3	6	I'm Not That Guy	2007	2,627	8.1
+7	3	7	Dowisetrepla	2007	2,661	8.0
+8	3	8	Spoiler Alert	2007	3,665	9.1
+7	3	9	Slapsgiving	2007	3,518	9.0
+6	3	10	The Yips	2007	2,701	8.0
+6	3	11	The Platinum Rule	2007	2,812	8.5
+8	3	12	No Tomorrow	2008	2,725	8.2
+9	3	13	Ten Sessions	2008	3,245	8.8
+8	3	14	The Bracket	2008	2,853	8.7
+10	3	15	The Chain of Screaming	2008	2,607	8.0
+11	3	16	Sandcastles in the Sand	2008	2,856	8.2
+10	3	17	The Goat	2008	2,626	8.2
+9	3	18	Rebound Bro	2008	2,592	8.1
+8	3	19	Everything Must Go	2008	2,597	7.8
+8	3	20	Miracles	2008	2,826	8.7
+10	4	1	Do I Know You?	2008	3,016	8.6
+9	4	2	The Best Burger in New York	2008	3,151	8.5
+9	4	3	I Heart NJ	2008	2,601	7.7
+9	4	4	Intervention	2008	3,092	8.8
+10	4	5	Shelter Island	2008	2,699	8.3
+11	4	6	Happily Ever After	2008	2,578	8.0
+12	4	7	Not a Father's Day	2008	2,526	7.8
+12	4	8	Woooo!	2008	2,703	8.1
+13	4	9	The Naked Man	2008	4,296	9.2
+11	4	10	The Fight	2008	2,672	8.3
+10	4	11	Little Minnesota	2008	2,638	8.1
+10	4	12	Benefits	2009	2,838	8.6
+10	4	13	Three Days of Snow	2009	2,802	8.5
+8	4	14	The Possimpible	2009	2,696	8.4
+10	4	15	The Stinsons	2009	2,746	8.3
+9	4	16	Sorry, Bro	2009	2,610	7.8
+8	4	17	The Front Porch	2009	2,706	8.4
+9	4	18	Old King Clancy	2009	2,489	7.7
+7	4	19	Murtaugh	2009	2,689	8.5
+8	4	20	Mosbius Designs	2009	2,511	7.7
+11	4	21	The Three Days Rule	2009	2,816	8.7
+12	4	22	Right Place Right Time	2009	2,611	8.2
+10	4	23	As Fast as She Can	2009	2,534	7.7
+11	4	24	The Leap	2009	2,981	8.8
+9	5	1	Definitions	2009	2,877	8.6
+9	5	2	Double Date	2009	2,592	8.1
+11	5	3	Robin 101	2009	2,680	8.4
+8	5	4	The Sexless Innkeeper	2009	2,720	8.0
+9	5	5	Duel Citizenship	2009	2,530	7.8
+6	5	6	Bagpipes	2009	2,453	7.8
+9	5	7	The Rough Patch	2009	2,591	7.8
+12	5	8	The Playbook	2009	5,539	9.4
+6	5	9	Slapsgiving 2: Revenge of the Slap	2009	2,673	8.0
+6	5	10	The Window	2009	2,600	8.1
+5	5	11	Last Cigarette Ever	2009	2,735	7.8
+8	5	12	Girls vs. Suits	2010	4,368	9.1
+7	5	13	Jenkins	2010	2,875	8.6
+5	5	14	Perfect Week	2010	3,104	8.9
+6	5	15	Rabbit or Duck	2010	2,569	8.0
+7	5	16	Hooked	2010	2,514	7.8
+6	5	17	Of Course	2010	2,807	8.3
+9	5	18	Say Cheese	2010	2,580	8.2
+7	5	19	Zoo or False	2010	2,514	7.6
+7	5	20	Home Wreckers	2010	2,505	7.9
+6	5	21	Twin Beds	2010	2,449	7.8
+6	5	22	Robots vs. Wrestlers	2010	2,595	8.2
+5	5	23	The Wedding Bride	2010	2,722	8.1
+8	5	24	Doppelgangers	2010	2,655	8.5
+8	6	1	Big Days	2010	2,749	8.2
+9	6	2	Cleaning House	2010	2,772	8.3
+7	6	3	Unfinished	2010	2,476	7.8
+8	6	4	Subway Wars	2010	2,853	8.6
+7	6	5	Architect of Destruction	2010	2,422	7.8
+7	6	6	Baby Talk	2010	2,433	7.7
+6	6	7	Canning Randy	2010	2,396	7.7
+8	6	8	Natural History	2010	2,513	8.1
+11	6	9	Glitter	2010	2,945	8.5
+12	6	10	Blitzgiving	2010	3,967	9.1
+8	6	11	The Mermaid Theory	2010	2,543	8.0
+9	6	12	False Positive	2010	2,503	8.2
+13	6	13	Bad News	2011	3,618	8.9
+9	6	14	Last Words	2011	2,986	8.6
+8	6	15	Oh Honey	2011	3,336	8.8
+5	6	16	Desperation Day	2011	2,445	8.1
+5	6	17	Garbage Island	2011	2,319	7.7
+5	6	18	A Change of Heart	2011	2,538	8.3
+4	6	19	Legendaddy	2011	2,679	8.3
+4	6	20	The Exploding Meatball Sub	2011	2,341	7.7
+5	6	21	Hopeless	2011	2,346	7.9
+4	6	22	The Perfect Cocktail	2011	2,357	7.9
+5	6	23	Landmarks	2011	2,297	7.8
+6	6	24	Challenge Accepted	2011	2,697	8.5
+8	7	1	The Best Man	2011	3,400	8.6
+5	7	2	The Naked Truth	2011	2,700	8.1
+7	7	3	Ducky Tie	2011	3,433	8.9
+6	7	4	The Stinson Missile Crisis	2011	2,559	8.1
+6	7	5	Field Trip	2011	2,424	7.5
+6	7	6	Mystery vs. History	2011	2,532	7.8
+6	7	7	Noretta	2011	2,528	7.7
+6	7	8	The Slutty Pumpkin Returns	2011	2,603	7.4
+6	7	9	Disaster Averted	2011	2,711	8.3
+7	7	10	Tick Tick Tick	2011	3,852	9.0
+7	7	11	The Rebound Girl	2011	2,577	8.0
+8	7	12	Symphony of Illumination	2011	3,469	8.8
+6	7	13	Tailgate	2012	2,572	7.8
+6	7	14	46 Minutes	2012	2,639	7.7
+8	7	15	The Burning Beekeeper	2012	2,798	7.3
+7	7	16	The Drunk Train	2012	2,637	8.1
+8	7	17	No Pressure	2012	2,780	8.4
+8	7	18	Karma	2012	2,448	8.0
+9	7	19	The Broath	2012	2,871	8.6
+5	7	20	Trilogy Time	2012	2,755	8.6
+7	7	21	Now We're Even	2012	2,366	8.0
+5	7	22	Good Crazy	2012	2,293	7.8
+5	7	23	The Magician's Code: Part 1	2012	2,776	8.5
+4	7	24	The Magician's Code: Part 2	2012	3,248	8.9
+8	8	1	Farhampton	2012	4,239	8.6
+7	8	2	The Pre-Nup	2012	2,793	7.4
+5	8	3	Nannies	2012	2,570	7.3
+7	8	4	Who Wants to Be a Godparent	2012	2,673	7.5
+6	8	5	The Autumn of Breakups	2012	2,646	7.5
+5	8	6	Splitsville	2012	2,437	7.6
+5	8	7	The Stamp Tramp	2012	2,367	7.4
+6	8	8	Twelve Horny Women	2012	2,436	7.5
+7	8	9	Lobster Crawl	2012	2,408	7.5
+8	8	10	The Over-Correction	2012	2,498	8.1
+8	8	11	The Final Page: Part One	2012	3,053	8.6
+13	8	12	The Final Page: Part Two	2012	5,660	9.4
+7	8	13	Band or DJ?	2013	2,572	7.9
+7	8	14	Ring Up!	2013	2,566	7.9
+7	8	15	P.S. I Love You	2013	2,967	8.2
+5	8	16	Bad Crazy	2013	2,377	7.6
+7	8	17	The Ashtray	2013	2,415	7.8
+8	8	18	Weekend at Barney's	2013	2,618	8.1
+8	8	19	The Fortress	2013	2,397	8.0
+12	8	20	The Time Travelers	2013	3,811	8.4
+6	8	21	Romeward Bound	2013	2,333	7.4
+10	8	22	The Bro Mitzvah	2013	3,125	8.7
+7	8	23	Something Old	2013	2,526	7.6
+7	8	24	Something New	2013	3,569	8.8
+4	9	1	The Locket	2013	3,314	7.8
+3	9	2	Coming Back	2013	2,900	7.7
+3	9	3	Last Time in New York	2013	2,757	7.6
+4	9	4	The Broken Code	2013	2,664	7.3
+4	9	5	The Poker Game	2013	2,649	7.2
+3	9	6	Knight Vision	2013	2,626	7.5
+4	9	7	No Questions Asked	2013	2,665	7.4
+4	9	8	The Lighthouse	2013	2,684	7.3
+3	9	9	Platonish	2013	3,080	8.3
+5	9	10	Mom and Dad	2013	2,798	6.7
+4	9	11	Bedtime Stories	2013	4,637	5.8
+4	9	12	The Rehearsal Dinner	2013	2,925	7.8
+4	9	13	Bass Player Wanted	2013	2,983	8.2
+5	9	14	Slapsgiving 3: Slappointment in Slapmarra	2014	4,705	5.9
+5	9	15	Unpause	2014	3,112	8.4
+14	9	16	How Your Mother Met Me	2014	8,482	9.5
+5	9	17	Sunrise	2014	3,265	8.2
+3	9	18	Rally	2014	2,691	8.0
+2	9	19	Vesuvius	2014	2,734	7.7
+5	9	20	Daisy	2014	3,036	8.5
+4	9	21	Gary Blauman	2014	3,129	8.3
+5	9	22	The End of the Aisle	2014	4,032	8.9
+11	9	23	Last Forever: Part One	2014	8,915	6.7
+23	9	24	Last Forever: Part Two	2014	16,387	5.5
